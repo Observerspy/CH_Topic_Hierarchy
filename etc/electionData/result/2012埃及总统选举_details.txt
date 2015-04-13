@@ -1,0 +1,30 @@
+ID	TOPIC	LEVEL	PRE	CHILD	TEXT
+0	2012埃及总统选举	1	-1	[1, 2, 3, 4, 5, 6, 7, 8]
+﻿{{Infobox Election
+'''2012年埃及总统选举'''于2012年[[5月23日]]、[[5月24日]]举行，若第一轮投票中没有任何一人获得50%的得票率，则将于同年[[6月16日]]与[[6月17日]]举行第二轮投票<ref>{{cite news| url=http://www.boston.com/news/world/middleeast/articles/2012/02/29/egypt_sets_may_23_24_for_presidential_election/ | work=The Boston Globe | first=Maggie | last=Michael | title=Egypt sets May presidential election | date=29 February 2012}}</ref>。这次选举是埃及历史上继2005年总统选举后的又一次有多人参与的总统选举，也是[[2011年埃及革命]]后的首次总统选举。
+首轮计票结果显示，[[穆斯林兄弟会]]的候选人[[Mohamed Morsy|穆尔西]]获得24.78%的得票率，曾任空军总长的前总理[[Ahmed Shafik|沙菲克]]获得23.66%得票率<ref name="首轮结果"/>，得票最高的这两人将进入第二轮选举<ref>{{cite web|url=http://www.zaobao.com/gj/gj120527_009.shtml | language= | title=军人和兄弟会领先总统初选 埃及人担心民主开倒车 |publisher=联合早报 |date=2012-05-27 |accessdate= }}</ref>。而之前民意很高的前[[阿盟]]秘书长[[阿穆尔?穆萨]]得票率仅为11.13%，穆斯林兄弟会前成员[[阿卜杜勒?穆奈姆?阿布福图]]得票率为17.47%。
+当地时间[[6月24日]]16点，埃及最高总统选举委员会主席苏尔坦公布穆尔西以51.73%的支持率击败48.24%得票率的沙菲克，当选埃及总统。
+
+1	选举规则	2	0	[]
+2012年[[1月30日]]，本次选举规则正式发布，其规定候选人必须是埃及出生的埃及公民，其父母也都是埃及公民；不能具有[[双重国籍]]，其配偶不能是外国人；要获得提名资格须至少得到30名国会议员或3万个有投票资格的选民支持<ref>{{cite news| url=http://www.bbc.co.uk/news/world-middle-east-16785829 |work=BBC News | title=Egypt sets presidential election rules | date=30 January 2012}}</ref>。
+候选人从[[3月10日]]起开始登记报名<ref>{{cite web|url=http://english.ahram.org.eg/NewsContent/1/64/33870/Egypt/Politics-/Official-Presidential-candidacy-registration-proce.aspx |title=Official: Presidential candidacy registration process to begin 10 March |publisher=Ahram Online |date=6 February 2012 |accessdate=11 May 2012}}</ref>，报名截止日期为[[4月8日]]下午2点<ref>https://www.elections.eg/images/docs/Schedule.pdf</ref>。
+
+2	正式候选人	2	0	[]
+本次选举共有23人参与报名以竞选角逐总统一职<ref name=official_candidates>{{cite web|title=????????? ?????? ?????? ??????? ??? ??????? 2012|url=https://www.elections.eg/index.php/candidacy/applicants|publisher=Election comity}}</ref>。最终符合资格、参加选举的候选人是12人<ref>{{cite news|title=5 ???? ???????, ??? ???? ?? ?????? ?????|url=http://www.haaretz.co.il/news/world/1.1710900}}</ref><ref name="drop">http://allafrica.com/stories/201205170115.html</ref>。
+(他受到Al-Nour Party<ref>{{cite news|title=Nour Party endorses Abouel Fotouh for president|url=http://www.egyptindependent.com/news/nour-party-endorses-abouel-fotouh-president|newspaper=Al-Masry Al-Youm|date=28/04/2012}}</ref>、Al-Wasat Party<ref>{{cite news|title=Egypt's Wasat Party endorses Abul-Fotouh presidential bid|url=http://english.ahram.org.eg/NewsContent/36/122/40475/Presidential-elections-/Presidential-elections-news/Egypts-Wasat-Party-endorses-AbulFotouh-presidentia.aspx|newspaper=Ahram Online|date=30 April 2012}}</ref>和[[埃及潮流党]]的支持)
+
+3	民意调查	2	0	[]
+
+4	结果	2	0	[]
+
+5	参见	2	0	[]
+
+6	参考资料	2	0	[]
+
+7	扩展阅读	2	0	[]
+
+8	外部连接	2	0	[]
+[[Category:2012年选举|Egypt]]
+[[Category:2012年埃及|Presidential Election]]
+[[Category:埃及选举]]
+

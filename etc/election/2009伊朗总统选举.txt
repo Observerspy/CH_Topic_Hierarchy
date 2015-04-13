@@ -1,0 +1,88 @@
+﻿{{noteTA
+|1=zh-hans:艾哈迈迪内贾德;zh-hant:艾迈迪内贾;zh-tw:阿马丁雅;zh-hk:艾哈迈迪内贾德;zh-mo:艾哈迈迪内贾德;
+|2=zh-hans:穆萨维;zh-hant:莫沙维;zh-tw:穆萨维;
+|3=zh-hans:马哈茂德?艾哈迈迪内贾德;zh-hant:马哈茂德?艾迈迪内贾;zh-tw:马哈茂德?阿马丁雅;zh-hk:马哈茂德?艾哈迈迪内贾德;zh-mo:马哈茂德?艾哈迈迪内贾德;
+}}
+{{Infobox Election
+|election_name = 2009年伊朗总统选举
+|country = Iran
+|type = presidential
+|ongoing = no
+|party_colour = no
+|previous_election = 2005年伊朗总统选举
+|previous_year = 2005
+|next_election = 2013年伊朗总统选举
+|next_year = 2013
+|election_date = 2009年6月12日
+|image1 = [[File:Mahmoud Ahmadinejad.jpg|100px]]
+|colour1 = ff7070
+|nominee1 = [[马哈茂德?艾哈迈迪内贾德|马哈茂德?阿马丁雅]]
+|party1 = 
+|popular_vote1 = '''24,527,516'''
+|percentage1 = '''62.63%'''
+|image2 = [[File:Mir Hossein Mousavi in Zanjan by Mardetanha.jpg|89px]]
+|colour2 = 28c0a6
+|nominee2 = [[米尔-海珊?穆萨维]]
+|party2 = 
+|popular_vote2 = 13,216,411
+|percentage2 = 33.75%
+|image3 = [[File:Mohsen Rezaee.jpg|100px]]
+|colour3 = 8080ff
+|nominee3 = [[莫森?雷扎伊]]
+|party3 = 
+|popular_vote3 = 678,240
+|percentage3 = 1.73%
+|title=总统
+|image4 = [[File:Karubi in zanjan.jpg|88px]]
+|colour4 = D36E04
+|nominee4 = [[梅迪?卡鲁比]]
+|party4 = 
+|popular_vote4 = 333,635
+|percentage4 = 0.85%
+|before_election= [[马哈茂德?艾哈迈迪内贾德|马哈茂德?阿马丁雅]]
+|before_party= 
+|after_election= [[马哈茂德?艾哈迈迪内贾德|马哈茂德?阿马丁雅]]
+|after_party = 
+}} 
+'''2009年伊朗总统选举'''是[[伊朗伊斯兰共和国]]第10届总统选举，于[[2009年]][[6月12日]]举行，由竞选连任的总统[[马哈茂德?艾哈迈迪内贾德]]获胜。根据选举委员会的数字，艾哈迈迪内贾德赢得了大约62%的选票，其主要竞选对手、前总理[[米尔-侯赛因?穆萨维|穆萨维]]的得票率为将近34%。穆萨维阵营指控有投票违规现象，并由此在国内引发[[伊朗绿色革命|严重骚乱]]。
+
+== 候选人 ==
+* [[马哈茂德?艾哈迈迪内贾德]]：[[伊朗总统]]，保守派人士
+* [[米尔-侯赛因?穆萨维|穆萨维]]：前[[伊朗总理]]，改革派人士
+* [[雷扎伊]]：前[[伊斯兰革命卫队|伊朗革命卫队]]领导，强硬派人士
+* [[卡鲁比]]：前[[伊朗议会议长]]
+
+== 选举结果 ==
+官方的选举结果显示内贾德获得2400万选票，而穆萨维获得1300万票。挑战者雷扎伊和卡鲁比则遥遥落后，都没有超过100万票。结果公布之后，伊朗内部的反对派和很多关注伊朗局势的国际人士一片哗然。抗议者在[[德黑兰]]街头与警察发生冲突，焚烧轮胎，投掷石块。这是德黑兰十年前发生学生骚乱以来最严重的暴力活动。
+
+伊朗内政部长马赫苏利称选举结果清白，穆萨维称选举结果是“令人诧异的”，并且谴责政府操纵选举。<ref>[http://www.voanews.com/chinese/w2009-06-13-voa58.cfm]</ref>
+
+== 抗议示威 ==
+{{main|伊朗绿色革命}}
+这次骚乱被伊朗改革派和外国媒体称为“绿色革命”。<ref>[http://news.ifeng.com/world/special/yilangdaxuan/conmments/200906/0615_6908_1202855.shtml]</ref>
+
+成千上万支持改革派领导人穆萨维的人在德黑兰街头举行第三天的示威活动，抗议宣布总统内贾德获胜的选举结果。
+
+据[[美联社]]的一位摄影记者报导，在集会将要结束的时候，他在革命广场看到一个人中弹而死，另有几个人严重受伤。目击者说枪声来自巴斯基宗教民兵的大院，他们和伊朗革命卫队有关。<ref>[http://www.voanews.com/chinese/w2009-06-15-voa77.cfm]</ref>
+
+== 国际反应 ==
+[[欧盟]]对据称伊朗选举中存在舞弊现象表示关注，但希望选举结果将导致恢复有关[[伊朗核问题|伊朗有争议的核项目]]的对话。欧盟发表声明说，欧盟轮值主席期待伊朗新政府履行自己的国际义务。
+
+[[以色列]]外长利伯曼说，内贾德的获胜意味着国际社会必须以不妥协的方式采取行动，防止伊朗成为拥有核武器的国家，制止伊朗支持恐怖主义组织，并制止伊朗破坏中东稳定。
+
+[[阿拉伯国家联盟]]秘书长穆萨对内贾德表示祝贺，并表示希望改善伊朗与阿拉伯世界的关系。<ref>[http://www.voanews.com/chinese/n2009-06-14-voa10.cfm]</ref>
+
+== 外部链接 ==
+* 波士顿环球报图片报道：[http://www.boston.com/bigpicture/2009/06/irans_presidential_election.html Iran's Presidential Election] [http://www.boston.com/bigpicture/2009/06/irans_disputed_election.html Iran's Disputed Election] [http://www.boston.com/bigpicture/2009/06/irans_continued_election_turmo.html Iran's continued election turmoil]
+== 参考文献 ==
+{{reflist}}
+== 参见 ==
+* [[伊朗绿色革命]]
+
+{{VOA}}
+{{伊朗小作品}}
+
+[[Category:2009年选举]]
+[[Category:伊朗总统选举]]
+[[Category:2009年伊朗]]
+[[Category:2009年6月]]

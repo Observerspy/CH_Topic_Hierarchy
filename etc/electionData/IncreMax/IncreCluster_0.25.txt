@@ -1,0 +1,235 @@
+clustering:
+cluster id: 0concept: 
+参选人员#
+cluster id: 1concept: 
+国际反应#各方反应#
+cluster id: 2concept: 
+选举时间#
+cluster id: 3concept: 
+民主统合党#
+cluster id: 4concept: 
+合格选民#选民资格#
+cluster id: 5concept: 
+时间表#
+cluster id: 6concept: 
+电视辩论#
+cluster id: 7concept: 
+初选#重要日程#大选日程#选举日程安排#
+cluster id: 8concept: 
+选举新闻#
+cluster id: 9concept: 
+影响#
+cluster id: 10concept: 
+参选政党#其他政党#主要第三政党候选人#其他政党和独立候选人#
+cluster id: 11concept: 
+投票过程#大选过程#
+cluster id: 12concept: 
+在野党总统候选人单一化问题#
+cluster id: 13concept: 
+媒体报道#
+cluster id: 14concept: 
+参选人#获提名人#
+cluster id: 15concept: 
+下议院组成#人员组成#
+cluster id: 16concept: 
+选举日期争议#
+cluster id: 17concept: 
+监督#
+cluster id: 18concept: 
+个人自由党#
+cluster id: 19concept: 
+影响大选因素#
+cluster id: 20concept: 
+选举人权责#
+cluster id: 21concept: 
+示威者与反政府者#
+cluster id: 22concept: 
+众院权大#
+cluster id: 23concept: 
+注册候选人#潜在候选人#正式候选人#总统候选人#
+cluster id: 24concept: 
+选举流程#
+cluster id: 25concept: 
+结果#
+cluster id: 26concept: 
+选举胜利#
+cluster id: 27concept: 
+选举人团的变化#选举人票比较#选举人团制度#
+cluster id: 28concept: 
+选举准备状况#
+cluster id: 29concept: 
+预算#
+cluster id: 30concept: 
+其他候选人#
+cluster id: 31concept: 
+参选情况#
+cluster id: 32concept: 
+议题#
+cluster id: 33concept: 
+部署警察#
+cluster id: 34concept: 
+国内#
+cluster id: 35concept: 
+新世界党#新国家党#
+cluster id: 36concept: 
+历任总统#选出总统#
+cluster id: 37concept: 
+候选人资格#选举资格#
+cluster id: 38concept: 
+本次大选特色#
+cluster id: 39concept: 
+选民登记工作#
+cluster id: 40concept: 
+大选前期#
+cluster id: 41concept: 
+全民投票#
+cluster id: 42concept: 
+颂猜态度#
+cluster id: 43concept: 
+选举法#
+cluster id: 44concept: 
+大选动态#
+cluster id: 45concept: 
+大选辩论#
+cluster id: 46concept: 
+数据#
+cluster id: 47concept: 
+民意调查#选前民意调查#
+cluster id: 48concept: 
+选举#
+cluster id: 49concept: 
+集会洒泪#
+cluster id: 50concept: 
+选民观点#
+cluster id: 51concept: 
+内阁制度#
+cluster id: 52concept: 
+总统副总统候选人#
+cluster id: 53concept: 
+选举规则#
+cluster id: 54concept: 
+选举准备#
+cluster id: 55concept: 
+主要候选人#
+cluster id: 56concept: 
+十大看点#
+cluster id: 57concept: 
+终极对决#
+cluster id: 58concept: 
+相关人士的态度#
+cluster id: 59concept: 
+投票权#
+cluster id: 60concept: 
+正式拉票活动#
+cluster id: 61concept: 
+自民党#
+cluster id: 62concept: 
+党内大会#
+cluster id: 63concept: 
+选情进展#
+cluster id: 64concept: 
+总结#
+cluster id: 65concept: 
+历史影响#
+cluster id: 66concept: 
+选举委员会#
+cluster id: 67concept: 
+上届选举#首相选举#
+cluster id: 68concept: 
+分析#
+cluster id: 69concept: 
+大选花费#
+cluster id: 70concept: 
+主要议题#
+cluster id: 71concept: 
+获胜者#
+cluster id: 72concept: 
+选举结果#
+cluster id: 73concept: 
+候选人#
+cluster id: 74concept: 
+退出者#
+cluster id: 75concept: 
+共和党#
+cluster id: 76concept: 
+社会现状#
+cluster id: 77concept: 
+大选特点#
+cluster id: 78concept: 
+竞选宣言#
+cluster id: 79concept: 
+影响因素#
+cluster id: 80concept: 
+大选信息#
+cluster id: 81concept: 
+预备候选人#
+cluster id: 82concept: 
+维新会#
+cluster id: 83concept: 
+候选人竞选#
+cluster id: 84concept: 
+全国代表大会#
+cluster id: 85concept: 
+结局预测#大选预测#
+cluster id: 86concept: 
+各省投票#
+cluster id: 87concept: 
+选举制度#
+cluster id: 88concept: 
+旅游警示#
+cluster id: 89concept: 
+选举情况#
+cluster id: 90concept: 
+国际#
+cluster id: 91concept: 
+被选举权#
+cluster id: 92concept: 
+选举基本情况#
+cluster id: 93concept: 
+反应#
+cluster id: 94concept: 
+以往回顾#
+cluster id: 95concept: 
+民主党#
+cluster id: 96concept: 
+禁酒党#
+cluster id: 97concept: 
+大选对外影响#
+cluster id: 98concept: 
+各州统计#
+cluster id: 99concept: 
+独立候选人#
+cluster id: 100concept: 
+主要候选#
+cluster id: 101concept: 
+无在位候选人#官方候选人#
+cluster id: 102concept: 
+预选#
+cluster id: 103concept: 
+新闻文章#
+cluster id: 104concept: 
+大选结论#
+cluster id: 105concept: 
+变化#
+cluster id: 106concept: 
+对华态度#
+cluster id: 107concept: 
+胜利演讲#
+cluster id: 108concept: 
+审查#
+cluster id: 109concept: 
+过程#
+cluster id: 110concept: 
+背景#
+cluster id: 111concept: 
+时间线#
+cluster id: 112concept: 
+内阁人选#
+cluster id: 113concept: 
+抗议示威#
+cluster id: 114concept: 
+观察#
+cluster id: 115concept: 
+大选背景#
+cluster id: 116concept: 
+选举舞弊#

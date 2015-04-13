@@ -1,0 +1,19 @@
+ID	TOPIC	LEVEL	PRE	CHILD	TEXT
+0	2014土耳其总统选举	1	-1	[1, 2, 3, 4, 5]
+﻿{{Infobox election
+'''2014年[[土耳其总统]]选举'''于2014年8月10日举行<ref>{{cite web |url=http://www.reuters.com/article/2014/03/07/us-turkey-election-idUSBREA2610R20140307 |title=Turkey sets Aug 10 for presidential election: source |accessdate=2014-03-21 |publisher=}}</ref>，现任总理[[埃尔多安]]以51.71%的得票率赢得本次选举。70岁的学者、[[伊斯兰合作组织]](OIC)前秘书长{{link-en|埃克梅莱丁?伊赫萨诺卢|Ekmeleddin Ihsanoglu}}得票率约38.56%，[[库尔德族]]候选人{{link-en|萨拉丁?德米尔塔什|Selahattin Demirtas}}获9.72%选票。<ref >{{cite web|url=http://j.news.163.com/docs/1/2014081108/A3BT1KTE00254TI5.html | language= | title=埃尔多安料将从土耳其大选胜出 或成“强人总统” |publisher= 中国新闻网 |date=2014-08-11 |accessdate= }}</ref>
+
+1	背景	2	0	[]
+土耳其总统原由[[土耳其大国民议会|国会]]选出，任期为七年，不得连任。2007年10月21日，土耳其[[全民公决]]通过宪法修正案，将总统从[[间接选举]]改为[[全民直选]]，任期自2014年起由7年降至5年，可以连任一届。因此这是土耳其首次总统直接选举，采用[[两轮投票制]]——候选人若在8月10日的第一轮投票中，没有获得绝对多数票；那么得票数最多的两名候选人，将在8月24日的第二轮中再次竞争。本次选举有约近5300万选民，全国各地设有超过16万个投票点。
+
+2	候选人	2	0	[]
+[[File:Washington'da cumhurba?kanl??? se?imi, 2014 (4).jpg|缩略图|正在投票的民众]]
+
+3	选举结果	2	0	[]
+
+4	参考资料	2	0	[]
+
+5	外部链接	2	0	[]
+[[Category:2014年选举]]
+[[Category:2014年土耳其]]
+

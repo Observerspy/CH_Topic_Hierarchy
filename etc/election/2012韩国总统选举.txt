@@ -1,0 +1,305 @@
+﻿{{Infobox Election
+|election_name      = 2012年大韩民国总统选举
+|country            = Republic of Korea
+|type               = presidential
+|ongoing            = no
+|previous_election  = 2007年大韩民国总统选举
+|previous_year      = 2007
+|next_election      = 2017年大韩民国总统选举
+|next_year          = 2017
+|election_date      = 2012年12月19日
+|image1 = [[File:Park Geun-hye (8724400493) (cropped).jpg|x170px]]
+|nominee1 =[[朴槿惠]]
+|party1 = 新世界党
+|popular_vote1 =15,773,128
+|percentage1 =51.56%
+|image2 =
+{{{!}} style="width:100%; height:150px"
+{{!}}-
+{{!}}style="vertical-align:middle; text-align:center; color:FAC71A; font-size:38px"{{!}}'''DUP'''
+{{!}}}
+|image2 = [[File:Moon Jae-in (1).jpg|x170px]]
+|nominee2 =[[文在寅]]
+|party2 =民主统合党
+|popular_vote2 =14,692,632
+|percentage2 =48.02%
+| map_image =South Korean presidential election 2012.svg
+| map_size = 350px
+| map_caption =选举得票图{{legend|#CC3333|朴槿惠胜出选区}}{{legend|#FFBC00|文在寅胜出选区}}
+|title=总统
+|before_election=[[李明博]]
+|before_party=新国家党
+|after_election=[[朴槿惠]]
+|after_party =新世界党
+}}
+{{韩国政治}}
+'''第18届大韩民国总统选举'''于[[2012年]][[12月19日]]举行，此次选举是第11次[[韩国总统]][[直接选举|直选]]，共有6组候选人参选。[[新世界党]]候选人、前总统[[朴正熙]]长女、前党首[[朴槿惠]]当选韩国总统<ref> [http://world.kbs.co.kr/chinese/news/news_Po_detail.htm?No=38225&id=Po 朴槿惠成功当选第18届总统，成为韩国首任女总统]</ref><ref>http://chinese.yonhapnews.co.kr/domestic/2012/12/20/0401000000ACK20121220000600881.HTML|publisher=[[韩联社]]|date=2012-12-20|language=zh-hans}}</ref>，她是韩国1987年民主化以来，首位在选举中得票过半的总统，而新世界党同时延续其执政地位。
+
+==选举基本情况==
+===选举日程安排===
+* 4月23日：预备候选人注册
+*7月22日～10月20日：国外不在籍及在外选举登记申请
+*10月31日～11月9日：在外选举人名单等制作
+*11月25日～26日：候补报名申请（上午9时～下午6时）
+* 12月5日～12月10日：在外投票所投票（上午8时～下午6时）
+* 12月13日～14日：候选人不到现场的投票所投票
+* 12月19日：投票（上午6时～下午6时），投票结束后开票。<ref>[http://info.nec.go.kr/main/showDocument.xhtml?electionId=0020121219&topMenuId=BI&secondMenuId=BIES01 ????]</ref>
+
+===投票权===
+必须为年满19岁的韩国国民方有权力参加总统选举的投票。
+===被选举权===
+必须为在2012年12月19日或之前已年满40岁的韩国公民方有权注册成为总统候选人。
+
+==预备候选人==
+===新世界党===
+[[新世界党]]共有五人参与党内初选。在8月20日进行的党内初选中，[[朴槿惠]]以超过80%的党内支持率胜出，代表新世界党参与本次总统选举。<ref>{{cite news|url=http://english.kbs.co.kr/News/News/News_view.html?No=92615&id=Po|title=Park Geun-hye Elected Saenuri Party's Presidential Candidate|publisher=KBS Global|date=August 20, 2012}}.</ref>
+{| class="wikitable"  style="float: margin:10px"
+|- style="background:#eee;"
+| style="padding:10px; text-align:center; width:98px;"| '''候选人'''
+| style="padding:10px; text-align:center; width:98px;"| '''当选情况'''
+| style="padding:10px; text-align:center; width:98px;"| '''得票率'''
+| style="padding:10px; text-align:center; width:150px;"| '''得票数'''
+|-
+| style="width:90px; padding:2px 0 6px; font:13px georgia,arial; text-align:center;"| [[朴槿惠]]
+| style="background:#BF1920; text-align:center"| '''获提名'''
+| style="width:90px; padding:2px 0 6px; text-align:center;"| '''83.97%'''
+| style="width:90px; padding:2px 0 6px; text-align:center;"| 86,589
+|-
+| style="width:90px; padding:2px 0 6px; font:13px georgia,arial; text-align:center;"| [[金文洙]]
+| style="background:silver;; text-align:center"| 落选
+| style="width:90px; padding:2px 0 6px; text-align:center;"| 8.68%
+| style="width:90px; padding:2px 0 6px; text-align:center;"| 8,955
+|- 
+| style="width:90px; padding:2px 0 6px; font:13px georgia,arial; text-align:center;"| [[金台镐]]
+| style="background:silver;; text-align:center"| 落选
+| style="width:90px; padding:2px 0 6px; text-align:center;"| 3.20% 
+| style="width:90px; padding:2px 0 6px; text-align:center;"| 3,298
+|- 
+| style="width:90px; padding:2px 0 6px; font:13px georgia,arial; text-align:center;"| [[任太熙]]
+| style="background:silver;; text-align:center"| 落选
+| style="width:90px; padding:2px 0 6px; text-align:center;"| 2.69%
+| style="width:90px; padding:2px 0 6px; text-align:center;"| 2,676
+|-
+| style="width:90px; padding:2px 0 6px; font:13px georgia,arial; text-align:center;"| [[安相洙]]
+| style="background:silver;; text-align:center"| 落选
+| style="width:90px; padding:2px 0 6px; text-align:center;"| 1.55%
+| style="width:90px; padding:2px 0 6px; text-align:center;"| 1,600
+|}
+
+===民主统合党===
+民主统合党有四人参加党内初选。（朴晙莹在初选前退出。）在9月16日进行的党内初选中，[[文在寅]]获胜，被推举为该党的总统候选人。<ref>{{cite web|title=Moon Jae-in Elected DUP's Presidential Candidate|url=http://english.kbs.co.kr/News/News/News_view.html?page=1&No=93232&id=Po|publisher=KBS Global|accessdate=17 September 2012}}</ref>
+{| class="wikitable"  style="float: margin:10px"
+|- style="background:#eee;"
+| style="padding:10px; text-align:center; width:98px;"| '''候选人'''
+| style="padding:10px; text-align:center; width:98px;"| '''当选情况'''
+| style="padding:10px; text-align:center; width:98px;"| '''得票率'''
+| style="padding:10px; text-align:center; width:150px;"| '''得票数'''
+|-
+| style="width:90px; padding:2px 0 6px; font:13px georgia,arial; text-align:center;"| [[文在寅]]
+| style="background:gold; text-align:center"| '''获提名'''
+| style="width:90px; padding:2px 0 6px; text-align:center;"| '''56.5%'''
+| style="width:90px; padding:2px 0 6px; text-align:center;"| 347,183
+|-
+| style="width:90px; padding:2px 0 6px; font:13px georgia,arial; text-align:center;"| [[孙鹤圭]]
+| style="background:silver;; text-align:center"| 落选
+| style="width:90px; padding:2px 0 6px; text-align:center;"| 22.2%
+| style="width:90px; padding:2px 0 6px; text-align:center;"| 136,205
+|- 
+| style="width:90px; padding:2px 0 6px; font:13px georgia,arial; text-align:center;"| [[金斗官]]
+| style="background:silver;; text-align:center"| 落选
+| style="width:90px; padding:2px 0 6px; text-align:center;"| 14.3%
+| style="width:90px; padding:2px 0 6px; text-align:center;"| 87,842
+|- 
+| style="width:90px; padding:2px 0 6px; font:13px georgia,arial; text-align:center;"| [[丁世均]]
+| style="background:silver;; text-align:center"| 落选
+| style="width:90px; padding:2px 0 6px; text-align:center;"| 7.0%
+| style="width:90px; padding:2px 0 6px; text-align:center;"| 43,027
+|}
+
+===其他政党和独立候选人===
+*7月，[[统合进步党]]成员[[李正姬]]宣布参选。<ref>{{cite news|last=?|first=??|title=???? ?? ?? ?? ???|url=http://news.kbs.co.kr/politics/2012/09/25/2541633.html|accessdate=25 September 2012|newspaper=Korea Broadcasting System|date=25 September 2012}}</ref>
+*9月19日，韩国安博士公司董事长[[安哲秀]]宣布参选。<ref>{{cite news |title= 韩国大统领选　安氏が出马へ「国民の热望実现したい」 |author= |newspaper= 联合ニュース（日本语版）|date= 2012-09-19|url= http://japanese.yonhapnews.co.kr/Politics2/2012/09/19/0900000000AJP20120919003400882.HTML|accessdate=2012-09-19}}</ref>
+*此外，还有[[新国家党]]的[[李在五]]，[[进步正义党]]的[[沈相奵]]，以及无党籍的朴光洙、朴钟善、姜智远、李健介、金顺子、金昭延等人宣布参选，并进行了预备注册。<ref>[http://info.nec.go.kr/electioninfo/electionInfo_report.xhtml?electionId=0020121219&requestURI=%2Felectioninfo%2F0020121219%2Fpc%2Fpcri03_ex.jsp&topMenuId=PC&secondMenuId=PCRI03&menuId=&statementId=PCRI03_%231&electionCode=1&cityCode=-1&sggCityCode=-1&x=37&y=18 韩国中央选举委员会网站]</ref>
+
+===在野党总统候选人单一化问题===
+由于民主统合党候选人[[文在寅]]和无党籍候选人[[安哲秀]]目前的民调支持率都只有20%左右，难以战胜执政的[[新国家党]]候选人[[朴槿惠]]，所以，为了团结在野政治势力，赢得本次大选，文在寅和安哲秀从11月起开始讨论“候选人单一化问题”<ref>{{cite news |title= 文在寅安哲秀决定在总统候选人登记前实现单一化 |author= |newspaper= kbs中文网|date= 2012-11-06|url= http://world.kbs.co.kr/chinese/news/news_Po_detail.htm?lang=c&id=Po&No=37698&current_page=4}}</ref>，并准备发表《新政治共同宣言》，但因为种种原因，双方的协商一度在14日停止<ref>{{cite news |title= 安哲秀方面宣布，停止总统单一化协商 |author= |newspaper= kbs中文网|date= 2012-11-14|url= http://world.kbs.co.kr/chinese/news/news_Po_detail.htm?lang=c&id=Po&No=37797&current_page=4}}</ref>。而为了恢复和加快双方的协商，18日，民主统合党中央[[李海瓒]]等人宣布辞职<ref>{{cite news |title= 民主统合党代表和最高委员全部辞退 |author= |newspaper= KBS中文网|date= 2012-11-18|url= http://world.kbs.co.kr/chinese/news/news_Po_detail.htm?lang=c&id=Po&No=37839&current_page=}}</ref>，文在寅也表示将交由安哲秀决定一体化方案<ref>{{cite news |title= 文在寅：将交由安哲秀决定一体化方案 |author= |newspaper= 韩联网|date= 2012-11-18|url= http://chinese.yonhapnews.co.kr/domestic/2012/11/18/0401000000ACK20121118000900881.HTML}}</ref>，并希望能够尽快重启协商。19日，文在寅和安哲秀进行了会晤，会后双方发表了《新政治共同宣言》<ref>{{cite news |title= 文在寅和安哲秀发表新政治共同宣言 |author= |newspaper= 韩联网|date= 2012-11-19|url= http://chinese.yonhapnews.co.kr/domestic/2012/11/19/0401000000ACK20121119000600881.HTML}}</ref>。23日，安哲秀召开记者会宣布退选，称文在寅是在野党唯一的候选人，并希望国民全力支持文在寅。<ref>{{cite news |title= 安哲秀宣布退出第18届韩国总统选举 |author= |newspaper= 韩联网|date= 2012-11-23|url= http://chinese.yonhapnews.co.kr/domestic/2012/11/23/0401000000ACK20121123002500881.HTML}}</ref>
+
+==注册候选人==
+*最终注册参选者共7人，比预备注册的候选人要少5人。
+*政党推荐的候选人的编号根据所属政党国会席次的多少，从高到低排列。（目前在[[韩国国会]]，新国家党有154席，民主统合党127席，统合进步党6席）
+*无党籍候选人的编号则为随机排列。
+{|class="wikitable"
+|-
+|+
+!编号
+! style="white-space:nowrap" |候选者姓名
+!性别
+!年齢
+!所属政党
+!职业
+!经历
+!备注
+|-
+|1
+|[[朴槿惠]]<br />???
+| style="white-space:nowrap" |女性
+|60
+|[[新世界党]]　
+|政治家
+|
+* 15～19届国会议员
+* 前?新国家党非常対策委员长
+|属[[保守主义]]阵营
+|-
+|2
+|[[文在寅]]<br />???
+|男性
+|59
+| style="white-space:nowrap" |民主统合党
+| style="white-space:nowrap" |国会议员、民主统合党党魁
+|
+* 前?卢武铉财团理事长
+* 现?第19届国会议员
+|得到[[进步正义党]]和[[安哲秀]]阵营等部分[[自由主义]]、[[进步主义]]政治势力支持
+|-
+|3
+|[[李正姬]]<br />???
+|女性
+|42
+|[[统合进步党]]
+|律师
+|
+* 前?第18代国会议员
+* 前?统合进歩党共同代表
+|属[[进步主义]]阵营''';'''12月16日宣布退选
+|-
+|4
+|朴钟善<br />???
+|男性
+|84
+|无党籍
+|无业
+|
+* 前? 三峡企划株式会社社长
+|
+|-
+|5
+|金昭延<br />???
+|女性
+|42
+|无党籍
+|普通工人
+|
+* 前?  前金属工会分会长        
+* 现? “没有非正式员工世界网络”执行委员
+|得到部分[[进步新党]]等[[社会民主主义]]政治势力的支持
+|-
+|6
+|姜智远<br />???
+|男性
+|63
+|无党籍
+|律师
+|
+* 前? 青少年保护委员会委员长
+* 前? 韩国Manifesto实践本部常任代表
+|
+|-
+|7
+|金順子<br />???
+|女性
+|57
+|无党籍
+|清洁工人
+|
+* 现?民主劳总工会蔚山地区分会长
+* 前?第19届国会议员选举进步新党比例代表候选人
+|得到部分[[进步新党]]等[[社会民主主义]]政治势力的支持
+|-
+|}
+
+
+== 选举结果 ==
+[[File:PESK2012 RESULT MAP ZH.png|thumb|right|400px|选举结果简易图
+{{legend|#CC3333|朴槿惠胜出选区}}{{legend|#FFBC00|文在寅胜出选区}}]]
+{| class="wikitable sortable"
+|-
+!得票排名
+!编号 !!姓名
+!党派
+!class=unsortable|得票数
+!class=unsortable|得票百分比
+!class=unsortable|备注
+|-
+!1
+|align=center | 1||[[朴槿惠]]
+|新世界党
+|align=right|'''15,770,910'''
+|align=right|'''51.56%'''
+|[[File:Presidential Standard of the Republic of Korea.svg|25px|]] '''当选'''
+|-
+!2
+|align=center | 2||[[文在寅]]
+|民主统合党
+|align=right|14,689,975
+|align=right|48.02%
+|
+|-
+!3
+|align=center | 6||[[姜智远]]
+|独立
+|align=right|53,299
+|align=right| 0.17%                                                             
+|
+|-
+!4
+|align=center | 7||[[金顺子]]
+|独立
+|align=right|46,010
+|align=right| 0.15%   
+|
+|-
+!5
+|align=center | 5||[[金昭延]]
+|独立
+|align=right|16,684
+|align=right| 0.055%   
+|
+|-
+!6
+|align=center | 4||[[朴钟善]]
+|独立
+|align=right|12,852
+|align=right|  0.044%   
+|
+|-
+!-
+|align=center | 3||[[李正姬]]
+|[[统合进步党]]
+|align=center |-
+|align=center |-
+|align=center|退选
+|- class="sortbottom"
+|colspan=4 style="text-align: center;"|总票数
+|30,589,730
+|align=right|99.999%(100%)
+|
+|}
+
+*上表中获得投票超过15％候选者的可获选举经费全额退款。
+
+==参考文献==	
+<references />
+== 参见 ==
+* [[大韩民国国家情报院总统选举介入事件]]
+
+==相关链接==
+*2012年大韩民国18届总统选举专题网站：
+**[http://vote.necpr.go.kr/ 韩国中央选举管理委员会]
+**[http://world.kbs.co.kr/chinese/event/election_2012/ KBS中文网]
+**[http://chinese.yonhapnews.co.kr/issue/0810000001.html 韩联社中文网]
+
+{{大韩民国选举}}
+[[Category:韩国总统选举]]
+[[Category:2012年选举]]
+[[Category:2012年韩国]]

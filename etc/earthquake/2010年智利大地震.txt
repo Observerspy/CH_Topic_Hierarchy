@@ -1,0 +1,161 @@
+﻿
+'''2010年智利大地震'''发生在[[智利]]中南部[[马乌莱大区]][[UTC-3|当地时间]][[2010年]][[2月27日]]3时34分（[[UTC]] 6时34分），[[震级]]最初报道为[[矩震级]]（Mw）8.3至8.5，后修正为8.8<ref>[http://earthquake.usgs.gov/earthquakes/recenteqsww/Quakes/us2010tfan.php USGS Magnitude 8.8 - OFFSHORE MAULE, CHILE]</ref>，是当地自[[1960年]][[1960年瓦尔迪维亚大地震|智利9.5大地震]]后震级最大的[[地震]]。此次地震[[震源]]深度35公里，[[震央]]位于智利第二大[[城市]][[康赛普西翁]]东北偏北方向115公里<ref>一说55/59.4/60公里</ref>、智利[[首都]][[圣地亚哥]]西南方向325公里处。智利首都圣地亚哥和[[阿根廷]]部分城市有震感。地震持续了约10至90秒。
+
+== 本次地震成因 ==
+[[智利]]西部沿海处于[[纳斯卡板块]]（Nasca Plate）和[[南美板块]]（South American Plate）之间的[[破坏性板块边界]]（Destructive Plate Boundary）之上。相对于稳定的南美版块，纳斯卡板块每年向东移动约8公分左右。其中超过一半左右的板块位移集中累积于板块交界浅部，使该区的板块边界发生缓慢于持续的地壳弹性变形。当所累积的地壳弹性变形超过岩石所能承受的强度时，南美版块即会沿板块交界面产生回弹作用，并引发地震。事实上有纪录以来最强的[[地震]]便是在这[[板块边界]]上发生。<ref>[http://www.hkvo.net/index.php?type=20100304_taiwanquake 香港民办天文台 - 2010智利地震专页]</ref>
+
+== 破坏情况 ==
+地震导致包括首都[[圣地亚哥]]在内的智利大部分地区水电、通讯及交通中断。根据[[美联社]]相关影像，圣地亚哥有房屋倒塌。地震造成最少1279人死亡或重伤，而死亡数字将继续上升。另外200万人可能流离失所。
+
+智利地震产生的地震波引发了[[南极洲]]的冰原地震，使得[[冰原]]发生断裂<ref>{{cite journal|author=Zhigang Peng|coauthors=Jacob I. Walter,Richard C. Aster,	 Andrew Nyblade,	 Douglas A. Wiens	 & Sridhar Anandakrishnan|title=Antarctic icequakes triggered by the 2010 Maule earthquake in Chile|journal=Nature Geoscience|year=2014|issue=7|pages=677–681|doi=10.1038/ngeo2212|url=http://www.nature.com/ngeo/journal/v7/n9/abs/ngeo2212.html}}</ref>。
+
+== 海啸 ==
+[[太平洋海啸警报中心]]先向智利和[[秘鲁]]发出[[海啸]]警报，后来警报范围扩大到[[厄瓜多尔]]、[[哥伦比亚]]、[[南极洲]]、[[巴拿马]]和[[哥斯达黎加]]，再扩大至环太平洋53个国家和地区，包括[[亚洲]]沿岸地区。曾经产生过最少十次[[海啸]]，威力不明，浪高最高达9呎（约合2.7432米），西太平洋[[法劳群岛]]受严重破坏<ref name='R1'>香港电台第一台2月27日晚上11:00新闻报道</ref>，海啸波及整个[[中美洲]]以及[[太平洋]]国家和地区，远至[[台湾]]，[[菲律宾]]，[[香港]]等地都受影响。随后在俄罗斯的[[堪察加半岛]]沿岸地区潮汐观测站记录到80厘米的异常增水，但并未造成破坏性影响。<ref>[http://www.reuters.com/article/idUSTRE61R0RO20100228-Tsunami Waves hit Russia, no damage reported, Reuters]</ref>而据[[日本气象厅]]的监测报告显示：北海道[[根室]]沿岸出现11英尺高的大浪。在附近离岸地区已经引发轻微水浸<ref>[http://www.rthk.org.hk/rthk/news/expressnews/news.htm?expressnews&20100228&55&650493- 海啸抵达日本北海道部份地区水浸]</ref>。
+
+{|class="wikitable sortable"
+|+海啸抵达数据<ref name="PTWC-index">[http://www.prh.noaa.gov/ptwc/messages/pacific/2010/ TSUNAMI BULLETINS – index] of frequently updated bulletins issued by the Pacific Tsunami Warning Center, including the latest.</ref><ref name="PTWC-015">[http://www.prh.noaa.gov/ptwc/messages/pacific/2010/pacific.2010.02.27.202736.txt TSUNAMI BULLETIN NUMBER 015]，[[太平洋海啸警报中心]]发布。</ref><ref>{{cite web|url=http://wcatwc.arh.noaa.gov/2010/02/27/725245/15/message725245-15.htm|title=West Coast and Alaska Tsunami Warning Center|publisher=NOAA|accessdate=2010-02-27}}</ref>
+|-
+! 测站
+! 国家或地区
+! 纬度
+! 经度
+! 时间（UTC）
+! 高度（m）
+! 高度（ft）
+|-
+|[[南鸟岛]]<ref>[http://web.archive.org/20100303150655/www.yomiuri.co.jp/national/news/20100228-OYT1T00527.htm?from=top 小笠原诸岛の南鸟岛に津波第一波、10cm]</ref>||{{flag|Japan}}||24.1N||153.5E||03:43||0.1||0.3
+|-
+|[[关岛]]||{{flagicon|Guam}} [[关岛]]||13.4 N||144.7 E||03:07||0.16||0.5
+|-
+|[[硅地卡]]||{{flag|United States}}||57.1 N||135.3 W||00:11||0.08||0.3
+|-
+|[[纳威利威利]]||{{flag|United States}}||22 N||159.4 W||23:23||0.37||1.2
+|-
+|[[克雷森特城]]||{{flag|United States}}||41.7 N||124.2 W||22:13||0.37||1.2
+|-
+|[[檀香山]]||{{flag|United States}}||21.3 N||150.4 W||22:00||0.25||0.8
+|-
+|[[圣塔芭芭拉 (加利福尼亚州)]]||{{flag|United States}}||34.4 N||119.7 W||21:50||0.53||1.7
+|-
+|[[强斯顿环礁]]||{{flag|United States}}||16.7 N||169.5 W||22:48||0.22||0.7
+|-
+|[[瓦努阿图]]||{{flag|Vanuatu}}||17.8 S||168.3 E||22:46||0.15||0.5
+|-
+|[[:en:Kalaeloa Airport|理发点]]||{{flag|United States}}||21.3 N||158.1 W||21:57||0.12||0.4
+|-
+|[[卡韦哈伊]]||{{flag|United States}}||20 N||155.5 W||22:11||0.52||1.7
+|-
+|[[拉奈岛]]||{{flag|United States}}||20.8 N||156.9 W||21:36||0.18||0.6
+|-
+|[[卡富鲁伊 (夏威夷州)]]||{{flag|United States}}||20.9 N||156.5 W||21:47||0.98||3.2
+|-
+|[[希洛 (夏威夷州)]]||{{flag|United States}}||19.7 N||154.9 W||21:20||0.86||2.8
+|-
+|[[旧金山]]||{{flag|United States}}||37.8 N||122.5 W||21:20||0.26||0.8
+|-
+|[[蒙特雷 (加利福尼亚州)]]||{{flag|United States}}||36.6 N||121.9 W||20:31 ||0.28||1.1
+|-
+|[[圣地亚哥 (加利福尼亚州)]]||{{flag|United States}}||32.7 N||117.2 W||20:36||0.13||0.4
+|-
+|[[帕果帕果]]||{{flag|American Samoa}}||14.3 S||170.7 W||20:27 ||0.22||0.7
+|-
+|[[努库阿洛法]]||{{flag|Tonga}}||21.1 S||175.2 W||20:24||0.1||0.3
+|-
+| [[阿皮亚]] ||{{flag|Samoa}}|| 13.8 S || 171.8 W || 20:18 || 0.13 || 0.4
+|-
+| [[Deep-ocean Assessment and Reporting of Tsunamis|DART]] [[汤加]] || || 23 S || 168.1 W || 20:03 || 0.04 || 0.1
+|-
+| 洛坦点 ||{{flag|New Zealand}}|| 37.6 S || 178.2 E || 19:34 || 0.15 || 0.5
+|-
+| [[拉罗汤加]] ||{{flag|Cook Islands}}|| 21.2 S || 159.8 W || 19:07 || 0.15 || 0.5
+|-
+| [[帕皮提]] ||{{flag|French Polynesia}}|| 17.5 N || 149.6 W || 18:10 || 0.16 || 0.5
+|-
+| [[努库希瓦]] ||{{flag|French Polynesia}}|| 8.9 S || 140.1 W || 17:45 || 0.95 || 3.1
+|-
+| [[卡波圣卢卡斯]] ||{{flag|Mexico}}|| 22.9 N || 109.9 W || 18:33 || 0.36 || 1.2
+|-
+| [[希瓦瓦岛]] ||{{flag|French Polynesia}}|| 9.8 N || 139.0 W || 17:41 || 1.79 || 5.9
+|-
+| [[曼萨尼约]] ||{{flag|Mexico}}|| 19.1 N || 104.3 W || 17:05 || 0.32 || 1
+|-
+| [[Deep-ocean Assessment and Reporting of Tsunamis|DART]] [[曼萨尼约]] || || 16.0 N || 107 W || 16:11 || 0.07 || 0.2
+|-
+| [[里基泰阿]] ||{{flag|French Polynesia}}|| 23.1 S || 134.9 W || 15:59 || 0.15 || 0.5
+|-
+| [[阿卡普尔科]] ||{{flag|Mexico}}|| 16.8 N || 99.9 W || 19:31 || 0.62 || 2
+|-
+| [[Deep-ocean Assessment and Reporting of Tsunamis|DART]] [[马克萨斯群岛]] || || 8.5 S || 125 W || 15:31 || 0.18 || 0.6
+|-
+| [[克波斯]] ||{{flag|Costa Rica}}||  || || 14:16 || 0.24 || 0.8
+|-
+| [[加拉帕戈斯群岛]] ||{{flag|Ecuador}} || 0.4 S || 90.3 W || 14:52 || 0.35 || 1.2
+|-
+| [[复活节岛]] ||{{flag|Chile}}|| 27.2 S || 109.5 W || 12:05 || 0.35 || 1.1
+|-
+| [[卡亚俄]] ||{{flag|Peru}}|| 12.1 S || 77.2 W || 10:29 || 0.36 || 1.2
+|-
+| [[阿里卡]] ||{{flag|Chile}}|| 18.5 S || 70.3 W || 10:08 || 0.94 || 3.1
+|-
+| [[安托法加斯塔]] ||{{flag|Chile}}|| 23.2 S || 70.4 W || 09:41 || 0.49 || 1.6
+|-
+| [[Deep-ocean Assessment and Reporting of Tsunamis|DART]] [[利马]] || || 18 S || 86.4 W || 09:41 || 0.24 || 0.8
+|-
+| [[伊基克]] ||{{flag|Chile}}|| 20.2 S || 70.1 W || 09:07 || 0.28 || 0.9
+|-
+| [[金博]] ||{{flag|Chile}}|| 30 S || 71.3 W || 08:52 || 1.32 || 4.3
+|-
+| [[安库德]] ||{{flag|Chile}}|| 41.9 S || 73.8 W || 08:38 || 0.62 || 2
+|-
+| [[卡尔德拉]] ||{{flag|Chile}}|| 27.1 S || 70.8 W || 08:34 || 0.45 || 1.5
+|-
+| [[圣菲]] ||{{flag|Chile}}|| 26.3 S || 80.1 W || 08:15 || 0.53 || 1.7
+|-
+| [[科拉尔]] ||{{flag|Chile}}|| 39.9 S || 73.4 W || 07:39 || 0.90 || 2.9
+|-
+| [[瓦尔帕莱索]] ||{{flag|Chile}}|| 33 S || 71.6 W || 07:08 || 1.29 || 4.2
+|-
+| [[塔尔卡瓦诺]] ||{{flag|Chile}}|| 36.7 S || 73.4 W || 06:53 || 2.34 || 7.7
+|}
+
+== 余震 ==
+首次[[余震]]发生在主震后18分钟，达到6.2级<ref>[http://earthquake.usgs.gov/earthquakes/recenteqsww/Quakes/us2010tfar.php Magnitude 6.2 - OFFSHORE MAULE, CHILE]</ref>，第二次余震达到6.0级，发生在主震后38分钟<ref>[http://earthquake.usgs.gov/earthquakes/recenteqsww/Quakes/us2010tfav.php Magnitude 6.0 - OFFSHORE VALPARAISO, CHILE]</ref>。美国地质调查局说，预计会有大量强烈的余震发生。截至27日22时（UTC），已发生59次5级以上余震<ref>[http://earthquake.usgs.gov/earthquakes/aftershocks/?code=2010tfan Aftershock Mapping]</ref><ref>{{cite web|url=http://earthquake.usgs.gov/earthquakes/recenteqsww/Maps/10/285_-35_eqs.php |title=Earthquake List for 10-degree Map Centered at 35°S, 75°W}}</ref>，其中至少6次超过6级<!--阿根廷的不算余震-->，最强一次达6.9级。<ref>[http://earthquake.usgs.gov/earthquakes/recenteqsww/Quakes/us2010tfa7.php Magnitude 6.9 - OFF THE COAST OF BIO-BIO, CHILE]</ref>
+
+28日4时29分（UTC），在[[阿根廷]][[门多萨省]]发生5.0级地震<ref>[http://earthquake.usgs.gov/earthquakes/recenteqsww/Quakes/us2010tgbr.php Magnitude 5.0 - MENDOZA, ARGENTINA]</ref>，暂未确定是否为此次地震的余震。
+
+== 地震前后全球地震情况 ==
+地震发生前后1天内在全球多个地震带上均发生了多次5级以上地震，最大达7.0级。
+* 地震发生前几个小时（[[UTC]]2月26日20时31分），[[日本]][[琉球群岛]][[冲绳县]]以东海域发生7.0级地震<ref>[http://earthquake.usgs.gov/earthquakes/recenteqsww/Quakes/us2010teb2.php Magnitude 7.0 - RYUKYU ISLANDS, JAPAN]</ref>，后发生最大为5.1级的余震（UTC 2月27日0时48分）。而[[菲律宾]][[棉兰老岛]]（UTC 2月26日8时37分及16时18分）、[[印度尼西亚]][[苏拉威西岛]]（UTC 2月26日4时41分）、[[中国]][[西藏]][[珠穆朗玛峰]]北坡（UTC 2月26日4时42分）、[[台湾]][[花莲]]外海（UTC 2月26日1时7分）及[[太平洋|中太平洋]]南部[[布韦岛]]（UTC 2月26日0时11分）均发生了5级以上地震。<!--5级以下地震无需写出，否则太多了！已在讨论页说明。-->
+* 地震发生后几小时，[[阿根廷]]北部[[萨尔塔省]]发生的6.3级地震（UTC 2月27日15时45分）<ref>[http://earthquake.usgs.gov/earthquakes/recenteqsww/Quakes/us2010tfc3.php Magnitude 6.3 - SALTA, ARGENTINA]</ref>及[[秘鲁]]南部[[伊卡大区]]发生的4.2级地震（2月27日UTC 14时33分）均为独立地震，而非本次地震的余震。
+
+== 破坏预测 ==
+[[File:2010_Maule_earthquake_intensity_USGS.jpg|thumb|left|220px]]
+[[File:Zh South-American-plates.png|thumb|地震发生处[[纳斯卡板块]][[隐没带|潜没]]于向西移动的[[南美洲板块]]之下]]
+[[File:2010 Chile earthquake NOAA tsunami travel time projection 2010-02-27.jpg|thumb|[[美国国家海洋和大气管理局]]制作的海啸可波及区域图]]
+[[File:2010_Chile_earthquake_NOAA_tsunami_projection_2010-02-27.png|thumb| 海啸振幅分布图]]
+这次属于[[浅源性地震]]，由于这次地震震级比较大，震源比较浅，这次地震造成的破坏可能比较大。<ref>{{cite web|url=http://news.china.com.cn/txt/2010-02/27/content_19485790.htm |title=中国地震专家：智利地震造成的破坏可能比较大}}</ref>美国[[太平洋海啸警报中心]]称：“这种规模的地震有可能引发毁灭性的海啸，会在几分钟内波及位于震中附近的沿海地区，并在数小时内波及更遥远的海岸地区。”虽然曾于震后三小时取消海啸警告，但在稍后对环太平洋除[[美国]][[阿拉斯加]]、[[不列颠哥伦比亚]]和[[加利福尼亚]]之外的所有沿岸地区发出海啸预警。<ref>{{cite web|url=http://www.prh.noaa.gov/ptwc/messages/pacific/2010/pacific.2010.02.27.124623.txt|title=TSUNAMI BULLETIN NUMBER 007}}</ref>并再次于UTC 2月28日正午12时前后解除所有国家的海啸警报。<ref>{{cite web|url=http://www.rthk.org.hk/rthk/news/expressnews/20100228/news_20100228_55_650499.htm|title=太平洋海啸预警中心解除所有国家海啸警报 |work=香港电台|publisher=香港电台|date=2010-02-28|accessdate=2010-02-28}}</ref>智利[[胡安?费尔南德斯群岛]]受海啸波及以致全岛过半地区被水淹没，而当中有部份岛屿几乎被淹没。{{Fact|time=2010-02-28T14:17:15+00:00}}
+
+== 能量释放 ==
+本次地震的地震矩规模达Mw 8.8，其释放的能量要比2010年的[[海地大地震]]要大500倍左右<ref>[http://www.csmonitor.com/World/Global-News/2010/0302/Chile-earthquake-facts-Chile-vs.-Haiti-in-numbers Chile earthquake facts: Chile vs. Haiti, in numbers]</ref>，亦比[[汶川大地震]]强约16倍。
+
+== 各国及国际组织反应 ==
+* {{flagicon|Japan}} [[日本气象厅]]称正在调查地震是否会引发波及[[日本]]的海啸。<ref>{{cite web|url=http://post.news.tom.com/s/B70009661903.html |title=日本启动调查智利地震引发海啸是否波及}}</ref>
+* {{flagicon|China}} [[中国地震局]]官员称，将会派救援队参与震后救援。[[中国国家海洋环境预报中心]]27日下午发布消息称，北京时间17时，距震中约85公里的近岸已测到1.8米海啸波。
+* {{flagicon|Chile}} [[智利]]开始疏散[[复活岛]]居民以避免被海啸波及。{{Fact|time=2010-02-28T14:17:15+00:00}}
+* {{flagicon|Russia}} [[俄罗斯]][[远东地区]]正密切监察海啸影响。<ref name='R1'/>
+* {{flagicon|USA}} [[美国]][[夏威夷]]开始疏散居于海岸边的民众。{{Fact|time=2010-02-28T14:17:15+00:00}}
+* {{flagicon|UK}} [[英国]]首相[[戈登?布朗|-{zh-hans:戈登?布朗; zh-hk:白高敦}-]]表明将尽其所能对灾区提供帮助，英国救援队将赶赴灾区。<ref>{{cite web|url=http://news.ifeng.com/world/special/zhilidizhen/zuixin/201002/0228_9591_1558322.shtml|title=英国救援队赶赴智利地震灾区|work=中国新闻网|publisher=凤凰网|date=2010-02-28|accessdate=2010-02-28}}</ref>
+* {{flagicon|ROC}} [[中华民国]][[中央气象局]]表示正密切观察，但并未发布警报。<ref>{{cite web|url=http://www.nownews.com/2010/02/27/91-2574341.htm|title=智利地震海啸袭台？气象局：密切观察|work=Nownews今日新闻|publisher=Nownews今日新闻|date=2010-02-27|accessdate=2010-02-28}}</ref>
+* [[太平洋海啸警报中心]]警告海啸到达台湾的地点包括[[花莲]]、[[基隆]]和[[台东]]。<ref>{{cite web|url=http://www.nownews.com/2010/02/28/91-2574370.htm|title=智利大震／今天别去海边！海啸波估下午抵台|work=Nownews今日新闻|publisher=Nownews今日新闻|date=2010-02-28|accessdate=2010-02-28}}</ref>
+* {{flagicon|EU}} [[欧盟]]人道援助委员会表示启动危机应对程序，提供人道主义帮助。<ref>{{cite web|url=http://news.ifeng.com/world/special/zhilidizhen/zuixin/201002/0227_9591_1558194.shtml|title=欧盟对智利地震提供人道主义援助|work=经济观察网|publisher=凤凰网|date=2010-02-27|accessdate=2010-02-28}}</ref>
+* {{flagicon|UN}} [[联合国]]秘书长[[潘基文]]表示在密切关注事态发展，并准备对智利提供帮助。<ref>{{cite web|url=http://news.ifeng.com/world/special/zhilidizhen/zuixin/201002/0227_9591_1558218.shtml|title=潘基文称联合国准备对智利提供灾难援助|work=中国新闻网|publisher=凤凰网|date=2010-02-27|accessdate=2010-02-28}}</ref>
+
+== 震中附近地震史 ==
+历史上，在此次地震震源200公里范围内发生多次大地震：
+* [[1575年瓦尔迪维亚大地震]]
+* 1939年发生长达3分钟的8.3级地震并造成2.8万人死亡，为南美洲有纪录以来伤亡最惨重的地震。
+* 1960年曾发生[[1960年瓦尔迪维亚大地震|9.5级地震]]，这次为人类有地震记录以来规模最强的地震，造成智利数千人死亡，并在[[太平洋]]西岸掀起大海啸，给[[日本]]、[[台湾]]<ref>{{cite web|url=http://www.nownews.com/2010/02/28/327-2574437.htm|title=别掉以轻心！1960年智利海啸　基隆民众捡贝壳酿200死|work=NOWnews今日新闻|publisher=NOWnews|date=2010-02-28|accessdate=2010-03-03}}</ref>和[[菲律宾]]东部沿海地区造成了严重破坏及死伤。
+
+
+
+

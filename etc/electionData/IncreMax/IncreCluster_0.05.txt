@@ -1,0 +1,101 @@
+clustering:
+cluster id: 0concept: 
+参选人员#
+cluster id: 1concept: 
+国际反应#选举时间#参选政党#投票过程#选举日期争议#监督#注册候选人#选举流程#潜在候选人#结果#选举胜利#选举人团的变化#选民登记工作#选举法#正式候选人#选举规则#选举结果#总统候选人#大选过程#过程#
+cluster id: 2concept: 
+民主统合党#初选#参选人#获提名人#选举人权责#预算#其他政党#国内#候选人资格#数据#民意调查#终极对决#自民党#选举资格#
+cluster id: 3concept: 
+合格选民#相关人士的态度#投票权#社会现状#选民资格#预选#选举舞弊#
+cluster id: 4concept: 
+时间表#
+cluster id: 5concept: 
+电视辩论#重要日程#大选日程#选举日程安排#
+cluster id: 6concept: 
+选举新闻#
+cluster id: 7concept: 
+影响#影响因素#选举情况#
+cluster id: 8concept: 
+在野党总统候选人单一化问题#历任总统#大选前期#内阁制度#总统副总统候选人#选举准备#主要第三政党候选人#全国代表大会#大选结论#变化#
+cluster id: 9concept: 
+媒体报道#
+cluster id: 10concept: 
+下议院组成#人员组成#民主党#
+cluster id: 11concept: 
+个人自由党#
+cluster id: 12concept: 
+影响大选因素#示威者与反政府者#全民投票#选举#选举委员会#共和党#新闻文章#
+cluster id: 13concept: 
+众院权大#大选花费#
+cluster id: 14concept: 
+选举准备状况#
+cluster id: 15concept: 
+其他候选人#
+cluster id: 16concept: 
+参选情况#
+cluster id: 17concept: 
+议题#
+cluster id: 18concept: 
+部署警察#各方反应#十大看点#候选人#候选人竞选#选举制度#被选举权#无在位候选人#官方候选人#
+cluster id: 19concept: 
+新世界党#大选动态#集会洒泪#选情进展#上届选举#分析#获胜者#退出者#新国家党#背景#
+cluster id: 20concept: 
+本次大选特色#
+cluster id: 21concept: 
+颂猜态度#对华态度#抗议示威#
+cluster id: 22concept: 
+大选辩论#
+cluster id: 23concept: 
+选民观点#
+cluster id: 24concept: 
+主要候选人#
+cluster id: 25concept: 
+正式拉票活动#选举人票比较#选出总统#
+cluster id: 26concept: 
+党内大会#
+cluster id: 27concept: 
+总结#
+cluster id: 28concept: 
+历史影响#
+cluster id: 29concept: 
+主要议题#
+cluster id: 30concept: 
+大选特点#选举人团制度#各州统计#
+cluster id: 31concept: 
+竞选宣言#
+cluster id: 32concept: 
+大选信息#
+cluster id: 33concept: 
+预备候选人#
+cluster id: 34concept: 
+维新会#
+cluster id: 35concept: 
+结局预测#大选预测#选前民意调查#首相选举#
+cluster id: 36concept: 
+各省投票#
+cluster id: 37concept: 
+旅游警示#
+cluster id: 38concept: 
+国际#
+cluster id: 39concept: 
+选举基本情况#
+cluster id: 40concept: 
+反应#
+cluster id: 41concept: 
+以往回顾#
+cluster id: 42concept: 
+禁酒党#
+cluster id: 43concept: 
+大选对外影响#观察#大选背景#
+cluster id: 44concept: 
+独立候选人#
+cluster id: 45concept: 
+主要候选#
+cluster id: 46concept: 
+其他政党和独立候选人#
+cluster id: 47concept: 
+胜利演讲#审查#
+cluster id: 48concept: 
+时间线#
+cluster id: 49concept: 
+内阁人选#

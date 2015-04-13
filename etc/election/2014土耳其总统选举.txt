@@ -1,0 +1,82 @@
+﻿{{Infobox election
+| election_name     = 2014年土耳其总统选举
+| country           = Turkey
+| type              = presidential
+| ongoing           = no
+| previous_election = 2007年土耳其总统选举
+| previous_year     = 2007
+| election_date     = {{Start date|2014|08|10}}
+| next_election     = 2019年土耳其总统选举
+| next_year         = 2019
+<!-- Recep Tayyip Erdo?an -->
+| image1            = [[File:Tayyip Erdo?an.JPG|160x150px]]
+| candidate1        = [[雷杰普?塔伊普?埃尔多安]]
+| party1            = 正义与发展党_(土耳其){{!}}正义与发展党
+| popular_vote1     = 
+| percentage1       = 
+<!-- Ekmeleddin ?hsano?lu -->
+| image2            = [[File:Ekmeleddin ?hsano?lu (1) (cropped).jpg|160x150px]]
+| candidate2        = {{link-en|埃克梅莱丁?伊赫萨诺卢|Ekmeleddin Ihsanoglu}}
+| party2            = 独立人士
+| popular_vote2     = 
+| percentage2       = 
+<!-- Selahattin Demirta? -->
+| image3            = [[File:Selahattin Demirta? (cropped).jpg|160x150px]]
+| candidate3        = {{link-en|萨拉丁?德米尔塔什|Selahattin Demirtas}}
+| party3            = 人民民主党
+| popular_vote3     = 
+| percentage3       = 
+<!-- map -->
+| map_image         = 2014 Turkish Presidential Election.png
+| map_size          = 
+| map_caption       = 
+<!-- bottom -->
+| title             = 总统
+| before_election   = [[阿卜杜拉?居尔]]
+| before_party      = 正义与发展党_(土耳其){{!}}正义与发展党
+| after_election    = [[雷杰普?塔伊普?埃尔多安]]
+| after_party       = 正义与发展党_(土耳其){{!}}正义与发展党
+}}
+
+'''2014年[[土耳其总统]]选举'''于2014年8月10日举行<ref>{{cite web |url=http://www.reuters.com/article/2014/03/07/us-turkey-election-idUSBREA2610R20140307 |title=Turkey sets Aug 10 for presidential election: source |accessdate=2014-03-21 |publisher=}}</ref>，现任总理[[埃尔多安]]以51.71%的得票率赢得本次选举。70岁的学者、[[伊斯兰合作组织]](OIC)前秘书长{{link-en|埃克梅莱丁?伊赫萨诺卢|Ekmeleddin Ihsanoglu}}得票率约38.56%，[[库尔德族]]候选人{{link-en|萨拉丁?德米尔塔什|Selahattin Demirtas}}获9.72%选票。<ref >{{cite web|url=http://j.news.163.com/docs/1/2014081108/A3BT1KTE00254TI5.html | language= | title=埃尔多安料将从土耳其大选胜出 或成“强人总统” |publisher= 中国新闻网 |date=2014-08-11 |accessdate= }}</ref>
+
+== 背景 ==
+土耳其总统原由[[土耳其大国民议会|国会]]选出，任期为七年，不得连任。2007年10月21日，土耳其[[全民公决]]通过宪法修正案，将总统从[[间接选举]]改为[[全民直选]]，任期自2014年起由7年降至5年，可以连任一届。因此这是土耳其首次总统直接选举，采用[[两轮投票制]]——候选人若在8月10日的第一轮投票中，没有获得绝对多数票；那么得票数最多的两名候选人，将在8月24日的第二轮中再次竞争。本次选举有约近5300万选民，全国各地设有超过16万个投票点。
+
+== 候选人 ==
+[[File:Washington'da cumhurba?kanl??? se?imi, 2014 (4).jpg|缩略图|正在投票的民众]]
+* [[埃尔多安]]，时年60岁，自2003年至今担任[[土耳其总理]]<ref>{{cite news|url=http://www.todayszaman.com/news-350260-pm-as-candidate-for-president-may-receive-half-of-overseas-vote.html|title=PM as candidate for president may receive half of overseas vote|work=[[Today's Zaman]]|date=14 June 2014|accessdate=21 June 2014}}</ref><ref>{{cite news|url=http://www.aa.com.tr/en/news/322653--turkeys-deputy-pm-backs-erdogan-for-president|title=Turkey's Deputy PM backs Erdogan for president|work=[[Anadolu Agency]]|date=4 May 2014|accessdate=21 June 2014}}</ref><ref>{{cite news |last=?evik |first=?lnur |date=2014-05-10 |title=Can the opposition have any change against Erdogan?|url=http://www.dailysabah.com/columns/ilnur-cevik/2014/05/10/does-the-opposition-have-any-chance-against-erdogan |newspaper=Daily Sabah|location=Balmumcu, Istanbul |publisher=[[Sabah (newspaper)|Sabah]] |accessdate=2014-06-21}}</ref>。
+* [[Ekmeleddin ?hsano?lu|伊萨诺格鲁]]，时年70岁的独立人士学者和外交官，[[伊斯兰合作组织]](OIC)前秘书长，伊萨诺格鲁获得了[[共和人民党_(土耳其)|共和人民党]]和[[民族主义行动党]]两个主要反对党的提名。<ref>{{cite news|url=http://www.ft.com/intl/cms/s/0/4a9a34d2-f570-11e3-be21-00144feabdc0.html#axzz35H7qgjn9|title=Turkey’s opposition choose joint presidential candidate|work=[[Financial Times]]|date=16 June 2014|accessdate=21 June 2014}}</ref><ref>{{cite news|url=http://www.hurriyetdailynews.com/turkeys-main-opposition-parties-to-nominate-ex-head-of-islamic-body-ihsanoglu-for-presidency.aspx?pageID=238&nID=67850&NewsCatID=338|title=Turkey’s main opposition parties to nominate ex-head of Islamic body ?hsano?lu for presidency|work=[[Hürriyet Daily News]]|date=16 June 2014|accessdate=21 June 2014}}</ref>以及获得[[土耳其民主党|DP]], [[土耳其民主左翼党|DSP]]、[[独立土耳其党|BTP]]<ref>{{cite news|url=http://www.ntvmsnbc.com/id/25524244|title=5 partiden ‘?at? aday’a destek|work=[[NTV (Turkey)|NTV]]|date=2 July 2014|accessdate=2 July 2014}}</ref>、[[自由民主党 (土耳其)|LDP]]<ref>{{cite news|url=http://188.95.146.137/news/LDP-Ihsanoglu-na-destek-karari-aldi_1407-CHMTQ5MTQwNy8xMDA1|title=LDP, ?hsano?lu'na destek karar? ald?|work=[[Cihan News Agency]]|date=1 July 2014|accessdate=7 July 2014}}</ref>和[[大联盟党|BBP]]<ref>{{cite news|url=http://www.aa.com.tr/tr/haberler/359575--bbp-ihsanoglunu-destekleme-karari-aldi|title=BBP ?hsano?lu'nu destekleme karar? ald?|work=[[Anadolu News Agency]]|date=16 July 2014|accessdate=16 July 2014}}</ref>的支持。
+* [[Selahattin Demirta?|德米尔塔什]]，时年41岁，[[人民民主党]]领导人<ref>{{cite news|url=http://www.cnnturk.com/haber/turkiye/selahattin-demirtas-hdpnin-cumhurbaskani-adayi-mi|title=Selahattin Demirta? HDP'nin cumhurba?kan? aday? m??|work=[[CNN Turk]]|date=18 June 2014|accessdate=21 June 2014}}</ref>。
+
+== 选举结果 ==
+{| class=wikitable style=text-align:right
+!候选人
+!得票
+!%
+|-
+|align=left|[[埃尔多安]]||20,533,166||51.71
+|-
+|align=left|[[伊萨诺格鲁]]||15,311,386||38.56
+|-
+|align=left|[[德米尔塔什]]||3,860,887||9.72
+|-
+|align=left|无效票/空白票||733,563||–
+|-
+|align=left|'''共计'''||'''40,443,183'''||'''100'''
+|-
+|align=left|注册选民/投票率||52,920,985||72.29
+|-
+|align=left colspan=3|Source: [http://www.hurriyet.com.tr/cumhurbaskanligisecimi/ Hurriyet] (99.05 of votes counted)
+|}
+
+== 参考资料 ==
+{{Portal|政治}}
+{{reflist}}
+
+== 外部链接 ==
+{{Commonscat|Turkey presidential election, 2014}}
+{{DEFAULTSORT:}}
+[[Category:2014年选举]]
+[[Category:2014年土耳其]]
+[[Category:土耳其选举]]

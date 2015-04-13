@@ -1,0 +1,36 @@
+ID	TOPIC	LEVEL	PRE	CHILD	TEXT
+0	2010年智利大地震	1	-1	[1, 2, 3, 4, 5, 6, 7, 8, 9]
+'''2010年智利大地震'''发生在[[智利]]中南部[[马乌莱大区]][[UTC-3|当地时间]][[2010年]][[2月27日]]3时34分（[[UTC]] 6时34分），[[震级]]最初报道为[[矩震级]]（Mw）8.3至8.5，后修正为8.8<ref>[http://earthquake.usgs.gov/earthquakes/recenteqsww/Quakes/us2010tfan.php USGS Magnitude 8.8 - OFFSHORE MAULE, CHILE]</ref>，是当地自[[1960年]][[1960年瓦尔迪维亚大地震|智利9.5大地震]]后震级最大的[[地震]]。此次地震[[震源]]深度35公里，[[震央]]位于智利第二大[[城市]][[康赛普西翁]]东北偏北方向115公里<ref>一说55/59.4/60公里</ref>、智利[[首都]][[圣地亚哥]]西南方向325公里处。智利首都圣地亚哥和[[阿根廷]]部分城市有震感。地震持续了约10至90秒。
+
+1	本次地震成因	2	0	[]
+[[智利]]西部沿海处于[[纳斯卡板块]]（Nasca Plate）和[[南美板块]]（South American Plate）之间的[[破坏性板块边界]]（Destructive Plate Boundary）之上。相对于稳定的南美版块，纳斯卡板块每年向东移动约8公分左右。其中超过一半左右的板块位移集中累积于板块交界浅部，使该区的板块边界发生缓慢于持续的地壳弹性变形。当所累积的地壳弹性变形超过岩石所能承受的强度时，南美版块即会沿板块交界面产生回弹作用，并引发地震。事实上有纪录以来最强的[[地震]]便是在这[[板块边界]]上发生。<ref>[http://www.hkvo.net/index.php?type=20100304_taiwanquake 香港民办天文台 - 2010智利地震专页]</ref>
+
+2	破坏情况	2	0	[]
+地震导致包括首都[[圣地亚哥]]在内的智利大部分地区水电、通讯及交通中断。根据[[美联社]]相关影像，圣地亚哥有房屋倒塌。地震造成最少1279人死亡或重伤，而死亡数字将继续上升。另外200万人可能流离失所。
+智利地震产生的地震波引发了[[南极洲]]的冰原地震，使得[[冰原]]发生断裂<ref>{{cite journal|author=Zhigang Peng|coauthors=Jacob I. Walter,Richard C. Aster,	 Andrew Nyblade,	 Douglas A. Wiens	 & Sridhar Anandakrishnan|title=Antarctic icequakes triggered by the 2010 Maule earthquake in Chile|journal=Nature Geoscience|year=2014|issue=7|pages=677–681|doi=10.1038/ngeo2212|url=http://www.nature.com/ngeo/journal/v7/n9/abs/ngeo2212.html}}</ref>。
+
+3	海啸	2	0	[]
+[[太平洋海啸警报中心]]先向智利和[[秘鲁]]发出[[海啸]]警报，后来警报范围扩大到[[厄瓜多尔]]、[[哥伦比亚]]、[[南极洲]]、[[巴拿马]]和[[哥斯达黎加]]，再扩大至环太平洋53个国家和地区，包括[[亚洲]]沿岸地区。曾经产生过最少十次[[海啸]]，威力不明，浪高最高达9呎（约合2.7432米），西太平洋[[法劳群岛]]受严重破坏<ref name='R1'>香港电台第一台2月27日晚上11:00新闻报道</ref>，海啸波及整个[[中美洲]]以及[[太平洋]]国家和地区，远至[[台湾]]，[[菲律宾]]，[[香港]]等地都受影响。随后在俄罗斯的[[堪察加半岛]]沿岸地区潮汐观测站记录到80厘米的异常增水，但并未造成破坏性影响。<ref>[http://www.reuters.com/article/idUSTRE61R0RO20100228-Tsunami Waves hit Russia, no damage reported, Reuters]</ref>而据[[日本气象厅]]的监测报告显示：北海道[[根室]]沿岸出现11英尺高的大浪。在附近离岸地区已经引发轻微水浸<ref>[http://www.rthk.org.hk/rthk/news/expressnews/news.htm?expressnews&20100228&55&650493- 海啸抵达日本北海道部份地区水浸]</ref>。
+
+4	余震	2	0	[]
+首次[[余震]]发生在主震后18分钟，达到6.2级<ref>[http://earthquake.usgs.gov/earthquakes/recenteqsww/Quakes/us2010tfar.php Magnitude 6.2 - OFFSHORE MAULE, CHILE]</ref>，第二次余震达到6.0级，发生在主震后38分钟<ref>[http://earthquake.usgs.gov/earthquakes/recenteqsww/Quakes/us2010tfav.php Magnitude 6.0 - OFFSHORE VALPARAISO, CHILE]</ref>。美国地质调查局说，预计会有大量强烈的余震发生。截至27日22时（UTC），已发生59次5级以上余震<ref>[http://earthquake.usgs.gov/earthquakes/aftershocks/?code=2010tfan Aftershock Mapping]</ref><ref>{{cite web|url=http://earthquake.usgs.gov/earthquakes/recenteqsww/Maps/10/285_-35_eqs.php |title=Earthquake List for 10-degree Map Centered at 35°S, 75°W}}</ref>，其中至少6次超过6级<!--阿根廷的不算余震-->，最强一次达6.9级。<ref>[http://earthquake.usgs.gov/earthquakes/recenteqsww/Quakes/us2010tfa7.php Magnitude 6.9 - OFF THE COAST OF BIO-BIO, CHILE]</ref>
+28日4时29分（UTC），在[[阿根廷]][[门多萨省]]发生5.0级地震<ref>[http://earthquake.usgs.gov/earthquakes/recenteqsww/Quakes/us2010tgbr.php Magnitude 5.0 - MENDOZA, ARGENTINA]</ref>，暂未确定是否为此次地震的余震。
+
+5	地震前后全球地震情况	2	0	[]
+地震发生前后1天内在全球多个地震带上均发生了多次5级以上地震，最大达7.0级。
+
+6	破坏预测	2	0	[]
+[[File:2010_Maule_earthquake_intensity_USGS.jpg|thumb|left|220px]]
+[[File:Zh South-American-plates.png|thumb|地震发生处[[纳斯卡板块]][[隐没带|潜没]]于向西移动的[[南美洲板块]]之下]]
+[[File:2010 Chile earthquake NOAA tsunami travel time projection 2010-02-27.jpg|thumb|[[美国国家海洋和大气管理局]]制作的海啸可波及区域图]]
+[[File:2010_Chile_earthquake_NOAA_tsunami_projection_2010-02-27.png|thumb| 海啸振幅分布图]]
+这次属于[[浅源性地震]]，由于这次地震震级比较大，震源比较浅，这次地震造成的破坏可能比较大。<ref>{{cite web|url=http://news.china.com.cn/txt/2010-02/27/content_19485790.htm |title=中国地震专家：智利地震造成的破坏可能比较大}}</ref>美国[[太平洋海啸警报中心]]称：“这种规模的地震有可能引发毁灭性的海啸，会在几分钟内波及位于震中附近的沿海地区，并在数小时内波及更遥远的海岸地区。”虽然曾于震后三小时取消海啸警告，但在稍后对环太平洋除[[美国]][[阿拉斯加]]、[[不列颠哥伦比亚]]和[[加利福尼亚]]之外的所有沿岸地区发出海啸预警。<ref>{{cite web|url=http://www.prh.noaa.gov/ptwc/messages/pacific/2010/pacific.2010.02.27.124623.txt|title=TSUNAMI BULLETIN NUMBER 007}}</ref>并再次于UTC 2月28日正午12时前后解除所有国家的海啸警报。<ref>{{cite web|url=http://www.rthk.org.hk/rthk/news/expressnews/20100228/news_20100228_55_650499.htm|title=太平洋海啸预警中心解除所有国家海啸警报 |work=香港电台|publisher=香港电台|date=2010-02-28|accessdate=2010-02-28}}</ref>智利[[胡安?费尔南德斯群岛]]受海啸波及以致全岛过半地区被水淹没，而当中有部份岛屿几乎被淹没。{{Fact|time=2010-02-28T14:17:15+00:00}}
+
+7	能量释放	2	0	[]
+本次地震的地震矩规模达Mw 8.8，其释放的能量要比2010年的[[海地大地震]]要大500倍左右<ref>[http://www.csmonitor.com/World/Global-News/2010/0302/Chile-earthquake-facts-Chile-vs.-Haiti-in-numbers Chile earthquake facts: Chile vs. Haiti, in numbers]</ref>，亦比[[汶川大地震]]强约16倍。
+
+8	各国及国际组织反应	2	0	[]
+
+9	震中附近地震史	2	0	[]
+历史上，在此次地震震源200公里范围内发生多次大地震：
+

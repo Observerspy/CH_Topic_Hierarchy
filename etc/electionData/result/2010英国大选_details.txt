@@ -1,0 +1,24 @@
+ID	TOPIC	LEVEL	PRE	CHILD	TEXT
+0	2010英国大选	1	-1	[1, 2, 3]
+﻿{{noteTA
+'''2010年英国大选'''（'''United Kingdom general election, 2010'''）于[[2010年]][[5月6日]]举行，全[[英国]]各[[选区]]为新一届[[英国下议院|下议院]]选出全院议员。首相[[白高敦]]于4月12日向[[伊丽莎白二世|英女皇]]提出[[解散国会]]。
+根据选区边界委员会对[[英格兰]]、[[韦尔斯]]及[[北爱尔兰]]选区的检讨，新一届下议院议席总数由646席增加至650席，但这个检讨不包括[[苏格兰]]选区，至于苏格兰对上一次的选区边界检讨，则已在[[2005年英国大选|2005年大选]]前夕进行。<ref>{{cite web|url=http://www.boundarycommission.org.uk/pubs/finalrecommendations.pdf|title=Boundary Commission for Northern Ireland|format=PDF}}</ref><ref>{{cite web |url=http://www.ark.ac.uk/elections/gboun07.htm |title=Final Northern Ireland boundary change recommendations}}</ref>
+在今次大选，执政[[工党 (英国)|工党]]寻求第四度胜出大选，延续工党自[[1997年]]以来的执政，并趁机会重拾近年不断下滑的民望。<ref>{{cite news |url=http://news.bbc.co.uk/2/hi/uk_news/politics/6236315.stm |title=Brown would 'renew' Labour Party |work=BBC News Online |date=5 January 2007}}</ref>在野[[保守党 (英国)|保守党]]方面则希望籍今次大选，重夺自[[1990年代]]失去的政坛领导地位，寻求击倒工党上台掌政。至于下议院第三大党[[自由民主党 (英国)|自由民主党]]虽然亦以上台掌政为最终目标，但受实力所限，只能设法从两大党的竞争中得益，一旦大选只能组成一个[[悬峙国会|没有多数党的国会]]，该党将可进一步强化其制衡角色。
+除三大政党以外，受到[[2007年]][[苏格兰议会]]选举胜出所鼓舞，主张[[苏格兰]]脱离英国独立的[[苏格兰民族党]]亦希望在大选取得20席，以反映他们的政治要求。<ref>{{cite web |url=http://news.scotsman.com/latestnews/Salmond-wants-Westminster-to-39dance.4001458.jp |title=Salmond wants Westminster to 'dance to a Scottish jig' as he targets 20 seats |work=The Scotsman |date=21 April 2008}}</ref>同样地，主张[[韦尔斯]]脱离英国独立的[[韦尔斯党]]也有意在[[韦尔斯]]各选区有更好的表现，苏格兰和韦尔斯的议席由工党占优。另外，不少在地方选举和[[2009年]][[欧洲议会]]选举取得零星议席的[[政党]]，包括[[英国独立党]]、[[英格兰和韦尔斯绿党|绿党]]等，都表态希望在大选分一杯羹。
+这次也是[[白高敦]]在[[2007年]]接替宣布辞职的[[贝理雅]]出任[[英国首相]]以来，首次举行的大选，亦是保守党党魁[[戴维?卡梅伦]]与自民党党魁[[尼克?克莱格]]上任以来首个大选。
+选举结果，出现自[[1974年]]2月以来首个[[悬峙国会]]，最后保守党与自民党达成协议，组建65年首个和平时期的[[联合政府]]。保守党党魁[[戴维?卡梅伦]]出任首相，自民党党魁[[尼克?克莱格]]出任副首相。卡梅伦成为自利物浦伯爵以来最年轻的英国首相。
+
+1	选举结果	2	0	[]
+英国出现[[1974年]]以来首次[[悬峙国会]]。保守党与自由民主党于5月11日达成协议，组织自1945年来首个联合政府。八名华裔参选人（分别代表保守党、自民党、[[联盟党]]，以及一名独立人士）全军覆没。<ref name="chinese">{{cite news|publisher=[[中央广播电台]]
+
+2	注释	2	0	[]
+#{{note|before}} [[2010年]][[4月12日]]国会被解散时的议员数。
+#{{note|Speaker}} [[英国下议院议长|议长]]和他的3位副手同样是被选出的议员，但他们并不投票。
+#{{note|Thirsk_and_Malton}}由于[[英国独立党]]的候选人John Boakes死亡，Thirsk and Malton选区的选举将延至5月27日举行。[[英国独立党]]指基于尊重John Boakes的原因，在5月6日大选完结前不会提名新候选人在该选区参选。<ref>{{cite web |url=http://www.maltonmercury.co.uk/news/Election-delayed-after-the-death.6260395.jp |title=Election delayed after the death of candidate
+#{{note|moreMPs}} 英格兰的大选选区界限将在选举时有所变化，因此下议院的席位将增加4个。
+
+3	参考数据	2	0	[]
+[[Category:英国选举]]
+[[Category:2010年5月]]
+[[Category:2010年选举]]
+

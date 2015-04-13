@@ -1,0 +1,78 @@
+ID	TOPIC	LEVEL	PRE	CHILD	TEXT
+0	2012美国总统选举	1	-1	[1, 2, 13, 15, 16, 17]
+﻿{{NoteTA
+'''2012年美国总统选举'''于[[2012年]][[11月6日]]星期二举行，此次是[[美国]]第57届[[美国总统|总统]]选举，同时[[美国众议院|众议院]]全部435个席位及[[美国参议院|参议院]]33个议席也会进行改选以产生美国第113届[[美国国会|国会]]。[[选举人团]]将首先被选出，再由选举人团于2012年12月17日选举产生[[美国总统|总统]]和[[美国副总统|副总统]]。在任总统[[贝拉克?奥巴马]]和副总统[[乔?拜登]]，作为合资格的候选人，宣布争取连任并顺利得到执政[[民主党 (美国)|民主党]]提名参选。<ref>{{cite web |url=http://www.huffingtonpost.com/2011/04/04/barack-obama-2012-campaign_n_844221.html |title=Barack Obama 2012 Campaign Officially Launches |author= |date=April 4, 2011 |work= |publisher=Huffington Post |accessdate=April 4, 2011}}</ref>另一大党[[共和党 (美国)|共和党]]则提名前[[马萨诸塞州]]州长[[米特?罗姆尼]]作为总统候选人，国会众议员[[保罗?莱恩]]则担任他的副手。除此之外，还有一些代表其他政党和独立的候选人参与本届总统选举。随着罗姆尼的落选，他1118字的胜选感言便无法被发表。
+2012美国总统选举将和参议院及众议院选举一同举行。其中参议院约三分之一的[[美国参议员|参议员]]将会改选，和新的众议院组成会期两年的第113届国会。是次选举也将包括部分州的[[2012美国州长选举|州长选举]]和州议会选举，结果共和党继续取得多数议席和州长职位，而民主党继续在参议院占多数。
+最终代表民主党的[[贝拉克?奥巴马]]在总统选举中得到过半数[[美国选举人团|选举人票]]，以332票对206票击败共和党的[[米特?罗姆尼]]，成功连任美国总统<ref>{{cite news |title=Obama projected to win Ohio, will win re-election |author= |url=http://www.cbsnews.com/8301-250_162-57546123/obama-projected-to-win-ohio-will-win-re-election/?tag=MaxDeep;leadHed |newspaper=CBS News |date= |accessdate=2012年11月7日}}</ref><ref>{{cite news |title=Obama wins re-election; Ohio, Iowa, Wisconsin prove pivotal |author= |url=http://nbcpolitics.nbcnews.com/_news/2012/11/06/14976592-obama-wins-re-election-ohio-iowa-wisconsin-prove-pivotal?lite |newspaper=NBC News |date= |accessdate=2012年11月7日}}</ref><ref>{{cite news |title=President Obama Wins, Gets Second Term |author= |url=http://abcnews.go.com/Politics/barack-obama-wins-2012-election-term/story?id=17655541 |newspaper=ABC News |date= |accessdate=2012年11月7日}}</ref><ref>{{cite news |title=Obama wins re-election, CNN projects |author= |url=http://edition.cnn.com/2012/11/06/politics/election-2012/index.html?hpt=po_c1 |newspaper=CNN |date= |accessdate=2012年11月7日}}</ref>，民主党继续执政。这次选举投票率为58.2%<ref name="VEP12">{{cite web |url=http://elections.gmu.edu/Turnout_2012G.html |title=2012 General Election Turnout Rates |publisher=[[George Mason University]] |author=Dr. Michael McDonald |date=March 25, 2013 |accessdate=April 12, 2013}}</ref>。
+
+1	选举人团的变化	2	0	[]
+受到[[2010年美国人口普查]]的影响，2012年至2020年间选举总统的[[选举人团]]各州的名额分配有所变动。<ref>{{cite web |url=http://2010.census.gov/news/pdf/apport2010_table1.pdf |title=Table 1. Apportionment Population and Number of Representatives, by State: 2010 Census |date=December 21, 2010 |publisher=U.S. Census Bureau |accessdate=December 30, 2010}}</ref>右图中8个<span style="color:#153E7E;">'''蓝色'''</span>的州在选举人团的席位有所增加，10个<span style="color:#C35617;">'''橙色'''</span>的州的席位有所减少。于2011年后，民主党获得多数的州作会失去六票选举人票，当时[[阿尔?戈尔]]、[[约翰?凯利]]和[[巴拉克?欧巴马]]所胜出的选举人票将较前三届为少，剩下242票。相对而言，共和党将多赢六票，选情不明朗的州份剩下115票。
+[[File:Electoral_College_2012.svg|center|thumb|350px|图中橙色的区域在2012年大选中选举团减少，蓝色的增加。]]
+
+2	参选人	2	0	[3, 7, 11, 12]
+以下是正式宣布的参选人，他们是在2012年竞选总统，作为与联邦选举委员会（FEC）的候选人提交的参选人士，或已经形成了一个可能在2012年的总统竞选考察委员会。
+
+3	民主党	3	2	[4, 5, 6]
+
+4	初选	4	3	[]
+民主党籍的在任总统[[巴拉克?欧巴马]]按照惯例，在完成第一个任期后竞逐连任，成为党内初选中最有实力的候选人。初选在全国50个州分、[[华盛顿哥伦比亚特区|华盛顿特区]]、[[波多黎各]]、[[关岛]]、[[美属维京群岛]]、[[美属萨摩亚]]和[[北马里亚纳群岛]]举行。此外有超级党代表之称的党高层在全国大会持有一票。初选中，除了在一些县市未能击败个别对手外，奥巴马未有遭遇具威胁的考验。获得党内广泛支持的奥巴马在[[2012年]][[4月13日]]已获得被党提名至少所需的票数<ref>Jackson, David (April 4, 2012)[http://content.usatoday.com/communities/theoval/post/2012/04/this-just-in-obama-clinches-democratic-nomination/1#.T4R3afJmnj5 "It's official: Obama clinches Democratic nomination"], ''[[USA Today]]''. Retrieved April 10, 2012.</ref><ref>(April 4, 2012) [http://whitehouse.blogs.cnn.com/2012/04/04/obama-clinches-democratic-nomination/ "Obama Clinches Democratic Nomination"], [[CNN]]. Retrieved April 12, 2012.</ref>。在[[9月6日]]全国大会上，奥巴马和在任副总统[[乔?拜登]]获得民主党正式是名为总统和副总统候选人<ref>{{citeweb |url=http://abcnews.go.com/Politics/OTUS/president-obama-accepts-nomination-plan-leads-place/story?id=17174552#.UJfv3Gdj6So |title=Obama Accepts Nomination, Says His Plan Leads to a 'Better Place' |publisher=ABC News |date=2012年9月6日 |accessdate=2012年11月6日 }}</ref>。
+
+5	参选人	4	3	[]
+
+6	总统副总统候选人照片	4	3	[]
+
+7	共和党	3	2	[8, 9, 10]
+共和党的提名程序包括初选和[[党团会议]]，在全国50个州分、[[华盛顿特区]]、[[波多黎各]]、[[关岛]]、[[美属维京群岛]]、[[美属萨摩亚]]和[[北马里亚纳群岛]]举行。党团会议先把各党代表获分派到所属州分和全国大会，然后才举行党代表选举。党代表的选举办法每州各异，参选人可以透过当地地方大会、提交提名名单、委员会会议或直接从党团会议及初选中当选。
+
+8	初选	4	7	[]
+在初选前期早早宣布加入角逐共和党提名的参选人包括众议员[[荣?保罗]]、前州长[[蒂姆?普兰提]]、前州长[[米特?罗姆尼]]和前众议院议长[[纽特?金里奇]]。2011年5月11日，第一场辩论在[[南卡罗来纳州]][[格林维尔 (南卡罗来纳州)|格林维尔]]举行，商人[[赫尔曼?凯恩]]、前州长[[加里?约翰逊]]、保罗、普兰提、前州长[[里克?桑托勒姆]]参与其中。一个月后的另一场辩论参与者大致相同，除了约翰逊缺席外，加入战团的还有金里奇、罗姆尼、前驻华大使[[洪博培]]、众议员[[米歇尔?巴赫曼]]。在[[衣阿华州]]党团会议开展前合计有十三场辩论。
+在2011年8月13日于衣阿华州举行的[[艾姆斯民意调查]]是初选前夕的焦点之一。巴赫曼在民调中以些微优势胜出<ref>{{Cite news |last=Goldman |first=Russell |url=http://abcnews.go.com/blogs/politics/2012/01/bachmann-drops-out-of-presidential-race/ |title=Michele Bachmann Drops Out of Presidential Race |publisher=ABC News |date=July 5, 2012}}</ref>，而普兰提和众议员[[2012年撒迪厄斯?麦科特尔美国总统竞选|撒迪厄斯?麦科特尔]]则因支持度不足宣布退选<ref>{{cite web|url=http://www.politico.com/news/stories/0811/61098.html|title=Barred hopefuls make debate plans |last=Summers |first=Juana |date=August 11, 2011 |work=[[Politico (newspaper)|Politico]] |accessdate=July 5, 2012}}</ref>。部分保守派选民认为罗姆尼的政策太[[自由主义|自由]]和温和，于是一众被指是「反罗姆尼」的共和党人便引起关注<ref>{{cite web|url=http://in.reuters.com/article/2012/01/09/us-campaign-romney-idINDEE80804P20120109|title=Romney's rivals running out of time to stop him|first=Tim|last=Reid|date=January 9, 2012|work=[[Reuters]]|accessdate=July 5, 2012}}</ref><ref>Norington, Brad [http://www.theaustralian.com.au/news/world/romney-has-money-but-lacks-conviction/story-e6frg6ux-1226285540352 "Romney has money but lacks conviction"], ''[[The Australian]]''. Retrieved July 12, 2012.</ref>，包括商人[[唐纳德?川普]]<ref>Cohn, Alicia M. [http://thehill.com/video/campaign/198319-trump-romney-lacks-the-courage-to-participate-in-his-debate "Trump says Romney lacks the 'courage' to participate in Newsmax debate"], ''[[The Hill (newspaper)|The Hill]]''. Retrieved July 12, 2012.</ref>、前州长[[莎拉?佩林]]<ref>Stanley, Timothy (March 30, 2012) [http://www.cnn.com/2012/03/29/opinion/stanley-sarah-palin/ "If only Sarah Palin had run ..."], [[CNN]]. Retrieved July 12, 2012.</ref>、州长[[里克?佩里]]<ref>Cohen, Tom; Silverleib, Alan (September 1, 2011) [http://articles.cnn.com/2011-09-01/politics/republican.nomination_1_romney-and-bachmann-tea-party-sarah-palin?_s=PM:POLITICS "Seeking the 'anti-Romney' in the Republican presidential race"], [[CNN]].com. Retrieved July 12, 2012.</ref>。当中只有佩里正式宣布参选，可是他在辩论中表现欠佳，不足以威胁在竞选中领跑的凯恩和金里奇。凯恩却因丑闻缠身在2011年末退选<ref>{{cite web|url=http://www.newsday.com/news/nation/herman-cain-suspends-presidential-campaign-1.3355834|title=Herman Cain suspends presidential campaign|date=December 3, 2011|work=Newsday|accessdate=July 5, 2012}}</ref>。只能晋身一场辩论的约翰逊退党转投[[自由党 (美国)|自由党]]继续竞选<ref>{{cite web | url=http://politicalticker.blogs.cnn.com/2011/12/28/liberated-gary-johnson-seeks-libertarian-nomination/ | title='Liberated' Gary Johnson seeks Libertarian nomination | publisher=CNN | date=December 28, 2011 | accessdate=December 28, 2011 | author=Stewart, Rebecca}}</ref>。
+2012年1月，共和党党内初选正式开锣。首三场初选中，桑托勒姆在[[衣阿华州]]党团会议中先拔头筹，罗姆尼在[[新罕布什尔州]]初选胜出<ref>[http://mobile.bloomberg.com/news/2012-01-21/rick-santorum-is-declared-winner-of-iowa-caucuses-by-state-party-leaders Rick Santorum Is Declared Winner of Iowa Caucuses by State Party Leaders"] (January 21, 2012). [[Bloomberg News]].</ref>，金里奇出乎意料地以绝对优势取下[[南卡罗莱纳州]]<ref>{{cite news |url=http://www.thedailybeast.com/articles/2012/01/21/newt-gingrich-s-surprise-win-in-south-carolina-panics-republicans.html |title=Newt Gingrich's Surprise Win in South Carolina Panics Republicans |first=Paul |last=Begala |date=January 21, 2012}}</ref>，这是共和党史上首次出现首三场初选由不同候选人胜出的情况<ref name="Newtwins">{{cite web | url=http://www.csmonitor.com/USA/Elections/President/2012/0121/Newt-Gingrich-wins-South-Carolina.-Can-he-do-the-same-in-Florida | title=Newt Gingrich wins South Carolina. Can he do the same in Florida? | work=[[Christian Science Monitor]] | date=January 21, 2012 | accessdate=July 10, 2012 | author=Knickerbocker, Brad}}</ref>。在早期初选中失利的候选人纷纷宣布退下火线，先是在衣阿华州仅列第五的巴赫曼<ref>Sarah Wheaton, "[http://thecaucus.blogs.nytimes.com/2012/01/04/bachmann-says-she-will-not-continue-in-the-race/ Bachmann Says She Will Not Continue in the Race]" (January 4, 2012). ''The New York Times''.</ref>，然后是在新罕布什尔州得到第三的洪博培，还有在南卡罗莱纳州初选开始前宣布退选的佩里<ref>{{Cite news |first1=Jeff |last1=Zeleny |first2=Michael D. |last2=Shear  |newspaper=The New York Times |title=Perry to End Bid for Presidency |date=January 19, 2012 |url=http://thecaucus.blogs.nytimes.com/2012/01/19/perry-to-end-bid-for-presidency/ |accessdate=July 10, 2012}}</ref>。
+[[超级星期二]]前夕，桑托勒姆在2月7日一口气赢得三个州<ref>Madison, Lucy (February 8, 2012) [http://www.cbsnews.com/8301-503544_162-57373308-503544/santorum-hopes-to-build-momentum-from-3-state-sweep/ "Santorum hopes to build momentum from 3-state sweep"], [[CBS News]]. Retirieved August 27, 2012</ref>，而罗姆尼则取得[[佛罗里达州]]在内的余下七个州的初选。涉及十个州共391张党代表票的超级星期二在3月6日举行，结果罗姆尼取下六个州巩固领先优势，桑托勒姆共得三个州，而金里奇只赢得家乡[[乔治亚州]]<ref>[http://www.cnn.com/election/2012/primaries/dates/20120306 "Results: March 6, 2012 - Super Tuesday"], [[CNN]]. Retrieved July 12, 2012.</ref>。三月余下的日子中共有266个代表在12场选举中投票，包括海外属地的初选和本届首个地方大会（怀俄明州各县大会）。桑托勒姆赢得[[肯萨斯州]]和三个南部州分，但已难以追赶在3月所有选举中赢得过半票数的罗姆尼。
+4月10日，桑托勒姆终止竞选，使罗姆尼成为唯一具有竞争力的候选人，他的对手中只剩下自称「最后一个保守派」的金里奇依然未退选<ref>Gabriel, Trip (April 10, 2012) [http://thecaucus.blogs.nytimes.com/2012/04/10/gingrich-says-hes-in-the-race-to-the-end/# "Gingrich Says He's in the Race to the End"], ''[[The New York Times]]''.</ref>。未几，金里奇在4月25日透过发言人宣布将在5月1日退出<ref>[http://news.blogs.cnn.com/2012/04/25/overheard-on-cnn-com-what-brought-down-gingrichs-campaign-whats-next/ "Overheard on CNN.com: What brought down Gingrich's campaign? What's next?"], [[CNN]]. April 25, 2012.</ref>。在消息公布的同一天，共和党全国委员会宣布罗姆尼成为预定获提名人<ref>{{cite news |last=Shear |first=Michael D. |date=April 25, 2012 |title=Republican National Committee Backs Romney |url=http://thecaucus.blogs.nytimes.com/2012/04/25/republican-national-committee-backs-romney/ |newspaper=The New York Times |accessdate=May 2, 2012}}</ref>。保罗从未正式宣布退选，但其竞选活动在5月14日已终结。5月29日，[[得克萨斯州]]初选为罗姆尼锦上添花，此额外的155张代表人票让他得到获党提名的足够票数<ref name="romneyclinches">Holland, Steve (May 30, 2012) [http://www.reuters.com/article/2012/05/30/us-usa-campaign-romney-idUSBRE84T02720120530 "Romney clinches Republican 2012 nomination in Texas"], [[Reuters]]. Retrieved May 30, 2012.</ref>。
+8月28日共和党全国大会正式提名罗姆尼为代表该党的总统候选人<ref name="CBS News nominee">{{cite web | url=http://www.cbsnews.com/8301-503544_162-57502088-503544/republican-delegates-nominate-mitt-romney/ | title=Republican delegates nominate Mitt Romney | publisher=CBS News | date=August 28, 2012 | accessdate=August 28, 2012 | author=Caldwell, Leigh Ann}}</ref>。两天后，罗姆尼在同一场合发表接受提名演说<ref>O'Brien, Michael (August 30, 2012) [http://nbcpolitics.nbcnews.com/_news/2012/08/30/13578981-romney-accepts-nomination-says-the-time-has-come-to-turn-the-page?lite "Romney accepts nomination, says 'The time has come to turn the page' "], [[NBC News]]. Retrieved August 31, 2012.</ref>。
+
+9	参选人	4	7	[]
+
+10	总统副总统候选人照片	4	7	[]
+
+11	主要第三政党候选人	3	2	[]
+;[[自由党 (美国)|自由党]]
+:总统候选人：[[加利?约翰逊]]，前[[新墨西哥州]]州长。
+:副总统候选人：[[James P. Gray]]，[[加利福尼亚州]]籍退休州立法院法官。
+;[[绿党 (美国)|绿党]]
+:总统候选人：[[吉尔?史坦]]，[[马萨诸塞州]]籍医生。
+:副总统候选人：[[Cheri Honkala]]，[[宾夕凡尼亚]]籍社会运动家。
+;[[宪法党 (美国)|宪法党]]
+:总统候选人：[[Virgil Goode]]，[[弗吉尼亚州]]籍国会众议员。
+:副总统候选人：[[Jim Clymer]]，[[宾夕凡尼亚]]籍律师。
+;[[正义党(美国)|正义党]]
+:总统候选人：[[Rocky Anderson]]，前[[犹他州]][[盐湖城]]市长。
+:副总统候选人：[[Luis J. Rodriguez]]，[[加利福利亚州]]籍作家。
+
+12	党内大会	3	2	[]
+
+13	选举	2	0	[14]
+本届总统选举的选举日定于2012年11月6日，此前部分州分已在10月中旬至11月4日期间接受提早投票。选举的整个流程大致如下：
+
+14	结果	3	13	[]
+[[File:ElectoralCollege2012.svg|thumb|right|400px|总统选举结果地图。<span style="color:blue;">蓝色</span>代表奥巴马/拜登胜出的州分， <span style="color:#c20;">红色</span>代表罗姆尼/莱恩胜出的州分。数字显示在该州分胜出所得的[[美国选举人团|选举人票]]。]]
+
+15	参见	2	0	[]
+
+16	参考文献	2	0	[]
+
+17	外部链接	2	0	[18]
+
+18	候选人官方网站	3	17	[]
+;民主党
+;共和党
+;绿党
+;自由意志党
+;社会主义党
+;独立候选人
+[[Category:2012年选举]]
+[[Category:美国总统选举]]
+[[Category:2012年美国总统选举| ]]
+[[Category:2012年美国]]
+

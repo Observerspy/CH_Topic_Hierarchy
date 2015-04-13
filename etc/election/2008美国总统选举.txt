@@ -1,0 +1,1086 @@
+﻿{{noteTA
+|1=zh-hans:博客;zh-hk:blog;zh-tw:部落格;
+|2=zh-hans:艾森豪威尔威尔;zh-hk:艾森豪威尔;zh-tw:艾森豪威尔;
+|3=zh-hans:里根;zh-hk:列根;zh-tw:里根;
+|4=zh-hans:克林顿;zh-hk:克林顿;zh-tw:柯林顿;
+|5=zh-hans:尼克松;zh-hk:尼克逊;zh-tw:尼克松;
+|6=zh-hans:布什;zh-hk:布殊;zh-tw:布什;
+|7=zh-hans:切尼;zh-hk:切尼;zh-tw:钱尼;
+|8=zh-hans:马萨诸塞州;zh-hk:麻省;zh-tw:麻萨诸塞州;
+|9=zh-cn:奥巴马; zh-tw:欧巴马; zh-hk:奥巴马;
+|10=zh-hans:奥克拉何马;zh-hk:俄克拉荷马;zh-tw:俄克拉荷马;
+|11=zh-hans:得克萨斯;zh-hk:得克萨斯;zh-tw:得克萨斯;
+|12=zh-hans:佐治亚州;zh-hk:佐治亚州;zh-tw:乔治亚州;
+|13=zh-hans:希拉里;zh-hk:希拉莉;zh-tw:希拉里;
+|14=zh-hans:密歇根州;zh-hk:密执安州;zh-tw:密执安州;
+|15=zh-hans:艾奥瓦;zh-hk:爱荷华;zh-tw:爱荷华;
+|16=zh-hk:米高?彭博;zh-hans:米高?布隆伯格;zh-tw:迈克尔?布隆伯格;
+|17=zh-hans:弗吉尼亚州;zh-hk:维珍尼亚州;zh-tw:弗吉尼亚州;
+|18=zh-hans:康涅狄格;zh-hk:康涅狄格;zh-tw:康涅狄格;
+|19=zh:罕布什尔; zh-hans:罕布什尔; zh-hant:罕不什尔; zh-tw:罕布夏;
+}}
+{{Infobox Election
+| election_name = 2008年美国总统选举
+| country = United States
+| type = presidential
+| ongoing = no
+| previous_election = 2004年美国总统选举
+| previous_year = 2004
+| next_election = 2012年美国总统选举
+| next_year = 2012
+| election_date = 2008年11月4日
+| image1 = [[File:Official portrait of Barack Obama-2.jpg|152px]] 
+| nominee1 = [[巴拉克?奥巴马]]  
+| party1 = 民主党 (美国)
+| home_state1 = [[伊利诺伊州]]
+| running_mate1 = '''[[乔?拜登]]'''
+| electoral_vote1 = 365
+| states_carried1 = '''28+[[华盛顿哥伦比亚特区|华盛顿特区]]+[[内布拉斯加州第二国会选区|内-2]]'''
+| popular_vote1 = '''69,456,897'''
+| percentage1 = '''52.9%'''
+| image2 = [[File:John McCain official portrait with alternative background.jpg|164px]]
+| nominee2 = [[约翰?麦凯恩]] 
+| party2 = 共和党 (美国)
+| home_state2 =  [[亚利桑那州]]
+| running_mate2 = [[莎拉?佩林]]  
+| electoral_vote2 = 173
+| states_carried2 = 22
+| popular_vote2 = 59,934,814
+| percentage2 = 45.7%
+| map_image = ElectoralCollege2008.svg
+| map_size = 349px
+| map_caption = 总统选举结果地图，<font color=blue>蓝色</font>代表奥巴马/拜登获胜的州，<font color=red>红色</font>代表麦凯恩/佩林获胜的州。
+| title = 总统
+| before_election = [[乔治?沃克?布什]]
+| before_party = 共和党 (美国)
+| after_election = [[巴拉克?奥巴马]]
+| after_party = 民主党 (美国)
+}}
+
+'''2008年美国总统选举'''于2008年11月4日举行。[[美国总统|总统]]是[[美国军事|美国武装部队]]总司令、国家元首和政府首脑。[[美国副总统|副总统]]是总统的副手和联邦参议院议长。同一天，也进行了[[美国众议院|联邦众议院]]全部435个席位和[[美国参议院|参议院]]中37个席位的换届选举。
+
+根据[[美国宪法]]第二章和第十二修正案，选举将决定[[美国选举人团]]成员，赢得选举人团多数票的总统候选人（赢得至少270票）将出任第44任[[美国总统]]。如果没有候选人取得选举团多数票，则新总统由联邦众议院投票选出，而副总统由联邦参议院投票选出。当选总统及副总统将于2009年1月20日正式宣誓就职。
+
+2008年11月4日美国东部时间晚间11时，计票结果已经显示[[奥巴马]]以349比163选举人票当选为美国第44任[[总统]]。最终结果为奥巴马365票比麦凯恩173票选举人票。
+
+== 总统副总统候选人 ==
+{|class=wikitable
+!政党!!总统候选人!!副总统候选人!!网站
+|-
+|[[民主党 (美国)|民主党]]||[[巴拉克?奥巴马]]||[[乔?拜登]]||[http://barackobama.com/ barackobama.com]
+|-
+|[[共和党 (美国)|共和党]]||[[约翰?麦凯恩]]||[[莎拉?佩林]]||[http://johnmccain.com/ johnmccain.com]
+|}
+
+== 本次大选特色 ==
+=== 无在位候选人 ===
+在最近三场总统由于任期限制而无法竞选连任的选举中（[[艾森豪威尔威尔]]、[[里根]]、[[克林顿]]），在位副总统均作为所属党的总统候选人参选（[[尼克松]]在[[1960年美国总统选举|1960年]]败选；[[乔治?赫伯特?沃克?布什|乔治?布什]]在[[1988年美国总统选举|1988年]]胜选；[[艾伯特?戈尔]]在[[2000年美国总统选举|2000年]]败选）。
+
+现任副总统[[迪克?切尼|切尼]]于2001年宣布永不竞选总统职位，并于2004年公开重申：「如果被提名，也不参选；如果被选上，也不就职。」<ref>[http://www.foxnews.com/story/0,2933,146546,00.html Transcript: Vice President Cheney on 'FOX News Sunday']。Fox News Sunday. 2005年2月7日。2006年11月14日造访。</ref>
+
+=== 美国有史以来最昂贵的选举 ===
+2007年1月，联邦选举委员会主席迈克?唐纳（Michael E. Toner）称：「2008年美国总统选举是美国历史上最昂贵的一次。」他估计这次大选将花费10亿美元。各位候选人在2007年底之前必须筹集1亿美元的竞选经费。他称之为“1亿美元的入场费”<ref>[http://www.nydailynews.com/front/story/488673p-411469c.html 纽约日报]</ref>。
+
+=== 主要候选人皆不在[[美国本土]]出生 ===
+麦凯恩出生于[[巴拿马运河]]区域的美国海军基地；奥巴马出生于[[夏威夷州]]首府[[檀香山]]（当时夏威夷地区刚刚成为美国的一个[[美国州份|州]]）。虽然如此，这两位候选人都是“自然出生的美国公民”（出生时为美国公民）。所以并不会违反[[美国宪法]]关于美国总统当选资格的要求。
+
+=== 首位非裔美国人总统 ===
+* [[伊利诺伊州]]参议员[[奥巴马]]成为美国历史上首位[[非裔美国人]]总统（奥巴马之父是[[肯尼亚]]公民，奥巴马之母是美国[[白人]]）
+
+== 时间表 ==
+=== 早期 ===
+候选人于2006年开始活动，进行彩排和民意调查。由于联邦选举法律要求在[[初选]]就开始报告筹款情况，各候选人必须在2007年就开始筹款。
+
+在初选开始前，新闻媒体开始报道领跑的候选人资金筹措情况。[[希拉里?克林顿]]和[[巴拉克?奥巴马]]在2007年的头三个月筹到逾2千万美元，而[[约翰?麦凯恩]]则筹集到1千2百万美元。<ref>[http://archive.is/20120715121806/projects.washingtonpost.com/2008-presidential-candidates/finance/2007/q1/ 华盛顿邮报]</ref>
+
+== 重要日程 ==
+* 2008年1月3日：[[爱荷华州]]党团会议
+* 2008年1月8日：[[新罕布什尔州]]初选
+* 2008年1月15日：[[密执安州]]初选。密执安州因为在两个主要政党全国委员会批准的时间之外举行初选，丧失了民主党的位和共和党半数全国代表席位。<ref>"Michigan lost all 156 of its Democratic delegates for allocating delegates outside of the Democratic National Committee-approved timeframe; Michigan lost 30 of its 60 Republican delegates for allocating delegates outside of the Republican National Committee-approved timeframe." http://www.cnn.com/ELECTION/2008/primaries/results/state/#val=MI</ref>
+* 2008年1月19日：[[内华达州]]党团会议；[[南卡罗来纳州]]初选（共和党）
+* 2008年1月26日：[[南卡罗来纳州]]初选（民主党）
+* 2008年1月29日：[[佛罗里达州]]初选
+* 2008年2月5日：包括[[加利福尼亚州]]、[[纽约州]]、[[新泽西州]]、[[伊利诺伊州]]等20个州（[[超级星期二]]）
+* 2008年2月9日：[[刘易斯安纳州]]初选；[[内布拉斯加州]]、[[华盛顿州]]、[[美属维京群岛]]党团会议
+* 2008年2月12日：[[弗吉尼亚州]]、[[马里兰州]]、[[华盛顿哥伦比亚特区]]初选
+* 2008年2月19日：[[夏威夷州]]、[[威斯康星州]]、[[华盛顿州]]初选
+* 2008年3月4日：[[得克萨斯州]]、[[俄亥俄州]]、[[佛蒙特州]]、[[罗得岛州]]初选（第二个超级星期二／小超级星期二）
+* 2008年4月22日：[[宾夕法尼亚州]]初选
+* 2008年5月6日：[[印第安纳州]]、[[北卡罗莱纳州]]初选
+* 2008年5月20日：[[肯塔基州]]、[[俄勒冈州]]初选
+* 2008年6月1日：[[波多黎各]]初选（民主党）
+* 2008年6月3日：[[蒙大拿州]]、[[南达科他州]]初选
+* 2008年8月25日至[[8月28日|28日]]：民主党全国代表大会
+* 2008年9月1日至[[9月4日|4日]]：共和党全国代表大会
+* 2008年9月26日：两党总统候选人在[[密西西比州]]的[[牛津]]举行首场电视辩论
+* 2008年10月2日：两党副总统候选人在[[密苏里州]][[圣刘易斯]]举行首场电视辩论
+* 2008年10月7日：两党总统候选人在[[田纳西州]][[纳什维尔]]举行第二场电视辩论
+* 2008年10月15日：两党总统候选人在[[纽约州]][[亨普斯特德]]举行最后一场电视辩论
+* 2008年11月4日：由选民选出50个州及哥伦比亚特区的代表并组成[[美国选举人团]]，总统选举结果在事实上（非法律上）确定
+* 2008年12月15日：选举人在各州首府集会并根据本州岛普选结果投下总统和副总统选票
+* 2009年1月8日：国会召开两院联席会议，正式公告选举人团投票结果及当选名单<ref>[http://www.startribune.com/politics/national/congress/37278874.html Congress, in centuries-old tradition, confirms Obama as next president]</ref>
+* 2009年1月20日：新总统宣誓就职
+
+== 潜在候选人 ==
+[[2006年美国期中选举]]结束后，有雄心的政客开始表达参选意愿，组织总统勘探委员会（[[:en:Exploratory committee]]），进行资金筹措和旅行，以避开联邦法律的某些财务限制。
+
+在2007年2月开始的候选人论坛和辩论等正式场合，候选人的状态取决于是否获邀。在过去的历史中，一些弱小候选人试图不请自来，以增加媒体曝光率，但此举对其支持率无益。
+
+在竞选初期，许多强背景候选人犹抱琵琶半遮面，一些政客故意让政治活跃份子、党内同僚、媒体评论家和政治垃圾新闻写手兴奋揣测。
+
+=== 民主党 ===
+==== 候选人 ====
+截至2008年6月4日，[[巴拉克?欧巴马]]的党代表人数1762票，超级选举人票为394票，总和2156票，赢[[希拉里?柯林顿]]的党代表人数1637票，超级选举人票为283票，总和1920票，要拿2118张党代表票才能赢得民主党提名。因[[希拉里?柯林顿|希拉里]]承认竞选失败及退选，而欧巴马又获得足够的票数，最终民主党的候选人确定是[[巴拉克?欧巴马|欧巴马]]。
+
+==== 退出者 ====
+* 参议员、参议院外交委员会主席[[乔?拜登]]，[[特拉华州]]，2008年1月3日退出。
+* 参议员[[克里斯托弗?杜德]]，[[康涅狄格州]]，2008年1月3日退出。
+* [[新墨西哥州]]州长[[比尔?理查德森]]，2008年1月9日。<ref>[http://www.nytimes.com/2008/01/10/us/politics/10cnd-richardson.html?ref=us 纽约时报]</ref>
+* 众议员[[丹尼斯?库辛尼奇]]，2008年1月25日。<ref>[http://www.nytimes.com/2008/01/25/us/politics/25kucinich.html?ref=us 纽约时报]</ref>
+* 前参议员[[约翰?爱德华兹]]，2008年1月30日。<ref>{{cite news|url=http://www.webcitation.org/5VFZXbL6J
+|title=美总统参选人爱德华兹与朱利安尼退选
+|author=樊剑萍
+|publisher=WebCite
+|accessdate=2008年1月31日}}</ref>
+* 参议员[[希拉里]]，[[纽约州]]，2008年6月7日退出。<ref>
+[http://hk.news.yahoo.com/fc/news_fc_inuselection.html 雅虎新闻]</ref>
+
+=== 共和党 ===
+==== 候选人 ====
+随着其他竞争者相继退出，亚利桑那州的联邦参议员[[约翰?麦凯恩]]赢得共和党提名。
+
+==== 退出者 ====
+* 众议员[[荣?保罗]]，[[得克萨斯州]]
+* 参议员[[山姆?布朗百克]]，[[堪萨斯州]]
+* 前[[维珍尼亚州]]州长[[詹姆斯?吉尔摩]]
+* 前[[威斯康星州]]州长[[汤米?汤普森]]
+* 众议员[[汤姆?谭葵多]]，[[科罗拉多州]]
+* 众议员[[邓肯?亨特]] (Duncan Hunter)，1月18日。
+* 前参议员[[弗雷德?汤普森]]，2008年1月22日。<ref>[http://www.washingtonpost.com/wp-dyn/content/article/2008/01/22/AR2008012201957.html?hpid=topnews 华盛顿邮报]</ref>
+* 前[[纽约]]市长[[鲁迪?朱利亚尼]]，2008年1月30日。<ref>{{cite news|url=http://www.webcitation.org/5VFa5scMl
+|title=朱利安尼退出共和党初选 转支持马侃
+|author=刘坤原
+|publisher=WebCite
+|accessdate=2008年1月31日}}
+</ref>
+* 前马萨诸塞州长[[米特?罗姆尼]]，2008年2月7日<ref>[http://www.cnn.com/2008/POLITICS/02/07/romney.qa/ CNN,2008年2月7日]</ref>
+* 前阿肯色州长[[麦克?赫卡比]]，2008年3月4日<ref>[http://www.bloomberg.com/apps/news?pid=20601087&sid=a37Zs7KIW_Qo&refer=home 彭博通讯]</ref>
+
+=== 其他政党 ===
+==== [[宪法党 (美国)|宪法党]] ====
+* James Jilchrist, [[加利福尼亚州]]
+
+==== [[绿党 (美国)|绿党]] ====
+* Nan Garrett，[[佐治亚州]]
+* Kat Swift，[[得克萨斯州]]
+
+==== 个人自由党 ====
+* Steve Kubby，[[加利福尼亚州]] <ref>[http://www.kubby2008.com/ Steve Kubby竞选网站]</ref>
+* George Phillies，[[麻省]] <ref>[http://phillies2008.org/ George Phillies竞选网站]</ref>
+* Christine Smith，[[科罗拉多州]] <ref>[http://www.christinesmithforpresident.com Christine Smith竞选网站]</ref>
+
+==== 禁酒党 ====
+* Gene Amondson，[[华盛顿州]] <ref>[http://www.geneamondson.com/prohibition-party-2004.html Gene Amondson竞选网站]</ref>
+
+==== 美国社会党 ====
+* Brian Moore，[[佛罗里达州]]
+
+==== 美国社会主义工人党 ====
+* Roger Calero，[[新泽西州]]
+
+==== 独立候选人 ====
+* Steve Adams，[[肯塔基州]] <ref>[http://www.PresidentAdams.com Steve Adams竞选网站]</ref>
+* Bob W. Hargis，[[俄克拉何马州]] <ref>[http://www.hargis.info Steve Adams竞选网站]</ref>
+* Daniel Imperato，[[佛罗里达州]] <ref>[http://www.imperato2008.com Daniel Imperato竞选网站]</ref>
+* David Koch，[[犹他州]]
+* Ken Goldstein，[[加利福尼亚州]] <ref>[http://www.dave08.com/ David Koch Ken - Goldstein竞选网站]</ref>
+* Charles T. Maxham，[[新泽西州]] <ref>[http://home.earthlink.net/~maxhamforpresident/ Charles T. Maxham竞选网站]</ref>
+
+== 选举结果 ==
+{|class=wikitable
+!候选人!!所属政党!!总得票!!总得票率!!选举人得票!!选举人得票率!!结果
+|-
+|'''[[巴拉克?奥巴马]]<br />[[乔?拜登]]'''||'''[[民主党 (美国)|民主党]]'''||align=right|'''67,657,724'''||align=right|'''52.75%'''||align=right|'''365'''||align=right|'''69.26%''' ||'''当选'''
+|-
+|[[约翰?麦凯恩]]<br />[[莎拉?佩林]]||[[共和党 (美国)|共和党]]||align=right|58,862,563||align=right|45.90%||align=right|173||align=right|30.74%||
+|-
+|[[拉尔夫?纳德]]<br />[[麦特?冈萨雷兹]]||独立人士||align=right|704,317||align=right|0.55%||align=right|0||align=right|0%||
+|-
+|[[鲍伯?巴尔]]<br />[[韦恩?路特]]||[[自由党 (美国)|自由党]]||align=right|536,757||align=right|0.42%||align=right|0||align=right|0%||
+|-
+|[[楚克?巴尔德温]]<br />[[戴拉尔?卡斯图]]||[[宪法党 (美国)|宪法党]]||align=right|191,674||align=right|0.15%||align=right|0||align=right|0%||
+|-
+|[[辛西亚?麦金妮]]<br />[[罗莎?克莱门特]]||[[绿党 (美国)|绿党]]||align=right|155,757||align=right|0.12%||align=right|0||align=right|0%||
+|-
+!colspan=2|总数
+|align=right|'''128,251,213'''||align=right|'''100%'''||align=right|'''538'''||align=right|'''100% 
+|}
+
+=== 各州统计 ===
+[[File:2008 General Election Results by County.PNG|thumb|center|600px|依照-{zh-hk:县市;zh-tw:市郡;zh-cn:县市;}-独立之投票意向比较得出的结果。蓝色代表[[巴拉克?奥巴马]]胜出-{zh-hk:县市;zh-tw:市郡;zh-cn:县市;}-，红色代表[[约翰?麦凯恩]]胜出-{zh-hk:县市;zh-tw:市郡;zh-cn:县市;}-。]]
+{|class="wikitable" border="1"
+|- {{Party shading/Republican}}
+|[[约翰?麦凯恩]]／[[佩林]]胜出州份。
+|- {{Party shading/Democratic}}
+|[[巴拉克?奥巴马]]／[[拜登]]胜出州份。
+|}
+
+{| class="wikitable sortable" style="text-align:right;"
+|-
+!州份!![[巴拉克?奥巴马|奥巴马]]!![[约翰?麦凯恩|麦凯恩]]!![[拉尔夫?纳德|纳德]]!![[鲍勃?巴拿|巴拿]]!![[查克?百温|百温]]!![[辛西娅?麦根尼|麦根尼]]!!其他!!备注
+|- {{Party shading/Republican}}
+| style="text-align:left;" | [[亚拉巴马州]]
+| 813,479
+|'''1,266,546''' 
+| 6,788
+| 4,991
+| 4,310
+| 0
+| 3,705
+| <ref>http://www.sos.state.al.us/Elections/2008/ElectionInfo2008.aspx</ref>
+|- {{Party shading/Republican}}
+| style="text-align:left;" | [[阿拉斯加州]]
+| 123,594
+| '''193,841'''
+| 3,783 	
+| 1,589
+| 1,660 	
+| 0
+| 1,730 
+| <ref>http://soaelections.gci.net/data/results.htm</ref>
+|- {{Party shading/Republican}}
+| style="text-align:left;" | [[亚利桑那州]]
+| 1,034,707
+| ''' 1,230,111 '''
+| 11,301
+| 12,555 	
+| 1,371
+| 3,406
+| 24
+| <ref>http://www.azsos.gov/election/2008/General/Canvass2008GE.pdf</ref>
+|- {{Party shading/Republican}}
+| style="text-align:left;" | [[阿肯色州]]
+| 422,310
+| '''638,017'''
+| 12,882
+| 4,776
+| 4,023
+| 3,470
+| 1,139 
+| <ref>http://www.arelections.org/index.php?ac:show:contest_statewide=1&elecid=181&contestid=6</ref>
+|- {{Party shading/Democratic}}
+| style="text-align:left;" | [[加利福尼亚州]]
+| '''8,274,473'''
+| 5,011,781
+| 108,381
+| 67,582
+| 3,145
+| 38,774
+| 57,764 
+| <ref>http://www.sos.ca.gov/elections/sov/2008_general/sov_complete.pdf</ref>
+|- {{Party shading/Democratic}}
+| style="text-align:left;" | [[科罗拉多州]]
+| '''1,288,576'''
+| 1,073,589
+| 13,350
+| 10,897
+| 6,233
+| 2,822
+| 5,894 
+| <ref>http://coreports.ezvotetally.com/CanvassReportCumulative/tabid/59/Default.aspx</ref>
+|- {{Party shading/Democratic}}
+| style="text-align:left;" | [[康涅狄格州]]
+| '''997,772'''
+| 629,428
+| 19,162
+| 
+| 311
+| 90
+| 29
+| <ref>http://www.sots.ct.gov/sots/lib/sots/electionservices/electionresults/2008_election_results/2008_president_by_cd.pdf</ref>
+|- {{Party shading/Democratic}}
+| style="text-align:left;" | [[特拉华州]]
+| '''255,459'''
+| 152,374
+| 2,401
+| 1,109
+| 626
+| 385
+| 58 
+| <ref>http://elections.delaware.gov/results/html/stwoff_KNS.shtml</ref>
+|- {{Party shading/Democratic}}
+| style="text-align:left;" | [[华盛顿哥伦比亚特区]]
+| '''245,800'''
+| 17,367
+| 958
+| 
+| 
+| 590
+| 1,138 
+| <ref>http://www.dcboee.org/election_info/election_results/election_result_new/results_final_gen.asp?prev=0&electionid=2&result_type=3</ref>
+|- {{Party shading/Democratic}}
+| style="text-align:left;" | [[佛罗里达州]]
+| '''4,282,074'''
+| 4,045,624
+| 28,124
+| 17,218
+| 7,915
+| 2,887
+| 6,902 
+| <ref>http://election.dos.state.fl.us/elections/resultsarchive/enight.asp</ref>
+|- {{Party shading/Republican}}
+| style="text-align:left;" | [[乔治亚州]]
+| 1,844,137
+| '''2,048,744'''
+| 1,123
+| 28,812
+| 1,305
+| 249
+| 62 
+| <ref>http://sos.georgia.gov/elections/election_results/2008_1104/swfed.htm</ref>
+|- {{Party shading/Democratic}}
+| style="text-align:left;" | [[夏威夷州]]
+| '''325,871'''
+| 120,566
+| 3,825
+| 1,314
+| 1,013
+| 979
+| 
+| <ref>http://hawaii.gov/elections/results/2008/general/</ref>
+|- {{Party shading/Republican}}
+| style="text-align:left;" | [[爱德荷州]]
+| 236,440
+| '''403,012'''
+| 7,175
+| 4,747
+| 3,658
+|
+|
+| <ref>http://www.sos.idaho.gov/ELECT/results/2008/General/tot_stwd.htm</ref>
+|- {{Party shading/Democratic}}
+| style="text-align:left;" | [[伊利诺伊州]]
+| '''3,419,673'''
+| 2,031,527
+| 30,952
+| 19,645
+| 8,256
+| 11,838
+| 1,160
+| <ref>http://www.elections.il.gov/ElectionInformation/VoteTotalsList.aspx?officeid=4555</ref>
+|- {{Party shading/Democratic}}
+| style="text-align:left;" | [[印地安那州]]
+| '''1,374,039'''
+| 1,345,648
+| 909
+| 29,257
+| 1024
+| 87
+| 90
+| <ref>http://www.in.gov/apps/sos/election/general/general2008?page=office&countyID=-1&officeID=36&districtID=-1&candidate=</ref>
+|- {{Party shading/Democratic}}
+| style="text-align:left;" | [[衣阿华州]]
+| '''828,940'''
+| 682,379
+| 8,014
+| 4,590
+| 4,445
+| 1,423
+| 7,332 
+| <ref>http://www.sos.state.ia.us/pdfs/elections/2008/OfficialCanvass2008General.pdf</ref>
+|- {{Party shading/Republican}}
+| style="text-align:left;" | [[堪萨斯州]]
+| 514,765
+| '''699,655'''
+| 10,527
+| 6,706
+| 4,148
+| 35
+| 36
+| <ref>http://www.kssos.org/elections/08elec/2008_General_Official_Results.pdf</ref>
+|- {{Party shading/Republican}}
+| style="text-align:left;" | [[肯塔基州]]
+| 751,985
+| '''1,048,462'''
+| 15,378
+| 5,989
+| 4,694
+| 
+|
+| <ref>http://elect.ky.gov/NR/rdonlyres/1283C01A-3F26-4821-8336-5878446F15E4/173402/STATE.TXT</ref> 
+|- {{Party shading/Republican}}
+| style="text-align:left;" | [[路易西安那州]]
+| 782,989
+| '''1,148,275'''
+| 6,997
+| 
+| 2,581
+| 9,187 
+| 10,732
+| <ref>http://www400.sos.louisiana.gov:8090/cgibin/?rqstyp=elcms2&rqsdta=110408</ref>
+|- {{Party shading/Democratic}}
+| style="text-align:left;" | [[缅因州]]
+| '''421,923'''
+| 295,273
+| 10,636
+| 
+| 
+| 2,900
+| 431
+| <ref name="maine-results">http://www.maine.gov/sos/cec/elec/2008/tabs-can-pr-cnty-11-08.html</ref>
+|- {{Party shading/Democratic}}
+| style="text-align:right;" | ''[[缅因州国会第一选区|缅因州<br />国会第一选区]]''
+| '''232,145'''
+| 144,604
+| 5,263
+| 
+| 
+| 1,362
+| 252
+| <ref name="maine-results"/>
+|- {{Party shading/Democratic}}
+| style="text-align:right;" | ''[[缅因州国会第二选区|缅因州<br />国会第二选区]]''
+| '''189,778'''
+| 150,669
+| 5,373
+| 
+| 
+| 1,538
+| 179
+| <ref>http://maine.gov/sos/cec/elec/2008/tabs-can-pr-condistrict-summary-11-08.html</ref>
+|- {{Party shading/Democratic}}
+| style="text-align:left;" | [[马里兰州]]
+| '''1,629,467'''
+| 959,862
+| 14,713
+| 9,842
+| 3,760
+| 4,747
+| 9,205
+| <ref>http://www.elections.state.md.us/elections/2008/results/general/office_President_and_Vice_President_of_the_United_States.html</ref>
+|- {{Party shading/Democratic}}
+| style="text-align:left;" | [[麻萨诸塞州]]
+| '''1,904,097'''
+| 1,108,854
+| 28,841
+| 13,189
+| 4,971
+| 6,550
+| 14,483
+| <ref>http://www.sec.state.ma.us/ele/elepdf/2008%20Return%20of%20Votes%20Complete.pdf</ref>
+|- {{Party shading/Democratic}}
+| style="text-align:left;" | [[密歇根州]]
+| '''2,872,579'''
+| 2,048,639
+| 33,085
+| 23,716
+| 14,685
+| 8,892
+| 170 
+| <ref>http://miboecfr.nictusa.com/election/results/08GEN/01000000.html</ref>
+|- {{Party shading/Democratic}}
+| style="text-align:left;" | [[明尼苏达州]]
+| '''1,573,354'''
+| 1,275,409
+| 30,152
+| 9,174
+| 6,787
+| 5,174
+| 10,319
+| <ref>http://electionresults.sos.state.mn.us/20081104/ElecRslts.asp?M=S&R=P</ref>
+|- {{Party shading/Republican}}
+| style="text-align:left;" | [[密西西比州]]
+| 554,662
+| '''724,597'''
+| 4,011
+| 2,529
+| 2,551
+| 1,034
+| 481
+| <ref>http://www.sos.state.ms.us/elections/2008/08%20Certification%20Results/Cert/President%20&%20VP.pdf</ref>
+|- {{Party shading/Republican}}
+| style="text-align:left;" | [[密苏里州]]
+| 1,441,911 
+| '''1,445,814 '''
+| 17,813 
+| 11,386 
+| 8,201 	
+| 80
+|
+| <ref>[http://www.sos.mo.gov/enrweb/statewideresults.asp?eid=256 Missouri Secretary of State Official Election Returns - 2008 General Election]</ref>
+|- {{Party shading/Republican}}
+| style="text-align:left;" | [[蒙大拿州]]
+| 231,667
+| '''242,763'''
+| 3,686
+| 1,355
+| 
+| 
+| 10,638 
+| <ref>http://sos.mt.gov/elb/archives/2008/results/2008_State_General.pdf</ref>
+|- {{Party shading/Republican}}
+| style="text-align:left;" | [[内布拉斯加州]]
+| 333,319
+| '''452,979'''
+| 5,406
+| 2,740
+| 2,972
+| 1,028
+| 2,837
+| <ref name="ne-results">http://www.sos.ne.gov/elec/pdf/2008%20General%20Canvass%20Book.pdf</ref>
+|- {{Party shading/Republican}}
+| style="text-align:right;" | ''[[内布拉斯加州国会第一选区|内布拉斯加州<br />国会第一选区]]''
+| 121,468
+| '''148,179'''
+| 1,970
+| 929
+| 1,019
+| 393
+|
+| <ref name="ne-results"/>
+|- {{Party shading/Democratic}}
+| style="text-align:right;" | ''[[内布拉斯加州国会第二选区|内布拉斯加州<br />国会第二选区]]''
+| '''138,752'''
+| 135,439
+| 1,621
+| 1,007
+| 604
+| 321
+| 
+| <ref name="ne-results"/>
+|- {{Party shading/Republican}}
+| style="text-align:right;" | ''[[内布拉斯加州国会第三选区|内布拉斯加州<br />国会第三选区]]''
+| 73,099
+| '''169,361'''
+| 1,815
+| 804
+| 1,349
+| 314
+| 
+| <ref name="ne-results"/>
+|- {{Party shading/Democratic}}
+| style="text-align:left;" | [[内华达州]]
+| '''533,736'''
+| 412,827
+| 6,150
+| 4,263
+| 3,194
+| 1,411
+| 6,267
+| <ref>http://sos.state.nv.us/elections/results/2008StateWideGeneral/ElectionSummary.asp</ref>
+|- {{Party shading/Democratic}}
+| style="text-align:left;" | [[新罕布什尔州]]
+| '''384,826'''
+| 316,534
+| 3,503
+| 2,217
+| 226
+| 40
+| 3,624
+| <ref>[http://www.sos.nh.gov/general2008/sumpres08.htm]</ref><ref>[http://www.sos.nh.gov/sumpres%20w-ins2008.pdf]</ref>
+|- {{Party shading/Democratic}}
+| style="text-align:left;" | [[新泽西州]]
+| '''2,215,422'''
+| 1,613,207
+| 21,298
+| 8,441
+| 3,956
+| 3,636
+| 2,277 
+| <ref>http://www.njelections.org/2008results/08generalelection/08-official-gen-elect-tallies-pres-120208.pdf</ref>
+|- {{Party shading/Democratic}}
+| style="text-align:left;" | [[新墨西哥州]]
+| '''472,422'''
+| 346,832
+| 5,327
+| 2,428
+| 1,597
+| 1,552
+| 
+| <ref>http://67.192.207.121/county0.htm</ref>
+|- {{Party shading/Democratic}}
+| style="text-align:left;" | [[纽约州]]
+| '''4,769,700'''
+| 2,742,298
+| 41,086
+| 19,513 
+| 614
+| 12,729 
+| 8,873 
+| <ref>http://www.elections.state.ny.us/2008ElectionResults.html</ref>
+|- {{Party shading/Democratic}}
+| style="text-align:left;" | [[北卡罗来纳州]]
+| '''2,142,651'''
+| 2,128,474
+| 
+| 25,722
+| 
+| 
+| 13,942
+| <ref>http://results.enr.clarityelections.com/NC/7937/14128/en/summary.html</ref>
+|- {{Party shading/Republican}}
+| style="text-align:left;" | [[北达科他州]]
+| 141,278
+| '''168,601'''
+| 4,189
+| 1,354
+| 1,199
+| 
+| 
+| <ref>http://web.apps.state.nd.us/sec/emspublic/gp/electionresultssearch.htm?showMap=N&cmd=Search&electionDate=11042008&searchType=STATE</ref>
+|- {{Party shading/Democratic}}
+| style="text-align:left;" | [[俄亥俄州]]
+| '''2,933,388'''
+| 2,674,491
+| 42,288
+| 19,888
+| 12,550
+| 8,513
+| 7,142
+| <ref>http://vote.sos.state.oh.us/pls/enrpublic/f?p=130:14:0</ref>
+|- {{Party shading/Republican}}
+| style="text-align:left;" | [[俄克拉何马州]]
+| 502,496
+| '''960,165'''
+| 
+| 
+| 
+| 
+| 
+| <ref>http://www.ok.gov/~elections/08gen.html</ref>
+|- {{Party shading/Democratic}}
+| style="text-align:left;" | [[奥勒冈州]]
+| '''1,037,291'''
+| 738,475
+| 18,614
+| 7,635
+| 7,693
+| 4,543
+| 13,613 
+| <ref>http://www.sos.state.or.us/elections/nov42008/results/pr.pdf</ref>
+|- {{Party shading/Democratic}}
+| style="text-align:left;" | [[宾夕法尼亚州]]
+| '''3,276,363'''
+| 2,655,885
+| 42,977
+| 19,912
+| 
+| 
+| 
+| <ref>http://www.electionreturns.state.pa.us/ElectionsInformation.aspx?FunctionID=13&ElectionID=28&OfficeID=1</ref>
+|- {{Party shading/Democratic}}
+| style="text-align:left;" | [[罗得岛州]]
+| '''296,571'''
+| 165,391
+| 4,829
+| 1,382
+| 675
+| 797
+| 122
+| <ref>http://www.ri.gov/election/results/2008/general_election/</ref>
+|- {{Party shading/Republican}}
+| style="text-align:left;" | [[南卡罗莱那州]]
+| 862,449
+| '''1,034,896'''
+| 5,053
+| 7,283
+| 6,827
+| 4,461
+| 
+| <ref>http://www.enr-scvotes.org/SC/8562/13981/en/summary.html</ref>
+|- {{Party shading/Republican}}
+| style="text-align:left;" | [[南达科他州]]
+| 170,924
+| '''203,054'''
+| 4,267
+| 1,835
+| 1,895
+|
+| 
+| <ref>http://www.sdsos.gov/electionsvoteregistration/pastelections_electioninfo08_generalsw.shtm</ref>
+|- {{Party shading/Republican}}
+| style="text-align:left;" | [[田纳西州]]
+| 1,087,437
+| '''1,479,178'''
+| 11,560
+| 8,547
+| 8,191
+| 2,499
+| 2,337
+| <ref>http://www.tennessee.gov/sos/election/results/2008-11/swpressen.pdf</ref>
+|- {{Party shading/Republican}}
+| style="text-align:left;" | [[得克萨斯州]]
+| 3,528,633
+| '''4,479,328'''
+| 5,214
+| 56,116
+| 5,052
+| 671
+| 2,781
+| <ref>http://www.sos.state.tx.us/elections/historical/presidential.shtml</ref>
+|- {{Party shading/Republican}}
+| style="text-align:left;" | [[犹他州]]
+| 327,670
+| '''596,030'''
+| 8,416
+| 6,966
+| 12,012
+| 982
+| 294
+| <ref>http://elections.utah.gov/CANVASS%202008.xls</ref>
+|- {{Party shading/Democratic}}
+| style="text-align:left;" | [[佛蒙特州]]
+| '''219,262'''
+| 98,974
+| 3,339
+| 1,067
+| 500
+| 
+| 1,904
+| <ref>http://vermont-elections.org/elections1/2008GEUSPres.xls</ref>
+|- {{Party shading/Democratic}}
+| style="text-align:left;" | [[弗吉尼亚州]]
+| '''1,959,532'''
+| 1,725,005
+| 11,483
+| 11,067
+| 7,474
+| 2,344
+| 6,355
+| <ref>https://www.voterinfo.sbe.virginia.gov/election/DATA/2008/07261AFC-9ED3-410F-B07D-84D014AB2C6B/Official/1_s.shtml</ref>
+|- {{Party shading/Democratic}}
+| style="text-align:left;" | [[华盛顿州]]
+| '''1,750,848'''
+| 1,229,216
+| 29,489
+| 12,728 
+| 9,432
+| 3,819
+| 1,346
+| <ref>http://vote.wa.gov/elections/wei/Results.aspx?RaceTypeCode=O&JurisdictionTypeID=1&ElectionID=26&ViewMode=Results</ref>
+|- {{Party shading/Republican}}
+| style="text-align:left;" | [[西弗吉尼亚州]]
+| 303,857
+| '''397,466'''
+| 7,219
+| 
+| 2,465
+| 2,355
+| 89
+| <ref>http://www.wvvotes.com/election-results/results-statewide.php</ref><ref>http://www.wvsos.com/elections/history/OfficialWrite-inTotals_Gen08.pdf</ref>
+|- {{Party shading/Democratic}}
+| style="text-align:left;" | [[威斯康星州]]
+| '''1,677,211'''
+| 1,262,393
+| 17,605
+| 8,858
+| 5,072
+| 4,216
+| 8,062
+| <ref>http://elections.state.wi.us/docview.asp?docid=15399&locid=47</ref>
+|- {{Party shading/Republican}}
+| style="text-align:left;" | [[怀俄明州]]
+| 82,868
+| '''164,958'''
+| 2,525
+| 1,594
+| 1,192
+| 
+| 1,521
+| <ref>http://soswy.state.wy.us/Elections/08Results/General/SW-Candidates.pdf</ref>
+|- {{Party shading/Democratic}}
+| style="text-align:left;" | 全[[美国]]总计
+| '''69,456,897'''
+| 59,934,814
+| 736,804
+| 524,524
+| 196,461
+| 161,195
+| 226,908
+|
+|}
+
+=== 选举人票比较 ===
+{| class="wikitable sortable"
+|-
+!州份!![[约翰?麦凯恩]]!![[巴拉克?奥巴马]]!!备注
+|- {{Party shading/Republican}}
+|[[亚拉巴马州]]
+| align=right | 9
+| align=right | 0
+| align=right |
+|- {{Party shading/Republican}}
+|[[阿拉斯加州]]
+| align=right | 3
+| align=right | 0
+| align=right | -
+|- {{Party shading/Republican}}
+|[[亚利桑那州]]
+| align=right | 10
+| align=right | 0
+| align=right | -
+|- {{Party shading/Republican}}
+|[[阿肯色州]]
+| align=right | 6
+| align=right | 0
+| ABC, NBC projections
+|- {{Party shading/Democratic}}
+|[[加利福尼亚州]]
+| align=right | 0
+| align=right | 55
+| align=right | -
+|- {{Party shading/Democratic}}
+|[[科罗拉多州]]
+| align=right | 0
+| align=right | 9
+| align=right |
+|- {{Party shading/Democratic}}
+|[[康涅狄格州]]
+| align=right | 0
+| align=right | 7
+| CNN projection
+|- {{Party shading/Democratic}}
+|[[特拉华州]]
+| align=right | 0
+| align=right | 3
+| CNN projection
+|- {{Party shading/Democratic}}
+|[[华盛顿哥伦比亚特区]]
+| align=right | 0
+| align=right | 3
+| CNN projection
+|- {{Party shading/Democratic}}
+|[[佛罗里达州]]
+| align=right | 0
+| align=right | 27
+|
+|- {{Party shading/Republican}}
+|[[乔治亚州]]
+| align=right | 15
+| align=right | 0
+| CNN projection
+|- {{Party shading/Democratic}}
+|[[夏威夷州]]
+| align=right | 0
+| align=right | 4
+|
+|- {{Party shading/Republican}}
+|[[爱德荷州]]
+| align=right | 4
+| align=right | 0
+|
+|- {{Party shading/Democratic}}
+|[[伊利诺伊州]]
+| align=right | 0
+| align=right | 21
+| CNN projection
+|- {{Party shading/Democratic}}
+|[[印地安那州]]
+| align=right | 0
+| align=right | 11
+|
+|- {{Party shading/Democratic}}
+|[[爱荷华州]]
+| align=right | 0
+| align=right | 7
+| CNN projection
+|- {{Party shading/Republican}}
+|[[堪萨斯州]]
+| align=right | 6
+| align=right | 0
+| NBC, ABC projections
+|- {{Party shading/Republican}}
+|[[肯塔基州]]
+| align=right | 8
+| align=right | 0
+|CNN, FOX News projections
+|- {{Party shading/Republican}}
+|[[路易西安那州]]
+| align=right | 9
+| align=right | 0
+| ABC, NBC projections
+|- {{Party shading/Democratic}}
+|[[缅因州]]
+| align=right | 0
+| align=right | 2
+| CNN projection
+|- {{Party shading/Democratic}}
+|[[马里兰州]]
+| align=right | 0
+| align=right | 10
+| CNN projection
+|- {{Party shading/Democratic}}
+|[[麻萨诸塞州]]
+| align=right | 0
+| align=right | 12
+| CNN projection
+|- {{Party shading/Democratic}}
+|[[密执安州]]
+| align=right | 0
+| align=right | 17
+|CNN projection
+|- {{Party shading/Democratic}}
+|[[明尼苏达州]]
+| align=right | 0
+| align=right | 10
+|CNN projection
+|- {{Party shading/Republican}}
+|[[密西西比州]]
+| align=right | 6
+| align=right | 0
+|
+|- {{Party shading/Republican}}
+|[[密苏里州]]
+| align=right | 11
+| align=right | 0
+| align=right | -
+|- {{Party shading/Republican}}
+|[[蒙大拿州]]
+| align=right | 3
+| align=right | 0
+| CNN projection
+|- {{Party shading/Republican}}
+|[[内布拉斯加州]]
+| align=right | 4
+| align=right | 1<ref>内布拉斯加州选举人票采依普选票比例分配，麦凯恩赢得全州普选票及[[内布拉斯加州第一国会选区|第一]]、[[内布拉斯加州第三国会选区|三国会选区]]普选票，故取得代表参议员席次及两个众议院选区的四张选举人票；欧巴马赢得第二国会选区普选票，因此亦获得代表一个国会选区的一张选举人票。[http://omaha.com/index.php?u_page=2835&u_sid=10481441 Omaha World-Herald: Obama wins electoral vote in Nebraska]</ref>
+| align=right | -
+|- {{Party shading/Republican}}
+|[[内华达州]]
+| align=right | 5
+| align=right | 0
+| align=right | -
+|- {{Party shading/Democratic}}
+|[[新罕布什尔州]]
+| align=right | 0
+| align=right | 4
+| CNN, FOX News projections
+|- {{Party shading/Democratic}}
+|[[新泽西州]]
+| align=right | 0
+| align=right | 15
+| CNN projection
+|- {{Party shading/Democratic}}
+|[[新墨西哥州]]
+| align=right | 0
+| align=right | 5
+| ABC, NBC projections
+|- {{Party shading/Democratic}}
+|[[纽约州]]
+| align=right | 0
+| align=right | 31
+|CNN projection
+|- style="background:#98FB98"
+|- {{Party shading/Democratic}}
+|[[北卡罗来纳州]]
+| align=right | 0
+| align=right | 15
+|
+|- {{Party shading/Republican}}
+|[[北达科他州]]
+| align=right | 3
+| align=right | 0
+| Consensus projection
+|- {{Party shading/Democratic}}
+|[[俄亥俄州]]
+| align=right | 0
+| align=right | 20
+|CNN, Fox News projection
+|- {{Party shading/Republican}}
+|[[俄克拉何马州]]
+| align=right | 7
+| align=right | 0
+| CNN projection
+|- {{Party shading/Democratic}}
+|[[奥勒冈州]]
+| align=right | 0
+| align=right | 7
+| CNN projection
+|- {{Party shading/Democratic}}
+|[[宾夕法尼亚州]]
+| align=right | 0
+| align=right | 21
+| Consensus projection
+|- {{Party shading/Democratic}}
+|[[罗得岛州]]
+| align=right | 0
+| align=right | 4
+|CNN projection
+|- {{Party shading/Republican}}
+|[[南卡罗莱那州]]
+| align=right | 8
+| align=right | 0
+|CNN, NBC projections
+|- {{Party shading/Republican}}
+|[[南达科他州]]
+| align=right | 3
+| align=right | 0
+| 
+|- {{Party shading/Republican}}
+|[[田纳西州]]
+| align=right | 11
+| align=right | 0
+| CNN projection
+|- {{Party shading/Republican}}
+|[[得克萨斯州]]
+| align=right | 34
+| align=right | 0
+| Consensus projection
+|- {{Party shading/Republican}}
+|[[犹他州]]
+| align=right | 5
+| align=right | 0
+| CNN projection
+|- {{Party shading/Democratic}}
+|[[佛蒙特州]]
+| align=right | 0
+| align=right | 3
+|CNN, FOX News projections
+|- {{Party shading/Democratic}}
+|[[弗吉尼亚州]]
+| align=right | 0
+| align=right | 13
+| <ref name="VSBE">[https://www.voterinfo.sbe.virginia.gov/election/DATA/2008/07261AFC-9ED3-410F-B07D-84D014AB2C6B/Unofficial/1_s.shtml VA State Board of Elections: November 2008 Unofficial Results]</ref>
+|- {{Party shading/Democratic}}
+|[[华盛顿州]]
+| align=right | 0
+| align=right | 11
+| align=right | -
+|- {{Party shading/Republican}}
+|[[西弗吉尼亚州]]
+| align=right | 5
+| align=right | 0
+|CBS, FOX News projections
+|- {{Party shading/Democratic}}
+|[[威斯康星州]]
+| align=right | 0
+| align=right | 10
+|CNN projection
+|- {{Party shading/Republican}}
+|[[怀俄明州]]
+| align=right | 3
+| align=right | 0
+|CNN projection
+|}
+
+== 总结 ==
+2008年11月5日民主党候选人[[巴拉克?欧巴马]]在选举胜出，于2009年1月20日宣布就任[[美国]]第四十四任总统，成为[[美国]]首位黑人总统。
+
+== 相关条目 ==
+* [[美国选举人团]]
+* [[奥巴马的美国总统竞选运动]]
+* [[巴拉克?奥巴马]]
+* [[约翰?麦凯恩]]
+* [[乔?拜登]]
+* [[莎拉?佩林]]
+* [[美国总统选举]]
+
+== 外部链接 ==
+* [http://newsblogs.chicagotribune.com/news_theswamp/ 《芝加哥论坛报》2008年大选blog]
+* [http://www.chinanews.com.cn/special/2008/0606/7.shtml 中国新闻网专题报导－2008美国总统大选]
+
+== 参考文献 ==
+{{Reflist|2}}
+
+{{Uspresidentialelections}}
+
+[[Category:2008年美国总统选举|*]]

@@ -1,0 +1,164 @@
+﻿{{Infobox Election
+|election_name      = 2007年大韩民国总统选举
+|country            = Republic of Korea
+|type               = presidential
+|ongoing            = no
+|previous_election  = 2002年大韩民国总统选举
+|previous_year      = 2002
+|next_election      = 2012年大韩民国总统选举
+|next_year          = 2012
+|election_date      = 2007年12月19日
+|image1 = [[File:Sebastián_Pi?era_-_Lee_Myung-bak_(cropped).jpg|133px]]
+|nominee1 = [[李明博]]
+|party1 = 大国家党
+|popular_vote1 = '''11,492,389'''
+|percentage1 = '''48.7%'''
+|image2 = [[Image:Chungdongyoung1.jpg|130px]]
+|nominee2 = [[郑东泳]]
+|party2 = 大统合民主新党
+|popular_vote2 = 6,174,681
+|percentage2 = 26.1%
+|image3 = [[File:Lee Hoi-chang (2010).jpg|107px]]
+|nominee3 = [[李会昌]]
+|party3 =  无党籍
+|popular_vote3 = 3,559,963
+|percentage3 = 15.1%
+|map_image          = South Korean presidential election 2007.svg
+|map_size           = 250px
+|map_caption        = 选票分布<br>
+<span style="color:#098CDC;">■</span> – 李明博得票较多
+<span style="color:#6DC285;">■</span> – 郑东泳得票较多
+<span style="color:#DDDDDD;">■</span> – 李会昌得票较多
+|title=总统
+|before_election=[[卢武铉]]
+|before_party=大统合民主新党
+|after_election=[[李明博]]
+|after_party=大国家党
+}}
+[[File:2007 korea presidential election adv.jpg|thumb|250px|2007年大韩民国总统选举的候选人海报]]
+
+'''2007年大韩民国总统选举'''已于[[2007年]][[12月19日]]进行<ref> [http://www.nec.go.kr/upload/data/1168819464264_Pms_20071219.hwp Schedule of 17th presidential election]（[[Hangul]] 2002 format）</ref>；是次选举是为了选出新的一任[[大韩民国总统]]，成为[[卢武铉]]卸任之后下一任的总统。是次选举结果于[[12月19日]]当日公布，在野大国家党候选人[[李明博]]当选，结束自由派长达十年的统治，保守派大国家党重掌政权，第二次和平实现政党轮替。
+
+== 参选情况 ==
+{{韩国政治}}
+*2007年6月17日，[[大韩民国]]第一位女总理[[韩明淑]]（???）宣布将会竞逐是届的总统选举。<ref>(http://www.news24.com/News24/World/News/0,,2-10-1462_2131764,00.html)</ref> 
+*此外，在野右翼[[大国家党]]国会成员[[首尔]]前市长[[李明博]]（???）以及党主席[[朴槿惠]]已经展开相关的选举工程。
+*8月20日，李明博以81,084票，险胜朴槿惠（???）的78,632票，成为大国家党总统候选人。<ref>(http://www.news24.com/News24/World/News/0,,2-10-1462_2131764,00.html)</ref> 
+*10月15日，执政党[[大统合民主新党]]宣布由[[郑东泳]]（???）以获得舆论调查216,984票，领先于获得168,799票的[[孙鹤圭]]（???）和获得110,128票的[[李海瓒]]（???），最终当选大统合民主新党总统候选人<ref>http://www.news24.com/News24/World/News/0,,2-10-1462_2131764,00.html　郑东泳当选为南韩民主新党总统候选人</ref>。
+*[[11月7日]]，曾经两次参选南韩总统，代表强硬右派的前[[韩国总理|总理]][[李会昌]]（???）退出大国家党，并宣布以独立人士参选本届总统选举，预料会对目前当选呼声最高的李明博构成威胁<ref>http://news.yam.com/afp/international/200711/20071108931563.html　南韩前总理李会昌参选总统 抢食反对党票源</ref>，但最后选情对李明博不受太大的影响，选举结果李明博以48.7%胜出，连同李会昌15.1%的选票，保守派派合共取得逾64%选票，以大胜的姿态强势重掌青瓦台，自由派结束长达十年的统治。
+
+== 正式候选人 ==
+{| class="wikitable" style="text-align:center;"
+!号次
+!候选人 <ref>[http://english.chosun.com/w21data/html/news/200711/200711270013.html List of Offical Candidates]</ref>
+!政党
+!票数
+!得票率
+!附注
+|-
+|style="text-align:left"| 1
+|style="text-align:left"|[[郑东泳]]
+|style="text-align:left"| [[大统合民主新党]]
+|style="text-align:right"|6,174,681
+|style="text-align:right"|26.1%
+|style="text-align:right"|
+|-
+|style="text-align:left"| 2
+|style="text-align:left"| '''[[李明博]]'''
+|style="text-align:left"| '''[[大国家党]]'''
+|style="text-align:right"|'''11,492,389'''
+|style="text-align:right"|'''48.7%'''
+|style="text-align:right"|'''当选'''
+|-
+|style="text-align:left"| 3
+|style="text-align:left"| [[权永吉]]
+|style="text-align:left"| [[民主劳动党]]
+|style="text-align:right"|712,121
+|style="text-align:right"|3.0%
+|style="text-align:right"|
+|-
+|style="text-align:left"| 4
+|style="text-align:left"| [[李仁济]]
+|style="text-align:left"| [[中道统合民主党|民主党]]
+|style="text-align:right"|160,708
+|style="text-align:right"|0.7%
+|style="text-align:right"|
+|-
+|style="text-align:left"| 5
+|style="text-align:left"| [[沈大平]]<ref>在[[2007年]][[12月3日]]宣布退选，并支持独立参选的[[李会昌]]</ref>
+|style="text-align:left"| [[国民中心党]]
+|style="text-align:right"| 
+|style="text-align:right"|
+|style="text-align:right"|退选
+|-
+|style="text-align:left"| 6
+|style="text-align:left"| [[文国现]]
+|style="text-align:left"| [[创造韩国党]]
+|style="text-align:right"|1,375,498
+|style="text-align:right"|5.8%
+|style="text-align:right"|
+|-
+|style="text-align:left"| 7
+|style="text-align:left"| [[郑根谟]]
+|style="text-align:left"| [[参主人联合]]
+|style="text-align:right"|15,380 
+|style="text-align:right"|0.1%
+|style="text-align:right"|
+|-
+|style="text-align:left"| 8
+|style="text-align:left"| [[许京宁]]
+|style="text-align:left"| [[经济共和党]]
+|style="text-align:right"|96,756
+|style="text-align:right"|0.4%
+|style="text-align:right"|
+|-
+|style="text-align:left"| 9
+|style="text-align:left"| [[全宽]]
+|style="text-align:left"| [[新时代眞人联合]]
+|style="text-align:right"|7,161
+|style="text-align:right"|0.0%
+|style="text-align:right"|
+|-
+|style="text-align:left"| 10
+|style="text-align:left"| [[琴民]]
+|style="text-align:left"| [[韩国社会党]]
+|style="text-align:right"|18,223 
+|style="text-align:right"|0.1%
+|style="text-align:right"|
+|-
+|style="text-align:left"| 11
+|style="text-align:left"| [[李寿成]]<ref>[[2008年]][[2月14日]]宣布退选</ref>
+|style="text-align:left"| [[和合&跳跃为国民连带]]
+|style="text-align:left"| 
+|style="text-align:right"|
+|style="text-align:right"|退选
+|-
+|style="text-align:left"| 12
+|style="text-align:left"| [[李会昌]]
+|style="text-align:left"| 独立参选
+|style="text-align:right"|3,559,963 
+|style="text-align:right"|15.1%
+|style="text-align:right"|
+|-
+|}
+
+== 选举情况 ==
+
+与前几次的选举的不同的是，由于这几年韩国面临[[通货膨胀]]、房价高昂、贫富差距扩大、年轻人工作难找、失业率没有改善、国家债务上升等问题，经济议题几乎主导整个选举，朝鲜议题在韩国选举的重要性大符下滑。
+
+大国党提名的李明博[[CEO]]出身，具有商业背景，在首尔市长任内以整治[[清溪川]]成功而一举成名，被许多人视为是整顿[[韩国经济]]的理想人选，从参选开始民调跟声望就居高不下。
+
+执政党提名的郑东泳则因为受卢武铉的低迷的民调跟声势影响，选情一直处于不甚乐观的情况，郑东泳更是直言卢武铉拖累他的选情。
+
+== 议题 ==
+=== [[北韩]]政策 ===
+在[[李会昌]]表态参选时即批评[[李明博]]的北韩政策。李会昌说：「[[大国家党]]候选人的北韩政策模棱两可，宣称将维持『阳光政策』，可是北韩试爆核武显示这项政策失败。」他说：「因为这样的态度，我们无法期望防止北韩的核武灾害，也无法确保朝鲜半岛的和平。」
+
+== 相关资料 ==
+{{Wikinews|李明博成为新任南韩总统 但仍须面对法律问题}}
+<references />
+
+{{大韩民国选举}}
+[[Category:韩国总统选举]]
+[[Category:2007年选举]]
+[[Category:2007年韩国]]

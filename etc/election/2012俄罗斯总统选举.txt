@@ -1,0 +1,130 @@
+﻿{{Infobox Election
+|election_name = 2012年俄罗斯总统选举
+|country = Russia
+|type = presidential
+|ongoing = no
+|party = no
+|previous_election = 2008年俄罗斯总统选举
+|previous_year = 2008年
+|next_election = 2018年俄罗斯总统选举
+|next_year = 2018年
+|election_date = 2012年3月4日
+|image1 = [[File:Vladimir Putin-5 edit.jpg|100px]]
+|colour1 = Red
+|nominee1 = [[弗拉基米尔?普京|普京]]
+| party1 = 统一俄罗斯党
+|popular_vote1 = '''46,602,075'''
+|percentage1 = '''63.6%'''
+|image2 = [[File:Gennady Zyuganov 2012-05-01.jpg|100px]]
+|colour2 = Red
+|nominee2 = [[久加诺夫]]
+| party2 = 俄罗斯联邦共产党
+|popular_vote2 = 12,318,353
+|percentage2 = 17.18%
+|image5 = [[File:Siergiej Mironow.jpg|100px]]
+|colour5 = Red
+|nominee5 = [[谢尔盖?米罗诺夫|米罗诺夫]]
+| party5 = 公正俄罗斯党
+|popular_vote5 = 2.763,955
+|percentage5 = 3.85%
+|image4 =[[File:Zhirinovsky Vladimir.jpg|100px]]
+|colour4 = Red
+|nominee4 = [[弗拉基米尔?日里诺夫斯基|日里诺夫斯基]]
+| party4 = 俄罗斯自由民主党
+|popular_vote4 = 4,458,103
+|percentage4 = 6.22%
+|image3 =[[File:Prokhorov.jpg|100px]]
+|colour3 = Red
+|nominee3 = [[米哈伊尔?普罗霍罗夫|普罗霍罗夫]]
+|party3 = 无党籍
+|popular_vote3 = 5,722,508
+|percentage3 = 7.98%
+|map_image =
+|map_size =
+|map_caption =
+|title = 总统
+|before_election = [[德米特里?阿纳托里耶维奇?梅德维杰夫|梅德维杰夫]]
+|before_party=统一俄罗斯党
+|after_election = [[弗拉基米尔?普京|普京]]
+|after_party=统一俄罗斯党
+}}
+'''2012年俄罗斯总统选举'''是[[俄罗斯联邦]]的第六次民选[[俄罗斯总统|总统]]的选举，于[[2012年]][[3月4日]]举行。
+
+前总统及现任总理[[弗拉基米尔?普京|普京]]以超过6成的得票率当选，不过[[久加诺夫]]和其他反对派指责选举舞弊。<ref>[http://rthk.hk/rthk/news/expressnews/20120305/news_20120305_55_823271.htm 普京宣言当选俄国总统　反对派称不公]，香港电台，2012-03-05</ref>2012年3月5日，约2万人在莫斯科参加示威，抗议选举结果<ref>[http://www.voanews.com/chinese/news/20120305-russia-election-update-141455473.html 《俄罗斯警方逮捕反普京抗议者》]，美国之音中文网，2012年3月5日</ref>。美国方面也谨慎措辞，称希望俄罗斯中央选举委员会尽快解决相关争议。普京在胜选后会晤了除久加诺夫外的三名竞选人，呼吁团结和对话<ref>{{cite web|language =简体中文|url=http://news.ifeng.com/world/special/2012eluosidaxuan/content-4/detail_2012_03/06/12985345_0.shtml|title=普京会晤三名竞选对手 俄共领导人拒绝到场|publisher=凤凰资讯|date=2012年3月6日|accessdate=2012-03-06 }} </ref>。
+
+== 背景 ==
+由于[[统一俄罗斯党]]主席，现任[[俄罗斯总理]][[普京]]连任总统限制解除，因此决定回任竞选[[俄罗斯总统]]。放弃连任总统的[[德米特里?梅德维杰夫]]可能会在总统任期结束后出任俄罗斯总理。
+
+[[亚博卢党]]创始人[[亚夫林斯基]]、[[伊尔库茨克州]]州长[[梅津采夫]]的支持者签名中出现大量违规现象，根据法律规定，中选委无法登记他们为总统候选人。其中，亚夫林斯基的支持者签名不合格率高达25.66%，梅津采夫的支持者签名不合格率为15%，都超过法律规定的5%上限。而普罗霍罗夫支持者签名的不合格率仅为4.38%。
+
+== 候选人 ==
+[[File:Выборы президента России 2012 (Северодвинск).JPG|thumb|165px|2012年俄罗斯总统选举（北德文斯克，3月4日）]]
+候选人名单
+* [[弗米达米尔?普京]]，[[统一俄罗斯党]]主席、现任[[俄罗斯总理]]
+* [[久加诺夫]]，[[俄罗斯联邦共产党]]中央执行委员会主席
+* [[弗拉基米尔?日里诺夫斯基]]，[[俄罗斯自由民主党]]主席
+* [[谢尔盖?米罗诺夫]]，[[公正俄罗斯党]]前领导人
+* [[哈伊尔?普罗霍罗夫]]，俄罗斯亿万富翁
+
+== 参选人 ==
+* 普京，俄罗斯总理
+* 久加诺夫
+* 弗拉基米尔?日里诺夫斯基
+* 谢尔盖?米罗诺夫
+* 哈伊尔?普罗霍罗夫
+* [[梅津采夫]]，[[伊尔库茨克州]]州长，惟后来并不获俄罗斯中选委所确认其参选资格
+* [[亚夫林斯基]]，[[亚博卢党]]创始人，惟后来并不获俄罗斯中选委所确认其参选资格
+
+== 选举结果 ==
+2012年3月4日举行的俄罗斯总统选举，整体投票率65.34%
+{| class=wikitable style="text-align:right"
+|-
+!候选人
+!政党
+!得票率
+!当选
+|-
+|align=left| [[普京]]
+|align=left| [[统一俄罗斯党]]
+| align="right" | 63.64%
+| align="right" | [[File:Black check.svg|20px]]
+|-
+|align=left| [[久加诺夫]]
+|align=left|[[俄罗斯联邦共产党]]
+| align="right" | 17.18%
+| align="right" | 
+|-
+|align=left| [[米哈伊尔?普罗霍罗夫]]
+|align=left|独立参选人
+| align="right" | 7.98%
+| align="right" | 
+|-
+|align=left| [[弗拉基米尔?日里诺夫斯基]]
+|align=left|[[俄罗斯自由民主党]]
+| align="right" | 6.22%
+| align="right" | 
+|-
+|align=left| [[谢尔盖?米罗诺夫]]
+|align=left|[[公正俄罗斯党]]
+| align="right" | 3.85%
+| align="right" | 
+|-
+|}
+
+== 参见 ==
+*[[2011年俄罗斯国家杜马选举]]
+*[[2011年俄罗斯示威抗议]]
+
+== 参考数据 ==
+{{Reflist}}
+
+== 外部连接 ==
+{{Commons category|Russian presidential elections, 2012}}
+*[http://webvybory2012.ru Online webcams in all the polling stations]
+*[http://www.themoscowtimes.com/topics/presidential-vote-2012/452089.html "Presidential Vote 2012"], The Moscow Times
+*[http://news.sina.com.tw/article/20120126/5667417.html 五名候选人将参加俄罗斯总统选举]
+*[http://www.bbc.co.uk/zhongwen/trad/world_commentary/2012/02/120208_russia_candidates.shtml 资料：俄罗斯总统选举候选人一览]
+
+[[Category:俄罗斯总统选举]]
+[[Category:2012年选举]]
+[[Category:2012年俄罗斯]]

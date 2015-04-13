@@ -1,0 +1,100 @@
+ID	TOPIC	LEVEL	PRE	CHILD	TEXT
+0	2011年日本地震	1	-1	[1, 2, 4, 5, 17]
+'''东北地方太平洋近海地震'''（{{jpn|j=东北地方太平洋冲地震|hg=とうほくちほうたいへいようおきじしん|rm=Tōhokuchihō Taiheiyōoki Jishin|f=h}}<ref name="気象庁第2报">{{Cite web | publisher = 気象庁 | url = http://www.jma.go.jp/jma/press/1103/11c/201103111620.html | title = 「平成23年（2011年）东北地方太平洋冲地震」について（第2报） | language =日本语 | accessdate=2011-03-11}}</ref><ref name="nikkei2">{{cite news |language= |url=http://www.nikkei.com/news/latest/article/g=96958A9C9381949EE3E3E296818DE3E3E2E1E0E2E3E3E2E2E2E2E2E2 | title=気象庁、1カ月は余震警戒 津波も半日～1日続く |publisher=[[日本经济新闻|日本経済新闻社]] |date=2011-03-11 |accessdate=2011-03-11}}</ref>）是指[[2011年]][[3月11日]]14时46分（[[日本标准时间|当地时间]]）发生于[[日本]][[东北地方 (日本)|东北地方]]外海[[三陆#三陆冲（海域名）|三陆冲]]的[[矩震级]]规模9.0[[大型逆冲区地震]]。[[震央]]位于[[宫城县]]首府[[仙台市]]以东的[[太平洋]]海域，[[震源]]深度测得数据为{{convert|24.4|km|mi|1}}<ref>{{Cite news|title=东北を中心に震度7の地震 宫城県で4?2メートルの津波 建物も流される|url=http://sankei.jp.msn.com/affairs/news/110311/dst11031114530002-n1.htm|newspaper=MSN产経ニュース|date=2011-03-11|accessdate=2011年3月11日}}</ref>，并引发最高40.5公尺的[[海啸|海啸]]<ref name="Tsunami Height" />。此次地震是日本有观测纪录以来规模最大的地震，引起的海啸也是最为严重的<ref>{{Cite news|title=此次是日本有现代观测手段以来最大地震和海啸|url=http://news.qq.com/a/20110311/002230.htm|newspaper=腾讯新闻|date=2011-03-11|accessdate=2011年3月11日}}</ref>，加上其引发的[[火灾]]和[[福岛第一核电站事故|核泄漏事故]]，导致大规模的地方机能瘫痪和经济活动停止，东北地方部份城市更遭受毁灭性破坏。
+
+1	命名	2	0	[]
+此次地震发生当日，[[气象厅 (日本)|日本气象厅]]将本地震命名为「'''平成23年（2011年）东北地方太平洋近海地震'''」。
+翌日起，[[日本媒体|日本传媒]]以不同名称报导该次地震：
+部分[[汉语|中文]]传媒称之为'''311大地震'''<ref>[http://news.chinatimes.com/tech/12050902/122011032100277.html 311强震 台湾药厂东瀛卡位2 - 工商时报 011-03-21]</ref><ref>[http://n.yam.com/nownews/life/201103/20110318639052.html 150年周期已到311大震非属「东海大地震」 - NOWnews 2011-03-18]</ref><ref>[http://www.snb.hk/page/zh-tw/news.aspx?csid=261_2180 881903.com 商业电台 - 商台信息]</ref><ref>[http://world.people.com.cn/GB/14125706.html 日本大地震：海啸之难远远大于震灾本身 - 人民网 2011-03-12]</ref>。
+[[日本行政机关|日本政府]]于2011年[[4月1日]]的[[阁议|内阁会议]]中，正式将该次地震带来的[[灾害|灾害]]，统一命名为「'''东日本大震灾'''」<ref>{{cite press release|title=震灾の名称 东日本大震灾に|publisher=NHKニュース|date=2011-04-01|url=http://www3.nhk.or.jp/news/html/20110401/k10015049201000.html|accessdate=2011-04-01|archiveurl=http://web.archive.org/20110402152653/www3.nhk.or.jp/news/html/20110401/k10015049201000.html|archivedate=2011-04-02}}</ref><ref>[http://www.yomiuri.co.jp/national/news/20110401-OYT1T00701.htm?from=main1 震灾の呼称、阁议で「东日本大震灾」に] － [[读卖新闻]] 2011年4月1日</ref>。
+
+2	地震	2	0	[3]
+[[File:145_40.png|200px|thumb|right|地震规模示意图（[[USGS]]）]]
+[[File:Map of Sendai Earthquake 2011.jpg|200px|thumb|right|2011年日本东北地方太平洋沿岸地震及其余震]]
+地震发生在2011年[[3月11日]]（星期五）[[协调世界时|世界标准时]]5时46分23秒，即[[日本标准时间]]14时46分23秒，[[震央]]位于[[仙台市]]以东的[[太平洋]]海域约130[[千公尺|公里]]处，距日本首都[[东京]]约373公里。按[[气象厅 (日本)|日本气象厅]]震度阶级计算方法计算，此次地震震级为[[矩震级]]规模8.8<ref>地震：マグニチュード８．４に订正''</ref>。地震发生之初，[[美国地质调查局]]发布此次地震的规模为[[矩震级]]规模7.9，后数次将震级修正为8.1、8.8、8.9，再于3月13日上午与[[气象厅 (日本)|日本气象厅]]共同上修至9.0<ref>[http://earthquake.usgs.gov/earthquakes/recenteqsww/Quakes/usc0001xgp.html#details Magnitude 8.9 - NEAR THE EAST COAST OF HONSHU, JAPAN<!-- Bot generated title -->]</ref>。
+除了东北地方之外，东京所在的[[关东地方]]于地震发生时的有感晃动时间长达6分钟<ref>{{Cite news|title=东京で「长周期地震动」観测|url=http://www.nhk.or.jp/news/html/20110309/t10014554581000.html|newspaper=NHKニュース|date=2011-03-11|accessdate=2011年3月11日}}</ref>。这次地震使[[本州岛|本州岛岛]][[#地质影响|移动]]，地球的地轴也因此发生偏移。因地震所触动的海啸波源范围，南北长约500公里，东西宽约200公里，创下日本海啸波源区域最广的纪录<ref>[http://tw.news.yahoo.com/article/url/d/a/110325/1/2oo0v.html 日本海啸波源范围之广创日纪录<!-- Bot generated title -->]</ref>。
+
+3	前震与余震纪录	3	2	[]
+本次地震前有一系列前震，包括3月9日规模7.2的地震。这次地震是由于在板块在交界处发生[[聚合板块边缘|聚合]]，产生出猛烈的冲击力所造成<ref>{{cite web|title=Earthquake and Tsunami near Sendai, Japan|url=http://earthobservatory.nasa.gov/IOTD/view.php?id=49621|publisher=the Earth Observatory|accessdate=2011-03-14|date=March 11, 2011}}</ref> 。
+日本东北沿海地区在主震之后余震不断，首次地震后40分钟发生一次[[矩震级]]规模7.1余震，之后又发生四十次[[矩震级]]规模5.0到7.0余震。直到隔日清晨，仍有多次规模5.0以上的余震，最强达[[矩震级]]规模7.3。
+
+4	海啸	2	0	[]
+[[File:2011 Tohoku earthquake observed tsunami heights.png|thumb|各地观测到海啸高度]]
+[[File:2011Sendai-NOAA-Energylhvpd9-05.jpg|200px|thumb|right|海啸能量传播估计图（[[NOAA]]）]]
+[[File:2011Sendai-NOAA-TravelTime-Ttvulhvpd9-06.jpg|200px|thumb|right|海啸横跨太平洋的预计抵达时间海岸（[[NOAA]]）]]
+[[File:20110311Houshu.ogg|200px|thumb|[[NOAA]]海啸传播动画]]
+日本东北地域太平洋沿岸及北海道东部沿岸都受到了海啸的侵袭，高度最高达40.5公尺<ref name="Tsunami Height" />。日本气象厅对东北、关东太平洋沿海地区发出大海啸警报<ref>[http://web.archive.org/20110314083630/headlines.yahoo.co.jp/hl?a=20110311-00000047-mai-soci ＜地震＞岩手、宫城、福岛に大津波警报]，每日新闻，2011年3月11日。</ref>。[[宫城县]]、[[岩手县|岩手县]]、[[福岛县|福岛县]]等地遭到地震过后[[海啸|海啸]]，沿海地区遭到毁灭性的破坏。[[日本行政机关|日本政府]]表示沿海死伤人数可能高于预估。
+东北地方人口最多的[[宫城县]]，县内沿海城市多遭受海啸袭击。首府[[仙台市]]市区在海啸侵袭后造成严重水灾，多数居民被迫撤离。[[仙台机场]]跑道大部分被淹，只留下[[航站楼|航厦大楼]]。[[气仙沼市]]港边的渔船用油槽被卷倒引发大火，燃烧物随浪潮漂流，全市在一时内陷入火海并燃烧多时<ref>{{Cite news|title=灾拡大　ツイッターで情报　宫城?気仙沼|url=http://mainichi.jp/select/weathernews/news/20110312k0000m040170000c.html|archiveurl=http://archive.is/Dg16|archivedate=2012-08-04}}</ref>。
+在美国[[太平洋海啸警报中心]]发出警告后，[[日本]]、[[俄罗斯|俄罗斯]]、[[台湾|台湾]]、[[夏威夷州|夏威夷]]、[[美国西岸]]、[[墨西哥]]等地均发生大小不等的海啸。美国阿拉斯加海啸预警中心曾经发布从[[加利福尼亚州]]到[[华盛顿州]]一带的海啸预警，到达美国西岸一带的海啸高约1至2.4公尺，至少一名男子被巨浪卷走丧生。<ref>{{cite web|url=http://www.bbc.co.uk/zhongwen/simp/world/2011/03/110312_brief_quake_us.shtml|title=简讯：日海啸抵加州一男子丧生|author=BBC中文网|accessdate=2011-03-12}}</ref> 而在夏威夷[[茂宜岛|毛伊岛]]造成的海啸高达2公尺（6.6英尺）；据此报道，此次地震引发的海啸水墙高度甚至高于太平洋上的部分岛屿。<ref>{{cite news|url=http://af.reuters.com/article/worldNews/idAFTRE72A0UU20110311?sp=true|date=11 March 2011|title=Huge tsunami kills hundreds in Japan, sweeps across Pacific|author=Chisa Fujioka|accessdate=11 March 2011}}</ref> 另外在墨西哥和[[秘鲁|秘鲁]]沿海地区也测量到约0.7到1.5公尺的海啸，并冲毁部分房屋，但未造成伤亡。<ref>{{cite web|url=http://www.vancouversun.com/news/Japan+tsunami+deals+minor+damage+Peru/4430495/story.html|date=12 March 2011|title=中南美因海啸造成之损害–温哥华报／AFP |accessdate=2011-03-13}}</ref> 于[[印度尼西亚|印度尼西亚]][[巴布亚省|巴布亚省]]的[[查雅普拉]]，海啸造成1人死亡，并破坏部分房屋及桥梁。<ref>{{cite web|url=http://www.thejakartaglobe.com/news/japan-tsunami-strikes-indonesia-one-confirmed-dead/428545|title=Japan Tsunami Strikes Indonesia, One Confirmed Dead|publisher=JakartaGlobe}}</ref>
+海啸的成因可能与日本[[宫城县]][[牡鹿半岛]]约220公里外海底的海沟轴附近应力的释放有关。海沟轴附近应力的状态由地震前太平洋板块俯冲带来的西北－东南方向的挤压，转变成了西南－东北方向的拉伸。<ref>{{cite journal|coauthors=Conin, M.; Moore, J. C.; Chester, F. M.; Nakamura, Y.; Mori, J. J.; Anderson, L.; Brodsky, E. E.; Eguchi, N.; Cook, B.; Jeppson, T.; Wolfson-Schwehr, M.; Sanada, Y.; Saito, S.; Kido, Y.; Hirose, T.; Behrmann, J. H.; Ikari, M.; Ujiie, K.; Rowe, C.; Kirkpatrick, J.; Bose, S.; Regalla, C.; Remitti, F.; Toy, V.; Fulton, P.; Mishima, T.; Yang, T.; Sun, T.; Ishikawa, T.; Sample, J.; Takai, K.; Kameda, J.; Toczko, S.; Maeda, L.; Kodaira, S.; Hino, R.; Saffer, D.|title=Stress State in the Largest Displacement Area of the 2011 Tohoku-Oki Earthquake|journal=Science|date=2013-02-07|volume=339|issue=6120|pages=687–690|doi=10.1126/science.1229379|last=Lin|first=W.}}</ref>
+
+5	影响	2	0	[6, 14, 16]
+
+6	破坏及伤亡报告	3	5	[7, 10]
+
+7	日本国内	4	6	[8, 9]
+截至2011年3月11日，地震造成至少15,875人死亡、2725人失踪、伤者26,992人，遭受破坏的房屋1,168,453栋，为日本二战后伤亡最惨重的自然灾害<ref>http://archive.is/20120720214824/www.asahi.com/national/update/1229/TKY201112290230.html?ref=rss</ref><ref>http://www.npa.go.jp/archive/keibi/biki/higaijokyo.pdf</ref>。灾情尤以东北地方岩手县[[陆前高田市]]、宫城县[[气仙沼市]]、[[南三陆町]]和福岛县[[南相马市]]最为严重，[[日本放送协会|NHK]]新闻形容是次灾难是对东北三县「毁灭性打击」<ref name=mingpao1>[http://hk.news.yahoo.com/article/110312/4/n6kf.html 海啸摧毁日本沿岸3县]，明报，2011年3月12日。</ref>。除了[[东北地方 (日本)|东北地方]]受灾严重，紧邻的[[关东地方]]也传出灾情。由于日本人口最稠密的[[首都圈 (日本)|东京都会区]]即位于[[南关东|关东南部]]，导致东京居民的日常生活受到影响。
+由于数处发电厂停止运作导致供电不足，关东地方自[[3月13日]]起实施分区供电，而[[宫城县]]、[[福岛县|福岛县]]多数地区及[[埼玉县]]、[[千叶县]]部份地区未恢复燃气供应；另外，东北、关东等地有超过100万户没有饮水供应<ref>[http://headlines.yahoo.co.jp/videonews/nnn?a=20110312-00000189-nnn-bus_all ライフラインの状况（午后4时半现在）]，日本NNN，2011年3月12日</ref>。
+
+8	东北地区	5	7	[]
+[[File:Flickr - Official U.S. Navy Imagery - Aerial of Wakuya, Japan. (1).jpg|200px|right|thumb|海啸后的沿岸]]
+[[File:US Navy 110315-N-IC111-592 An aerial view of damage to Wakuya, Japan after a 9.0 magnitude earthquake and subsequent tsunami devastated the area in.jpg|200px|right|thumb|海啸后的沿岸]]
+[[File:Rescue mission, Japan, Operation Tomodachi.jpg|200px|right|thumb|海啸后的沿岸地区]]
+[[File:VOA Herman - April 12 2011 Namie-09.jpg|200px|right|thumb|遭海啸冲毁的楼层]]
+[[东北地方 (日本)|东北地方]]由福岛县[[南相马市]]至宫城县[[盐灶市]]约100公里的沿海地区被海啸冲撃造成的泥水流淹盖。[[岩沼市]]、[[名取市]]海边防风林被撃倒。[[多贺城市]]有储油筒着火倾侧，油污流入[[松岛]]附近海域污染海面<ref>[http://headlines.yahoo.co.jp/hl?a=20110312-00000013-maip-soci 地震　がれき散乱、石油コンビナートから黒烟　宫城]，每日新闻，2011年3月12日。</ref>。另外东北个别地区受灾情况如下：
+[[File:Flooding from Tsunami near Sendai, Japan2.jpg|thumb|right|200px|[[仙台市]]外围海岸线的变化<br />（上）海啸侵袭后<br />（下）海啸侵袭前]]
+[[File:Cosmo Oil explosion 20110311.png|200px|right|thumb|千叶炼油所发生大火]]
+[[File:201103011tokyo1.jpg|200px|right|thumb|东京在地震后引发火灾]]
+[[File:Effect of 2011 Sendai earthquake in Tokyo (cropped).jpg|200px|right|thumb|东京在地震后引发火灾]]
+[[File:2011 Japan Earthquake Tokyo Tower.jpg|200px|right|thumb|东京铁塔的天线弯曲]]
+
+9	日本其他地区	5	7	[]
+
+10	世界其他地区	4	6	[11, 12, 13]
+
+11	美国	5	10	[]
+
+12	厄瓜多	5	10	[]
+[[厄瓜多尔|厄瓜多]]的[[加拉帕戈斯群岛]]，基础建设遭到破坏。
+
+13	智利	5	10	[]
+[[智利]]北部的[[塔尔卡瓦诺]]通报[[海水倒灌]]<ref>[http://tw.news.yahoo.com/article/url/d/a/110313/16/2nytf.html 日海啸余波 南北美洲影响有限，路透社，2011-3-13]</ref>。
+
+14	核电紧急状态	3	5	[15]
+在地震后，宫城县内由[[东北电力|东北电力公司]]负责运营的[[女川核电站]]的[[发电机]]发生火情，该[[核电站]]是距离此次地震震央最近的一座核电站。
+据东北电力公司消息，女川核电站机组已自动停止运行<ref>{{cite web|url = http://www.china5e.com/show.php?contentid=163266 | title = 女川核电站机组震后自动停止运行 | accessdate = 2011-03-11}}</ref>。另据[[共同通讯社|共同社]]报道，震后日本[[福岛第一核电厂|福岛第一核电厂]]的[[紧急核心冷却装置]]也被启动，福岛第一、第二核电站的1号、2号及3号反应堆也自动停止运行<ref>{{cite web|url = http://www.dzwww.com/xinwen/guojixinwen/201103/t20110311_6208240.htm | title = 福岛核电站机组震后自动停止运行 | accessdate = 2011-03-11}}</ref>，但之后确认已有放射性物质泄漏。
+[[国际原子能机构]]当天也发布消息称，日本最靠近震中的4座核电站均已“安全关闭”<ref>{{cite web|url = http://finance.qq.com/a/20110311/006224.htm| title = 震中附近4座核电站均“安全关闭” | accessdate = 2011-03-11}}</ref>。
+
+15	核泄漏	4	14	[]
+11日，有消息称[[福岛第一核电站]]2号机组核反应堆内的[[水位]]在下降，继续发展可能导致核泄漏<ref>{{cite web|url=http://www.cnr.cn/2010tfzt/ribendizhen/gundong/201103/t20110311_507780975.html|title=福岛第一核电站2号机组无法冷却或将恶化结果|accessdate=2011-03-12}}</ref>。因此，[[内阁官房长官|官房长官]][[枝野幸男]]向福岛第一核电站周边3[[千公尺|公里]]内的居民发布紧急避难指示，要求他们紧急疏散，并要求3公里-10公里内居民处于准备状态。这是日本历史上首次因核电站事故原因宣布进入紧急状态。
+接到指示后，福岛县政府发出通报，要求福岛第一核电站2号机组[[辐射半径]]2公里以内[[大熊町]]、[[双叶町|双叶町]]的居民疏散避难，撤离规模为3,000人左右。之后有消息称，该次撤离实际涉及1,864人<ref>{{cite web|url=http://news.sina.com.cn/w/2011-03-11/205922097950.shtml|title=辐射半径内需撤离近2,000人|accessdate=2011-03-12}}</ref>。
+12日下午3时36分左右，福岛第一核电站一号机组发生[[氢气]]冷却剂[[爆炸]]，4名工作人员受伤，有建筑物天花板及外墙崩塌，仅剩建筑框架<ref>中央电视台日本大地震专题报道，2011年3月12日16:30，于2011年3月12日查阅。</ref><ref>[http://www.nownews.com/2011/03/12/334-2695980.htm 福岛第一核电厂爆炸　辐射外泄1小时=1年量]，今日新闻网，2011年3月12日。</ref>。日本政府之后称，发生崩塌的只是厂房的墙壁，而反应堆安全壳其实并没有发生爆炸<ref>{{cite web|url=http://news.163.com/11/0312/20/6UVLG58700014JB6.html|title=日本政府称福岛核电站核反应堆安全壳并未爆炸|publisher=中国新闻网|date=2011-03-12 12:36 UTC|accessdate=2011-03-12 13:27 UTC}}</ref>。后来，疏散半径一度扩大到20公里<ref>http://tech.xinmin.cn/2011/03/12/9732564.html</ref>。
+日本[[经济产业省]][[原子力安全保安院|原子能安全保安院]]表示，福岛第一核电站反应堆容器中的[[气压]]已达到设计值的1.5倍，核电站正门附近的[[辐射量]]是通常的70倍以上，而1号反应堆的[[中央控制室]]辐射量已升至通常的1,000倍。这是日本首次确认有放射性物质外泄<ref>{{cite web|url=http://news.163.com/11/0312/06/6UU57H8A00014JB6.html|title=日本确认大地震后有放射性物质外泄|accessdate=2011-03-12}}</ref>。此前，原子能安全保安院透露，福岛第一核电站1号机组附近检测到[[核裂变]]产生的[[放射性|放射性元素]][[铯|铯137]]，并认为反应堆芯的[[核燃料]]正在熔化<ref>{{cite web|url=http://news.sina.com.cn/w/2011-03-12/172922102485.shtml|title=福岛第一核电站检出放射性元素，堆芯可能发生瓦解|accessdate=2011-03-12}}</ref>，NHK称此为日本第一起[[堆芯熔毁|炉心融毁]]事故<ref>{{cite web|url=http://www3.nhk.or.jp/news/html/20110313/t10014635191000.html|title=福岛第一原発１号机 海水で冷却|accessdate=2011-03-13|archiveurl=http://web.archive.org/20110315075244/www3.nhk.or.jp/news/html/20110313/t10014635191000.html|archivedate=2011-03-15}}</ref>，当日20时20分开始将[[硼酸]]注入[[核反应堆安全壳|围阻体]]里<ref>{{cite web|url=http://www.tepco.co.jp/cc/press/11031229-j.html|title=东北地方太平洋冲地震における当社设备への影响について【午后９时现在】|accessdate=2011-03-12}}</ref>。11日的1号机组核事故被评估为[[国际核事件分级表|国际核事故分级]]的第四级<ref>http://web.archive.org/20110313034051/www3.nhk.or.jp/daily/english/13_06.html</ref>。
+3月14日11点01分，3号机也因同样问题而导致氢气爆炸，相关单位随后发出通报，附近方圆20公里内600多位居民全部室内避难。<ref>[http://tw.news.yahoo.com/article/url/d/a/110314/8/2o05q.html 福岛核一厂3号机爆炸　11员工受伤，TVBS新闻台，2011-3-14]</ref>
+3月15日清晨6时10分，2号机组反应堆的控制压力池损坏，而引发爆炸，而4号机组发生氢气爆炸导致了火灾，相关单位随后要求厂房半径20公里范围内所有人撤离，30公里内范围内的人留在家中，并将此区空域发布为无限期区域禁飞令<ref>[http://hk.news.yahoo.com/article/110315/3/n8dt.html 福岛核电站2、4号机组爆炸，2011-3-15]</ref><ref>[http://tw.news.yahoo.com/article/url/d/a/110315/8/2o2wc.html 福岛核一厂半径30KM　无限期禁飞令，TVBS新闻台，2011-3-15]</ref>。
+3月16日清晨5时45分，福岛第一核电站4号机组再度发生火情<ref>[http://www.yomiuri.co.jp/national/news/20110316-OYT1T00131.htm?from=navr 福岛福岛第一原発４号机、建屋から再び炎，Yomiuri Online，2011-3-16]</ref>。
+3月18日，日本将核事故程度升为五级<ref>[http://news.qq.com/a/20110318/001340.htm 日本核安全院将核事故等级升至5级]</ref>。
+3月20日，内阁官房长官[[枝野幸男]]明白表示，在这次地震当中遭到破坏的核电厂，将会废弃，不会复原再行运作。<ref>[http://tw.news.yahoo.com/article/url/d/a/110320/1/2odsn.html 日：福岛核一电厂将废弃 不可能再复原]</ref>
+4月12日，日本原子能安全保安院将本次事故升至[[国际核事件分级表]]中的第7级，亦是最高级别<ref>[http://web.archive.org/20110413205055/www3.nhk.or.jp/news/html/20110412/t10015249911000.html 事故评価 最悪のレベル７へ] 原子力安全保安院将本次事故升至级别7</ref>。
+
+16	地质影响	3	5	[]
+[[美国地质调查局]]教授[[丹尼尔?麦可纳马拉]]（Daniel Mcnamara）表示，地震使日本[[本州岛]]的海底出现了一条宽约80公里的裂缝，而日本[[本州岛]]亦因此向东移约2.4公尺（8英呎）{{citation needed}}。同时，日本本州岛部份地方因同震地表变形作用而发生沉降，使海水于海啸后未有退去<ref>[http://www.iwra.org/doc/Tsunami_report_Kuniyoshi_Takeuchi_ICHARM.pdf Quick Report of Great Eastern Japan Earthquake and Tsunami]</ref>。[[意大利|意大利]]的[[地球物理与火山研究所]]得到的结论：这场地震使[[地轴]]移动了10厘米。<ref>[http://udn.com/NEWS/WORLD/WORS2/6208951.shtml 日本强震 地轴偏了10公分 联合报(2011/3/14 07:50)]</ref>[[加拿大]][[多伦多大学]]的[[地质学|地质学]]家[[安德鲁?迈阿尔]]（Andrew Miall）表示，地轴因地震移动了25厘米<ref>{{cite news|author=沈姝华|title=科学家称日本大地震使地球移动了25厘公尺|url=http://news.sciencenet.cn/htmlnews/2011/3/244921.shtm?id=244921|accessdate=2011-03-14|newspaper=科学网|date=2011-03-14}}</ref><ref>[http://hkm.appledaily.com/Home/ShowArticle/7e2e43b6-3ddc-4158-953b-a46c1a03c328 地轴移25厘公尺　灾区或永远陆沉]</ref>。[[美国国家航空航天局|美国太空总署]]的[[地球物理学|地球物理]]学家[[理查德?葛罗斯]]（Richard Gross）计算，这地震使地球自转快了1.6微秒<ref>[http://news.sina.com.tw/article/20110313/4261811.html 地轴偏移25CM 自转快1.6微秒 民视 (2011-03-13 11:55)]</ref>。日本[[东北大学]]地震和喷火预知研究观测中心发现[[宫城县|宫城县]][[牡鹿半岛]]以外约175公里的深约3200公尺海床在地震后向东南方向移动了约30公尺，海上保安厅则发现牡鹿半岛外侧约130公里深约1700公尺海床移动了约24公尺<ref>{{cite news|author=蓝建中|title=日本大地震造成地壳变动最大值再被刷新|url=http://news.sciencenet.cn/htmlnews/2011/4/246326.shtm|accessdate=2011-04-20|newspaper=科学网|date=2011-04-20}}</ref> 。
+地质学家[[布莱恩?阿特沃特]]（Brian Atwater）指出，此次地震释出的能量相当于一次性燃烧5亿7千万[[桶 (单位)|桶]]石油，接近美国全国1个月的能源消耗量{{citation needed}}。
+日本气象厅宣布，震后日本全国包括[[富士山]]在内至少有13座[[活火山]]周边的地震活动开始活跃<ref>{{cite news|author=蓝建中|title=日本13座火山在大地震后开始活跃|url=http://news.sciencenet.cn/htmlnews/2011/3/245466.shtm|accessdate=2011-03-28|newspaper=科学网|date=2011-03-27}}</ref> 。
+
+17	各方反应	2	0	[18, 19, 20]
+
+18	日本国内	3	17	[]
+日本政府于[[3月12日]]向[[国际原子能机构]]通报了本次事故。该机构的事故紧急中心提出日本必须不间断同各加盟国之间交换事故最新情报的方针，并表示只要日本政府需要将提供技术支持<ref>{{Cite news|url=http://www.yomiuri.co.jp/world/news/20110313-OYT1T00010.htm|title=日本政府向IAEA通报福岛第一核电站事故|work=YOMIURI ONLINE|date=2011-03-13|accessdate=2011-03-15}}</ref><ref name="sankei0313">{{Cite news|url=http://sankei.jp.msn.com/world/news/110313/erp11031317330008-n1.htm|title=IAEA秘书长发表声明，将提供国际支持|newspaper=产经新闻|date=2011-03-13|accessdate=2011-03-15}}</ref>。
+地震发生之后，[[日本内阁总理大臣|日本首相]][[菅直人]]在[[总理大臣官邸]]设立「紧急灾害对策本部」，并指示所有[[菅内阁|内阁成员]]立即到官邸集合<ref>[http://sankei.jp.msn.com/affairs/news/110311/dst11031115080004-n1.htm 政府、官邸の危机管理センターに対策室设置] 产経新闻 2011年3月11日阅覧</ref>。菅直人要求万全应对此次地震，并命令防卫大臣[[北泽俊美]]派自卫队进行救援。应宫城县知事村井嘉浩的要求，内阁官房长官[[枝野幸男]]宣布于3月11日派遣[[自卫队]]前往地震发生地区参与救灾<ref>{{cite web|title=媒体称日本强震致5死8失踪 自卫队派900人救灾|url=http://news.sohu.com/20110311/n279776256.shtml|publisher=搜狐|accessdate=2011-03-11}}</ref> ，[[防卫省|防卫省]]设立地震灾害对策本部<ref>{{cite web|author=新浪|title=日本设立地震紧急对策本部 派自卫队参与救灾|url=http://news.sina.com.cn/w/2011-03-11/155622096314.shtml|accessdate=2011-03-11}}</ref>。
+3月23日，《[[朝日新闻]]》早间版报导，[[东京电力]]可能需要最高1兆[[日圆]]用于维修[[地震]]中受损的[[核电厂]]，并支付其他费用。该报导提到，日本三家大型银行[[三菱东京UFJ银行]]、[[三井住友银行]]、[[瑞穗实业银行]]将于3月底向东京电力提供1千亿日圆的紧急贷款，并考虑再向该社提供额外贷款。同时间，日本政府也准备通过关联金融机构向东京电力发放贷款。<ref>{{cite news |language = 繁体中文 | author = 朝日新闻 | coauthors =  | url = http://chinese.wsj.com/big5/20110323/BAS015892.asp | title = 三家日本银行将向东京电力提供1,000亿日圆贷款 | publisher = 华尔街日报 | pages =  | date =2011-03-23 | accessdate =2011-03-24}}</ref>
+
+19	国际社会	3	17	[]
+根据[[外务省 (日本)|日本外务省]]的消息，共有163个国家和地区以及43个国际组织对日本提供援助<ref>{{cite news|title=World Helps Japan Fight Crisis|url=http://www.cn.emb-japan.go.jp/earthquake110318.htm|accessdate=31 March 2011|date=11 NOV 2011}}</ref>。
+由东京[[海关]][[成田市|成田]]分署29日公布的统计数据显示，3月12日至25日期间，共有29个国家和地区约190批食品及毛毯等救灾物资运抵成田机场，总重量约达1300吨。<br />
+[[中华民国]]（[[台湾]]）的捐助总金额达至少73.64亿元[[新台币]]（约200亿[[日圆]]或2.52亿元美金），作为捐款国家和地区中金额最多者。也是继美军后，第二支抵达当地的外国救援队伍，并将首批救援物资带进灾区<ref>[http://www.ly.gov.tw/01_lyinfo/0101_lynews/lynewsView.action?id=27193&atcid=27193 王院长接见「日华议员恳谈会」会长平沼赳夫众议员等一行], [[立法院]], 2012/3/17</ref><ref>{{cite news|title=最晚离开的英雄…我搜救队 赴日共哀|url=http://udn.com/NEWS/WORLD/WORS1/6955393.shtml|accessdate=2011-03-13|newspaper=联合新闻网|date=2011-03-11}}</ref>。
+2011年9月27日，在韩国举行的[[亚足联冠军联赛?|亚冠]]四分之一决赛中，韩国的[[全北现代]]队主场迎战日本的[[大阪樱花]]队，在比赛进行时，有韩国球迷在比赛中举出以日本语手写的「庆祝日本大地震」的海报，日本球会工作人员见状立即向[[亚足联]]提交书面抗议，并要求道歉。海报经过大阪樱花队抗议后，在比赛的后半拿掉。
+事后韩国[[全北现代]]队事后也在官方网站刊登道歉文表示，「对日本国民和球迷们深感歉意，今后会努力不让类似事件再度发生」。而该名球迷也向球会和日方道歉，而[[全北现代]]最终处分该球迷不得到球场观赏比赛，为期十年。
+
+20	纪念	3	17	[]
+

@@ -1,0 +1,408 @@
+﻿{{Infobox Election
+| election_name      = 2007年法国总统选举
+| country            = 法国
+| type               = 总统
+| ongoing            = no
+| previous_election  = 2002年法国总统选举
+| previous_year      = [[2002年法国总统选举|2002]]
+| next_election      = 2012年法国总统选举
+| next_year          = 2012
+| election_date      = 2007年4月21-22日和5月5-6日
+| image1             = [[Image:Nicolas Sarkozy MEDEF.jpg|134px]]
+| nominee1         = [[尼古拉?萨尔科齐]]
+| party1             = 人民运动联盟
+| popular_vote1      = 18,983,138
+| percentage1        = 53.06%
+| image2             = [[Image:Segolene Royal Arcueil 18 septembre 2010 6.jpg|138px]]
+| nominee2         = [[塞格琳?罗雅尔]]
+| party2             = 法国社会党
+| popular_vote2      = 16,790,440 	
+| percentage2        = 46.94%
+|map_image          = 2007-présidentielle.png
+|map_size           = 280px
+|map_caption        = 第二轮选举中各候选人在全国 36,784 个市镇中获票情况： 尼古拉?萨尔科齐：<span style="color:#4169e1;">蓝色</span>; 塞格琳?罗雅尔：<span style="color:hotPink;">粉色</span>
+| title              = 总统
+| before_election    = [[希拉克]]
+| before_party       = 人民运动联盟
+| after_election     = [[尼古拉?萨尔科齐]]
+| after_party        = 人民运动联盟
+}}{{法国政治}}
+{{noteTA
+|1=zh-hans:尼古拉?萨科齐;zh-hk:萨尔科齐;zh-tw:尼古拉?萨科齐;
+|d1=大陆→尼古拉?萨科齐；台湾→尼古拉?萨科齐；香港→萨尔科齐；
+|2=zh:贺雅尔;zh-hans:罗亚尔;zh-hk:罗亚尔;zh-tw:贺雅尔;
+|d2=大陆→罗亚尔；台湾→贺雅尔；香港→罗亚尔；
+|3=zh-hans:萨科齐;zh-hk:萨尔科齐;zh-tw:萨科齐;
+|d3=大陆→萨科齐；台湾→萨科齐；香港→萨尔科齐；
+|4=zh-hans:雅克?希拉克;zh-hk:雅克?希拉克;zh-tw:雅各布?席哈克;
+|d4=大陆→雅克?希拉克；台湾→雅各布?席哈克；香港→雅克?希拉克；
+|5=zh-hans:希拉克;zh-hk:希拉克;zh-tw:席哈克;
+|d5=大陆→希拉克；台湾→席哈克；香港→希拉克；
+}}
+'''2007年法国总统选举'''选举出了[[法兰西第五共和国]]第九届[[法国总统|总统]]。第一轮投票于2007年[[4月22日]]举行，[[尼古拉?萨尔科齐]]和[[塞格琳?罗雅尔]]分别得到31.18％和25.87％的选票进入第二轮。在两周后的2007年[[5月6日]]举行总统选举的第二轮投票中[[尼古拉?萨尔科齐]]获得53％的选票，当选为新一届[[法国总统]]，并在2007年[[5月17日]]正式上任。
+
+== 法国总统的权力 ==
+根据[[1958年]][[9月28日]]全民公投的结果，[[法兰西]]在[[1958年]][[10月5日]]进入[[第五共和国]]时期。[[1958年]]的第五共和国宪法规定，总统是国家的最高职位，是国家行政权的执掌人，是军队的最高统帅，法兰西的最高法官，[[法兰西荣誉勋团]]的最高首长，也是[[安道尔公国]]的[[国家元首]]：两[[大公]]之一（但法国总统本身并不予以承认）。总统的职责包含了监督[[宪法]]的履行，政体的延续以及公共权力的正常运作。
+
+== 法国总统的任期 ==
+在[[2002年]]以前，[[法国总统]]的任期是7年，前总统[[希拉克]]（{{lang|fr|''Jacques Chirac''}}）在[[1995年]]的法兰西第七届总统任内，对总统任期进行了修订，通过2000年的全民公决，得到了73.21%的公民许可。从[[2002年]]第八届总统开始，任期缩短为五年。
+
+== 选举准备状况 ==
+=== 选民登记工作 ===
+2007年法兰西第五共和国第九届总统选举的选民登记工作已在[[2006年]][[12月31日]]结束。一共有43973024名注册选民，其中近一百万选民通过投票机投票。
+
+=== 选民资格 ===
+根据[[法国]][[法律]]的规定，有参加总统选举投票资格的选民必须符合以下几项条件：
+*年龄至少18岁
+*拥有[[法国]][[国籍]]
+*享有[[政治和公民权力]]
+*已在[[选举名册]]上做过登记。
+
+=== 候选人资格 ===
+参加竞选的候选人则必须年满23岁，是拥有投票资格的选民，得到全法至少30个省的500位民选代表的联署支持，候选人必须在2007年[[3月16日]]18点以前，递交500位民选代表联署支持名单。官方在2007年[[3月20日]]对外公布各候选人提交的这一民选代表支持名单。
+
+== 官方候选人 ==
+法兰西宪法理事会2007年3月19日公布，共有12名获得500个民选代表支持的官方候选人。
+
+=== 主要候选人 ===
+*[[弗朗索瓦?贝鲁]]（{{lang|fr|''Fran?ois Bayrou''}}）：国会议员，中间派法国民主联盟党主席。
+*[[让-马里?勒庞]]（{{lang|fr|''Jean-Marie Le Pen''}}）：欧洲议员，极右派民族主义政党[[民族阵线 (法国)|民族阵线]]领导人。
+*[[塞格琳?罗雅尔]]（{{lang|fr|''Ségolène Royal''}}）：[[普瓦图-夏朗德]]大区议会主席，[[2006年]][[11月16日]]在左翼政党[[法国社会党]]的党内选举中击败前总理洛朗?法比尤斯和前经济部长多米尼克?斯特劳斯－卡恩推选为总统候选人。
+*[[尼古拉?萨尔科齐]]（{{lang|fr|''Nicolas Sarkozy''}}）：前内政部长（原任期至2007年5月，于2007年3月26日辞职全心投入拉票活动），2007年[[1月14日]]作为党内的唯一候选人，被执政党属保守党派的[[人民运动联盟]]推选为总统候选人。
+<center><gallery>
+File:BayrouEM.jpg|弗朗索瓦?贝胡
+File:Jean-Marie Le Pen.jpg|让-马里?勒庞
+File:Meeting Royal 2007 02 06 n12.jpg|塞格琳?罗雅尔
+File:Nicolas Sarkozy - 09FEB07 -presidencia-govar.jpg|尼古拉?萨尔科齐
+</gallery></center>
+
+=== 其他候选人 ===
+*[[奥利维?贝赞司诺]]（{{lang|fr|''Olivier Besancenot''}}）：极左翼政党[[革命共产主义者同盟]]候选人。
+*[[约瑟?博维]]（{{lang|fr|''José Bové''}}）：独立候选人，反对全球化代表，农民领袖。
+*[[玛丽-乔治?布菲]]（{{lang|fr|''Marie-George Buffet''}}）：参议院议员，前法国青年体育部长，[[法国共产党]]候选人。
+*[[菲利普?德?维里耶]]（{{lang|fr|''Philippe de Villiers ''}}）：[[旺代省]]省议会主席兼该省国会议员，右翼政党保卫法国运动候选人。
+*[[阿尔莱特?拉吉耶]]（{{lang|fr|''Arlette Laguiller''}}）：托洛斯基派代表，极左翼政党[[工人斗争]]候选人，第六次参加竞选。
+*[[弗雷德里克?尼吾]]（{{lang|fr|''Frédéric Nihous''}}）：打猎、钓鱼、自然与传统党候选人。
+*[[热拉尔?西瓦尔帝]]（{{lang|fr|''Gérard Schivardi''}}）：麦依阿克市市长，劳工党所支持候选人。
+*[[多米尼克?瓦内]]（{{lang|fr|''Dominique Voynet''}}）：参议院议员，前法国环境部长，法国[[绿党 (法国)|绿党]]候选人。
+
+== 正式拉票活动 ==
+[[File:2007 presidential france official posters.jpg|thumb|right|320px|2007年法国总统选举候选人官方海报]]
+=== 第一轮 ===
+正式拉票活动于2007年4月9日零时起，至2007年4月20日24时止。整个活动过程中，每个候选人必须被完全平等的对待。这包括电视台的出镜时间，电台，报纸其它媒体必须公允的报道每个候选人，这些都受到法国广播监管机构CSA的监督。85 000个选举局前的候选人海报大小高度必须相同，顺序由宪法理事会抽签决定。正式拉票活动结束后直至投票结果公布前，候选人不得接受任何形式的采访。
+
+=== 第二轮 ===
+第一轮选举结果揭晓以后，左翼、极左翼阵营和绿党的所有候选人（奥利维?贝赞司诺、约瑟?博维、玛丽—乔治?布菲、阿尔莱特?拉吉耶和多米尼克?瓦内）都表示在第二轮中支持罗雅尔，右翼候选人菲利普?德?维里耶呼吁选民选举萨尔科奇，极右翼的勒庞则呼吁选民放弃投票，其他候选人都没有表明立场。
+
+第二轮拉票活动于2007年4月23日零时起，至2007年5月4日24时，其中包括5月2日的电视辩论。
+
+== 主要议题 ==
+*失业率：法国的失业率长期徘徊在10%左右，在欧洲属于较高，失业率一直是各次选举中引人注目的议题。
+*欧盟：法国在2005年全民否决了[[欧盟宪法]]，法国在欧盟中未来的角色令法国人关注。
+*环境：在2007年气候巨变的大前提下，环境自然成为一大议题，法国在欧盟中鼓励使用核能来改善环境，这个立场一直受到来自德国等大国的压力。
+*移民：作为以前的殖民大国，移民问题是法国一直以来的一大问题，总统候选热门萨尔科奇鼓励强硬的移民政策，在社会上引起广泛的辩论。
+
+== 选举结果 ==
+[[File:French presidential election, 2007 1st.svg|200px|right|第一轮各候选人所占比例|thumb]]
+=== 第一轮 ===
+[[File:Carte-presidentielle-2007.png|200px|right|第一轮投票各省得票最多的候选人|thumb]]
+法国选民在第一轮选举中踊跃投票，投票率高达83.77%，这个数据可以和[[1965年]]和[[1974年]]总统大选的投票率所相近，为三十年来的最高投票率。尼古拉?萨尔科齐和塞格琳?罗雅尔位列前两名，弗朗索瓦?贝胡和让-马里耶?勒庞也获得了超过10%的选票。其余的候选人都没能获得5%的选票，因此不能得到法国宪法委员会的竞选补助。
+
+=== 第二轮 ===
+在历届总统选举中，第二轮的投票率总是高于第一轮投票，这次在第一轮高投票率的情况下，第二轮投票率还是以84%超过了第一轮，为[[1988年]]总统选举以来的最高。尼古拉?萨尔科齐以53.08%击败了塞格琳?罗雅尔，当选为[[法兰西第五共和国]]第六位总统。最初的结果于[[2007年]][[5月6日]]晚上8时依法由法国各大电视台公布，但是早在2、3小时前[[比利时]]和[[瑞士]]的媒体就报道了萨尔科齐即将获胜的消息。
+[[File:French presidential election result 2007.svg|right|thumb|200px|第二轮结果：各省结果，萨尔科齐得票较多：<font color="#0BA7F4">蓝色</font>；罗雅尔得票较多：<font color="#C90D5D">紫色</font>]]
+{{electiontable|French presidential election, 2007}}'''2007年法兰西共和国总统选举结果'''
+|-
+!style="background-color:#E9E9E9" align=left valign=top|候选人
+!style="background-color:#E9E9E9" align=left valign=top|政党
+!style="background-color:#E9E9E9" align=right|第一轮选举
+!style="background-color:#E9E9E9" align=right|%
+!style="background-color:#E9E9E9" align=right|第二轮选举
+!style="background-color:#E9E9E9" align=right|%
+|-
+|align=left|奥利维?贝赞司诺
+|align=left|革命共产联盟（''Ligue communiste révolutionnaire''）
+|1 498 581
+|4.08%
+|
+|
+|-
+|align=left|玛丽—乔治?布菲
+|align=left|法国共产党（''Parti communiste fran?ais''）
+|707 268
+|1.93%
+|
+|
+|-
+|align=left|热拉尔?西瓦尔帝
+|align=left|劳工党（''Parti des travailleurs''）
+|123 540
+|0.34%
+| 
+|-
+|align=left|弗朗索瓦?贝鲁
+|align=left|法国民主联盟（''Union pour la démocratie fran?aise''）
+|6 820 119
+|18.57%
+|-
+|align=left|约瑟?博维
+|align=left|反对全球化代表
+|483 008
+|1.32%
+|-
+|align=left|多米尼克?瓦内
+|align=left|法国绿党（''Les Verts''）
+|576 666
+|1.57%
+|-
+|align=left|菲利普?德?维里耶
+|align=left|保卫法国运动（''Mouvement pour la France''）
+|818 407
+|2.23%
+|-
+|align=left|塞格琳?罗雅尔
+|align=left|法国社会党（''Parti Socialiste''）
+|9 500 112
+|'''<span style="color: red;">25.87%</span>'''
+|16 790 440
+|46.94%
+|-
+|align=left|弗雷德里克?尼吾
+|align=left|打猎、钓鱼、自然与传统党（''Chasse, pêche, nature, traditions''）
+|420 645
+|1.15%
+|-
+|align=left|让-马里耶?勒庞
+|align=left|法兰西民族阵线（''Front national''）
+|3 834 530
+|10.44%
+|-
+|align=left|阿尔莱特?拉吉耶
+|align=left|工人斗争（''Lutte Ouvrière''）
+|487 857
+|1.33%
+|-
+|align=left|尼古拉?萨尔科齐
+|align=left|人民运动联盟 (''Union pour un Mouvement Populaire'')
+|11 448 663
+|'''<span style="color: red;">31.18%</span>'''
+|18 983 138
+|'''<span style="color: green;">53.06%</span>'''
+|-
+| align=left colspan=2 style="background-color:#E9E9E9"|
+|width="75" align="right" style="background-color:#E9E9E9"|
+|width="30" align="right" style="background-color:#E9E9E9"|
+|width="75" align="right" style="background-color:#E9E9E9"|
+|width="30" align="right" style="background-color:#E9E9E9"|
+|-
+|colspan=6 align=left|资料来源： [http://www.conseil-constitutionnel.fr/decision/2007/20070319/20070319.htm 法兰西宪法理事会2007年3月决定]。
+|-
+|colspan=6 align=left|候选人顺序由法兰西宪法理事会抽签决定
+|}
+
+== 选前民意调查 ==
+
+{|class="wikitable"
+|- style="background-color:#E9E9E9"
+!width=10%|调查公司
+!width=14%|日期
+!width=5%|资料来源
+|'''萨尔科齐'''
+|'''罗雅尔'''
+|'''贝胡'''
+|'''勒庞'''
+|'''其他候选人累加'''
+|'''可能的第二轮'''
+|-
+||CSA||[[2007年]][[4月17日]]||[http://www.csa-fr.com/dataset/data2007/opi20070416-intentions-de-vote-a-l-election-presidentielle-de-2007-vague-25.pdf]||'''27'''||25||19||15.5||13.5||'''萨尔科齐 50''' 罗雅尔50
+|-
+||Ipsos||[[2007年]][[4月17日]]||[http://www.ipsos.fr/presidentielle-2007/pdf/170407.pdf]||'''28.5'''||25||18.5||14||14||'''萨尔科齐 52''' 罗雅尔48, '''贝胡 54''' 萨尔科齐 46
+|-
+||Louis-Harris||[[2007年]][[4月9日]]||[http://www.rmcinfo.fr/presidentielle2007/index.php?2007/04/09/602-sondage-hebdo-le-pen-gagne-2-points&cos=1]||'''28'''||24||18||15||15||'''萨尔科齐 52''' 罗雅尔 48
+|-
+||Ifop||[[2007年]]4月8日||[http://www.lejdd.fr/sondages/35.html]||'''29.5'''||22||19||14||15.5||'''萨尔科齐 54''' 罗雅尔 46
+|-
+||Ipsos||[[2007年]]4月8日||[http://www.ipsos.fr/presidentielle-2007/pdf/080407.pdf]||'''30.5'''||22.5||19.5||13||14.5||'''萨尔科齐 54''' 罗雅尔 46，'''贝胡 53''' 萨尔科齐 47
+|-
+||Ipsos||[[2007年]][[4月7日]]||[http://www.ipsos.fr/presidentielle-2007/pdf/070407.pdf]||'''31.5'''||23.5||19||12.5||13.5||'''萨尔科齐 54''' 罗雅尔 46,，'''贝胡 52''' 萨尔科齐 48
+|-
+||CSA||[[2007年]][[4月6日]]||[http://www.csa-fr.com/dataset/data2007/opi20070405-intentions-de-vote-a-l-election-presidentielle-de-2007-vague-22.pdf]||'''26'''||23.5||21||16||13.5||'''萨尔科齐 52'''  罗雅尔 48
+|-
+||Ipsos||[[2007年]][[4月6日]]||[http://www.ipsos.fr/presidentielle-2007/pdf/060407.pdf]||'''31'''||24||18.5||13||13.5||'''萨尔科齐（54）''' 罗雅尔 46， '''贝胡 51.5''' 萨尔科齐 48.5
+|-
+||BVA||[[2007年]][[4月5日]]||[http://www.bva.fr/data/sondage/sondage_sondage/546/sondage_fichier/fichier/21observatoirebvaorange-presseragionale_b7187.pdf]||'''29.5'''||24||18||12||16.5||'''萨尔科齐 54 ''' 罗雅尔 46
+|-
+||Ipsos||[[2007年]][[4月5日]]||[http://www.ipsos.fr/presidentielle-2007/pdf/050407.pdf]||'''31.5'''||24.5||18.5||13||12.5||'''萨尔科齐 54''' 罗雅尔 46， '''贝胡 51 '''  萨尔科齐 49
+|-
+||Ifop||[[2007年]][[4月4日]]||[http://www.ifop2007.fr/intentions-presidentielles]||'''27.5'''||23||20||14||15.5||'''萨尔科齐 52''' 罗雅尔 48
+|-
+||Ipsos||[[2007年]][[4月4日]]||[http://www.ipsos.fr/presidentielle-2007/pdf/040407.pdf]||'''31.5'''||25||18.5||13||12||'''萨尔科齐 54''' 罗雅尔 46 ， '''贝胡 51 '''  萨尔科齐 49
+|-
+||Ipsos||[[2007年]][[4月4日]]||[http://www.ipsos.fr/presidentielle-2007/pdf/030407.pdf]||'''31.5'''||24||19||13.5||12||'''萨尔科齐 54''' 罗雅尔 46， '''贝胡 51 '''  萨尔科齐 49
+|-
+||Louis-Harris||[[2007年]][[4月2日]]||[http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/15296]||'''29'''||26||18||13||14||'''萨尔科齐 51''' 罗雅尔 49 
+|-
+||Ipsos||[[2007年]][[4月1日]]||[http://www.ipsos.fr/presidentielle-2007/pdf/010407.pdf]||'''31'''||24.5||19||13||12.5||'''萨尔科齐 53.5''' 罗雅尔 46.5， '''贝胡 52''' 萨尔科齐 48
+|-
+||Ipsos||[[2007年]][[3月31日]]||[http://www.ipsos.fr/presidentielle-2007/pdf/310307.pdf]||'''32'''||24||18.5||12||13.5||'''萨尔科齐 54''' 罗雅尔 46， '''贝胡 51.5''' 萨尔科齐 48.5
+|-
+||Ifop||[[2007年]][[3月31日]]||[http://www.ifop2007.fr/photo/File/IntentionDeVote/FID-FL8GPB-0307.pdf]||'''28'''||23||21||13.5||14.5||'''萨尔科齐 54''' 罗雅尔 46
+|-
+||TNS-Sofres||[[2007年]][[3月30日]]||[http://www.lefigaro.fr/assets/pdf/barometre_sofres_30_mars.pdf]||'''30'''||27||18||12||13||'''萨尔科齐 52''' 罗雅尔 48
+|-
+||CSA||[[2007年]][[3月30日]]||[http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/15268]||'''26'''||24.5||19.5||15||15||'''萨尔科齐 52''' 罗雅尔 48
+|-
+||Ipsos||[[2007年]][[3月30日]]||[http://www.ipsos.fr/presidentielle-2007/]||'''31.5'''||25||17.5||12||14||'''萨尔科齐 53.5''' 罗雅尔 46.5， '''贝胡 51''' 萨尔科齐 49
+|-
+||Ipsos||[[2007年]][[3月29日]]||[http://www.ipsos.fr/presidentielle-2007/pdf/290307.pdf]||'''31'''||24.5||18||12.5||14||'''萨尔科齐 53.5''' 罗雅尔 46.5， '''贝胡 51.5''' 萨尔科齐 48.5
+|-
+||BVA||[[2007年]][[3月27日]]||[http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/15239]||'''28'''||27||20||12||13||'''萨尔科齐 51''' 罗雅尔 49
+|-
+||Ipsos||[[2007年]][[3月27日]]||[http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/15212]||'''30.5'''||25||18.5||13||13||'''萨尔科齐 53''' 罗雅尔 47， '''贝胡 52''' 萨尔科齐 48
+|-
+||Louis-Harris||[[2007年]][[3月24日]]||[http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/15188]||27||27||20||12||14||'''萨尔科齐 51''' 罗雅尔 49， '''贝胡 60''' 萨尔科齐 40
+|-
+||Ipsos||[[2007年]][[3月24日]]||[http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/15177]||'''30'''||25.5||19||13.5||12||'''萨尔科齐 53''' 罗雅尔 47， '''贝胡 53''' 萨尔科齐 47
+|-
+||Ifop||[[2007年]][[3月23日]]||[http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/15199]||'''26'''||25||22||14.5||12.5||'''萨尔科齐 52''' 罗雅尔 48
+|-
+||TNS-Sofres||[[2007年]][[3月23日]]||[http://www.lefigaro.fr/medias/pdf/Barometre-TNS-Sofres-Unilog.pdf]||'''28'''||26.5||21.5||11||13||'''萨尔科齐 52''' 罗雅尔 48
+|-
+||CSA||[[2007年]][[3月22日]]||[http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/15168]||26||26||21||13||14||萨尔科齐 50 罗雅尔 50
+|-
+||BVA||[[2007年]][[3月20日]]||[http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/15156]||'''31'''||24||17||13||15||'''萨尔科齐 54''' 罗雅尔 46
+|-
+||Ifop||[[2007年]][[3月19日]]||[http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/15145]||'''28'''||24||21||14||13||'''萨尔科齐 53''' 罗雅尔 47， '''贝胡 54''' 萨尔科齐 46
+|-
+||Louis-Harris||[[2007年]][[3月17日]]||[http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/15132]||'''29'''||26||22||12.5||10.5||'''萨尔科齐 52''' 罗雅尔 48， '''贝胡 57''' 萨尔科齐 43
+|-
+||Ipsos||[[2007年]][[3月17日]]||[http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/15106]||'''29.5'''||25||21||12.5||12||'''萨尔科齐 52''' 罗雅尔 48
+|-
+||Ifop||[[2007年]][[3月17日]]||[http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/15096]||'''26'''||24||22.5||14||13.5||'''萨尔科齐 51.5''' 罗雅尔 48.5
+|-
+||TNS-Sofres||[[2007年]][[3月15日]]||[http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/15120]||'''31'''||24||22||12||11||'''萨尔科齐 54''' 罗雅尔 46， '''贝胡 54''' 萨尔科齐 46， '''贝胡 60''' 罗雅尔 40
+|-
+||CSA||[[2007年]][[3月14日]]||[http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/15083]||'''27'''||26||21||14||12||'''萨尔科齐 53''' 罗雅尔 47
+|-
+||Ipsos||[[2007年]][[3月14日]]||[http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/15058]||'''28.5'''||24||23||13.5||13||'''萨尔科齐 53''' 罗雅尔 47
+|-
+||BVA||[[2007年]][[3月13日]]||[http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/15070]||'''29'''||23||21||13||14||'''萨尔科齐 51''' 罗雅尔 49， '''贝胡 55''' 萨尔科齐 45
+|-
+||Louis-Harris||[[2007年]][[3月10日]]||[http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/15047]||'''28'''||26||22||13.5||10.5||'''萨尔科齐 52''' 罗雅尔 48， '''贝胡 55''' 萨尔科齐 45
+|-
+||Ipsos||[[2007年]][[3月10日]]||[http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/15022]||'''31'''||25.5||21.5||12.5||9.5||'''萨尔科齐 53.5''' 罗雅尔 46.5
+|-
+||Ifop||[[2007年]][[3月9日]]||[http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/15012]||'''28'''||23||23||13||13|| 
+|-
+||TNS-Sofres||[[2007年]][[3月8日]]||[http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/15035]||'''27'''||25.5||23||12||12||'''萨尔科齐 52''' 罗雅尔 48
+|-
+||CSA||[[2007年]][[3月7日]]||[http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/14999]||'''26'''||25||24||14||11||'''萨尔科齐 53''' 罗雅尔 47
+|-
+||Ipsos||[[2007年]][[3月7日]]||[http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/14979]||'''32.5'''||27||19||12.5||9||'''萨尔科齐 53''' 罗雅尔 47
+|-
+||BVA||[[2007年]][[3月6日]]||[http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/15004]||'''29'''||24||21||13||13||'''萨尔科齐 53''' 罗雅尔 47， '''贝胡 55''' 萨尔科齐 45
+|-
+||Louis-Harris||[[2007年]][[3月3日]]||[http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/14986]||'''28'''||27||20||14||11||'''萨尔科齐 52''' 罗雅尔 48
+|-
+||TNS-Sofres||[[2007年]][[3月1日]]||[http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/14966]||'''31'''||25.5||18.5||12||13||'''萨尔科齐 54''' 罗雅尔 46
+|-
+||Ipsos||[[2007年]][[2月28日]]||[http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/14906]||'''32'''||25||18||12.5||10||'''萨尔科齐 53.5''' 罗雅尔 46.5
+|-
+||CSA||[[2007年]][[2月28日]]||[http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/14969]||29||29||17||14||11||'''萨尔科齐 52''' 罗雅尔 48
+|-
+||BVA||[[2007年]][[2月27日]]||[http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/14920]||'''31'''||25||17||14||13||'''萨尔科齐 53''' 罗雅尔 47， '''贝胡 54''' 萨尔科齐 46， '''贝胡 55''' 罗雅尔 45
+|-
+||Louis-Harris||[[2007年]][[2月24日]]||[http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/14895]||'''30'''||27||17||13||13||萨尔科齐 50 罗雅尔 50
+|-
+||Ifop||[[2007年]][[2月23日]]||[http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/14877]||28||28||17||11.5||15.5||'''萨尔科齐 50.5''' 罗雅尔 49.5
+|-
+||BVA||[[2007年]][[2月20日]]||[http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/14850]||'''33'''||26||15||10||16||'''萨尔科齐 52''' 罗雅尔 48， '''贝胡 54''' 萨尔科齐 46， '''贝胡 52''' 罗雅尔 48
+|-
+||CSA||[[2007年]][[2月20日]]||[http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/14820]||28||'''29'''||17||14||13||'''萨尔科齐 51''' 罗雅尔 49
+|-
+||Louis-Harris||[[2007年]][[2月17日]]||[http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/14861]||'''33'''||25.5||14||13||15||'''萨尔科齐 54''' 罗雅尔 46
+|-
+||Ipsos||[[2007年]][[2月17日]]||[http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/14840]||'''33'''||23||16||13||15||'''萨尔科齐 54''' 罗雅尔 46
+|-
+||Ifop||[[2007年]][[2月15日]]||[http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/14828]||'''32'''||25.5||16||11||15.5||'''萨尔科齐 53''' 罗雅尔 47
+|-
+||TNS-Sofres||[[2007年]][[2月15日]]||[http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/14808]||'''33'''||26||12||13||16||'''萨尔科齐 55''' 罗雅尔 45
+|-
+||CSA||[[2007年]][[2月12日]]||[http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/14788]||'''33'''||26||12||14||15||'''萨尔科齐 54''' 罗雅尔 46
+|-
+||BVA||[[2007年]][[2月12日]]||[http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/14771]||'''35'''||29||14||10||12||'''萨尔科齐 53''' 罗雅尔 47
+|-
+||Ipsos||[[2007年]][[2月13日]]||[http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/14751]||'''34'''||27||14||13||12||'''萨尔科齐 54''' 罗雅尔 46
+|-
+||Ifop||[[2007年]][[2月10日]]||[http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/14738]||'''33.5'''||26||14||10||16.5||'''萨尔科齐 54''' 罗雅尔 46
+|-
+||Louis-Harris||[[2007年]][[2月10日]]||[http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/14779]||'''31'''||27||13||12||17||'''萨尔科齐 53''' 罗雅尔 47
+|-
+||Louis-Harris||[[2007年]][[2月3日]]||[http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/14704]||'''33'''||27||13||9||18||'''萨尔科齐 52''' 罗雅尔 48
+|-
+||Ipsos||[[2007年]][[2月3日]]||[http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/14687]||'''34'''||27||13||11||15||'''萨尔科齐 53''' 罗雅尔 47
+|-
+||TNS-Sofres||[[2007年]][[2月1日]]||[http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/14661]||'''32'''||26||13||12.5||18.5||'''萨尔科齐 53''' 罗雅尔 47
+|-
+||CSA||[[2007年]][[1月31日]]||[http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/14674]||'''31'''||27||12||16||14||'''萨尔科齐 53''' 罗雅尔 47
+|-
+||Ipsos||[[2007年]][[1月27日]]||[http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/14625]||'''35'''||26||11||11||17||'''萨尔科齐 54''' 罗雅尔 46
+|-
+||Louis-Harris||[[2007年]][[1月27日]]||[http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/14595]||'''31'''||29||14||10||15.5||'''萨尔科齐 51''' 罗雅尔 49
+|-
+||BVA||[[2007年]][[1月23日]]||[http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/14496]||'''33'''||27||13||10||17||'''萨尔科齐 52''' 罗雅尔 48
+|-
+||Ipsos||[[2007年]][[1月20日]]||[http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/14540]||'''32'''||29||11||13||15||'''萨尔科齐 52''' 罗雅尔 48
+|-
+||Ifop||[[2007年]][[1月20日]]||[http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/14518]||'''32.5'''||28||12.5||11||16||'''萨尔科齐 51''' 罗雅尔 49
+|-
+||CSA||[[2007年]][[1月17日]]||[http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/14454]||'''30'''||29||9||15||17||'''萨尔科齐 52''' 罗雅尔 48
+|-
+||Ifop||[[2007年]][[1月15日]]||[http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/14424]||'''33'''||28||12||10||17||'''萨尔科齐 52''' 罗雅尔 48
+|-
+||Ipsos||[[2007年]][[1月7日]]||[http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/14358]||'''33'''||32||10||12||13||萨尔科齐 50 罗雅尔 50
+|-
+||Ifop||[[2007年]][[1月5日]]||[http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/14370]||25||'''27'''||10||12||25.5||'''罗雅尔 50.5''' 萨尔科齐 49.5
+|-
+||CSA||[[2007年]][[1月3日]]||[http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/14317]||32||'''34'''||6||15||13||'''罗雅尔 52''' 萨尔科齐 48
+|-
+||Ifop||[[2006年]][[12月15日]]||[http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/14269]||29||'''31'''||8||11||21||萨尔科齐 50 罗雅尔 50
+|-
+||BVA||[[2006年]][[12月12日]]||[http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/14194]||32||'''35'''||8||9||16||'''罗雅尔 51''' 萨尔科齐 49
+|-
+||Ipsos||[[2006年]][[12月9日]]||[http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/14099]||'''34'''||32||9||11.5||13.5||萨尔科齐 50 罗雅尔 50
+|-
+||Ipsos||[[2006年]][[12月2日]]||[http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/14024]||'''35'''||31||8||12.5||14.5||'''萨尔科齐 51''' 罗雅尔 49
+|-
+||Ifop||[[2006年]][[12月1日]]||[http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/14004]||30||'''31'''||9||12||18||萨尔科齐 50 罗雅尔 50
+|-
+||CSA||[[2006年]][[11月22日]]||[http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/13949]||29||'''32'''||6||17||16||'''罗雅尔 53''' 萨尔科齐 47
+|-
+||Ifop||[[2006年]][[11月18日]]||[http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/13937]||29||29||11||11||20||'''罗雅尔 51''' 萨尔科齐 49
+|-
+||Ipsos||[[2006年]][[11月11日]]||[http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/13853]||'''34'''||30||8||10||18||萨尔科齐 50 罗雅尔 50
+|-
+||TNS-Sofres||[[2006年]][[11月9日]]||[http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/13808]||34||34||7||13||12|| 
+|-
+||CSA||[[2006年]][[11月8日]]||[http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/13783]||'''30'''||29||7||15||19||'''罗雅尔 51''' 萨尔科齐 49
+|-
+||CSA||[[2006年]][[10月18日]]||[http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/13578]||31||'''32'''||7||15||15||'''罗雅尔 52''' 萨尔科齐 48
+|-
+|}
+（表内数据均为百分比，黑体候选人为调查胜者）<br />
+正式选举前两天内即2007年4月20日至2007年4月22日，任何形式的民意调查将不再公布。
+
+== 资料来源 ==
+<div class="references-small">
+<references />
+</div>
+
+== 外部链接 ==
+{{Commons|:Category:French presidential election (2007)|2007年法国总统选举}}
+*[http://news.sina.com.cn/z/faguodaxuan/index.shtml 新浪网专题]
+*[http://www.rfi.fr/actucn/articles/085/article_1529.asp 法国国际广播电台关于此次总统选举的专题报道]
+
+[[Category:2007年选举]]
+[[Category:总统选举]]
+[[Category:法国选举]]
+[[Category:2007年法国]]

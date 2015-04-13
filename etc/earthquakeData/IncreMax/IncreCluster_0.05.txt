@@ -1,0 +1,235 @@
+clustering:
+cluster id: 0concept: 
+捐助及慰问#对政府救援的批评、质疑与抗议#国际社会#救灾进展#国际反应#地震参数#民间质疑#交通#哀悼日#获救#地震消息#各国反应#海啸#维权与诉讼#地震经过#影响邻近#境外援助#预报设防#百岁幸存者#简介#具体灾难#破坏预测#国际慰问#地震测报#全国#地震防御#概述#地震烈度#全国动员#损害#预警系统#引发海啸#分析#科研意义#概要#赈济#周恩来赴灾区慰问#自然警告信号#
+cluster id: 1concept: 
+原因剖析#中国大陆#经济影响#伤亡及损害#情况概述#震后#应急预案#对口援助工程#伤亡与损失#可能发生大海啸#人物事迹#历史背景#感人故事#预警#广播#地裂#地震影响#震中附近地震史#伤亡情况#设防环节#未来的威胁#地震后的情况#地质影响#地震背景#地震事迹#地震灾害#人员死亡及财产损失#地震详述#民间影响#影响#目击者#伤亡#人员伤亡报告#概况#地震简介#
+cluster id: 2concept: 
+谣言#地震后的动乱与暴力镇压#传播方式#以怨报德#救援报道#赈灾情况#中国红十字会要求国际红十字会应征得中国红十字会的允许方可援助之争议#
+cluster id: 3concept: 
+屠杀#掩盖真相#中华民国外交部批判#灾情#破坏特点#司法#
+cluster id: 4concept: 
+网络#民间#民间组织#中国政府回应指责#
+cluster id: 5concept: 
+地震详情#
+cluster id: 6concept: 
+次生灾害#
+cluster id: 7concept: 
+两岸三地#
+cluster id: 8concept: 
+哀悼#
+cluster id: 9concept: 
+地震历史#本次地震成因#与唐山大地震相比较#地震原因#各地最大震度#征兆和预警#地震成因#损失与伤亡#主要经过#未能预报原因#影响范围#地质#利用地震资源#汶川地震余震说#系列地震#余震#历次余震#捐献最多的公司#地震破坏#祈福#火山地震#伤亡人数#数次地震#地质公园#随地震而来的大火#该地区历史地震背景#伤亡损失#引发火灾#受灾实情#死亡人数#前震与余震纪录#随之而来的大火#
+cluster id: 10concept: 
+能量释放#震级#级别#地震类型#余震未绝#构造地震#第一次地震#其他各国#发生原因#旧金山地震百年启示#地震释放的能量#龙门山断裂带说#联合国#地震学的诞生#
+cluster id: 11concept: 
+铁路#核电紧急状态#产生影响#通讯联络#政府影响#地震监测#周边影响#国际电讯服务中断#救援祈福#地震探索#境外#停电#
+cluster id: 12concept: 
+地震的成因#
+cluster id: 13concept: 
+核研究#核泄漏#二次事故#异常征兆研究#媒体报道#地震前后全球地震情况#余震和之后发生的其他地震#第二次地震#地震震级#人工地震#地震发生#地震前兆#核电影响#
+cluster id: 14concept: 
+现场#目击回忆#反应#震中#波及范围#地理分布#时间分布#地震概况#地震概率#地震情形#专家意见#
+cluster id: 15concept: 
+震后动乱#
+cluster id: 16concept: 
+预防应急#
+cluster id: 17concept: 
+救援事故#
+cluster id: 18concept: 
+极重灾区#纪念碑馆#政府和国有企业#军队#防灾救灾#民众与自救#伤亡与灾情#抗震精神#抗震救灾#消防官兵#第一次#搜救情况#震中震源#烈度(震度)#
+cluster id: 19concept: 
+地形地貌#灾后状况#地貌与水利#大堰塞湖#
+cluster id: 20concept: 
+最多的个人和慈善组织捐助#
+cluster id: 21concept: 
+医疗救治#国际救援行动#全球救援#国际援助#政府救援批评#救灾援助#治安#各方捐助#启示#香港部分网民抗捐活动#抗震评价#人道救援#国际救援#其他国家#慷慨援助#中国的援助#救援行动#援助#
+cluster id: 22concept: 
+地震的灾害管理#
+cluster id: 23concept: 
+待解问题#有关校舍质量问题的争议#诉讼#军警#校舍安全#纪念馆#
+cluster id: 24concept: 
+中国红十字基金会#捐助#捐赠#一般灾区#中央政府重建工程#电力#10年重建#捐款去向#劫后余生，百年纪念#灾后重建#国内震灾捐款#捐款#国内社会#部分承诺捐款最多的国家和组织#地震纪念#
+cluster id: 25concept: 
+史料记载#
+cluster id: 26concept: 
+股市影响#经济冲击#对中国影响#金融证券#停气#金融与工业#震源#
+cluster id: 27concept: 
+伤亡损失情况#
+cluster id: 28concept: 
+中外援助#
+cluster id: 29concept: 
+各界反应#
+cluster id: 30concept: 
+各方反应#
+cluster id: 31concept: 
+纪念活动#
+cluster id: 32concept: 
+正式名称#防减灾日#教训与反思#寓意未来#基本信息#破坏现象#航空#地震信息#宏观震中#通信交通#余震级别#纪念馆与文艺作品#
+cluster id: 33concept: 
+地震前预兆#
+cluster id: 34concept: 
+心理#
+cluster id: 35concept: 
+地震防护#
+cluster id: 36concept: 
+地震救援#
+cluster id: 37concept: 
+高原反应#成因#成因与地质背景#震中位置#地震位置#山崩#水利建设#国内反应#诱发地震#大地构造#专家详析#释放能量#地质背景#相关作品#地面构造变形#
+cluster id: 38concept: 
+公路#道路抢修#交通运输#通讯#
+cluster id: 39concept: 
+教育与校舍#
+cluster id: 40concept: 
+地震危害#
+cluster id: 41concept: 
+电视#募捐活动#悼念活动#全国哀悼日#全国哀悼#传播媒体#国外#媒体评论#哀悼与纪念#纪录片#
+cluster id: 42concept: 
+震前先兆#
+cluster id: 43concept: 
+地形复杂#困难与障碍#
+cluster id: 44concept: 
+经验教训#
+cluster id: 45concept: 
+文化与古迹#古文化被摧毁#文物古迹#民族文化#灾区状况#环境恶劣#地震预报#
+cluster id: 46concept: 
+光荣事例#
+cluster id: 47concept: 
+分次地震#
+cluster id: 48concept: 
+时间#
+cluster id: 49concept: 
+地震原理#
+cluster id: 50concept: 
+火灾#
+cluster id: 51concept: 
+震后华人情况#破坏情况#受灾情况#损失情况#震后情况#主要地震#记录备忘#第三次地震#人员伤亡#重建#震源深度#抗震场地#损失#救援#过程#基本情况#海原地震史料#
+cluster id: 52concept: 
+震前摩擦#
+cluster id: 53concept: 
+灾区范围#
+cluster id: 54concept: 
+国际#
+cluster id: 55concept: 
+政府及社会组织#
+cluster id: 56concept: 
+火炬传递#北京奥运会#
+cluster id: 57concept: 
+破坏及伤亡报告#
+cluster id: 58concept: 
+停水#
+cluster id: 59concept: 
+国内援助#“救援黄金72小时”全程记录#政府#国家关怀#科教文卫#中华人民共和国政府有意阻挠国际救难队和救援物资抵台之争议#
+cluster id: 60concept: 
+企业#
+cluster id: 61concept: 
+中华民国政府各界之批判#
+cluster id: 62concept: 
+地震序列#地震的规模#
+cluster id: 63concept: 
+灾难前后#
+cluster id: 64concept: 
+房屋加固#
+cluster id: 65concept: 
+建筑受损#
+cluster id: 66concept: 
+争议#
+cluster id: 67concept: 
+震情简介#
+cluster id: 68concept: 
+直接影响#
+cluster id: 69concept: 
+气候暖化跟地震的关联#
+cluster id: 70concept: 
+灾害破坏#震级(规模)#地震级别#地震特性#较重灾区#地震统计#救灾#工程抗震#背景#波及面#
+cluster id: 71concept: 
+网页#
+cluster id: 72concept: 
+美国国会严词批判#
+cluster id: 73concept: 
+书籍#
+cluster id: 74concept: 
+纪念#
+cluster id: 75concept: 
+灾民惨状#
+cluster id: 76concept: 
+多国组织#
+cluster id: 77concept: 
+工商业损失#经济损失#财产损失#详细参数#巨大损失#地震对比#征兆与预警#造成损失#
+cluster id: 78concept: 
+灾民安置 　#灾民安置#
+cluster id: 79concept: 
+气候恶劣#
+cluster id: 80concept: 
+大熊猫#生态#
+cluster id: 81concept: 
+海啸与环保#
+cluster id: 82concept: 
+文学作品#
+cluster id: 83concept: 
+回忆悼念#
+cluster id: 84concept: 
+详细介绍#
+cluster id: 85concept: 
+次生影响#濒死的拂晓#震后影响#民政抚慰#
+cluster id: 86concept: 
+非政府组织#
+cluster id: 87concept: 
+停班停课信息#
+cluster id: 88concept: 
+地震理赔#
+cluster id: 89concept: 
+应急响应#
+cluster id: 90concept: 
+卫生条件#卫生与污染#
+cluster id: 91concept: 
+环境保护#
+cluster id: 92concept: 
+组织机构#
+cluster id: 93concept: 
+行政院陆委会批判#
+cluster id: 94concept: 
+地震预知#
+cluster id: 95concept: 
+社会捐助#
+cluster id: 96concept: 
+期刊#
+cluster id: 97concept: 
+中国救助#
+cluster id: 98concept: 
+影响国家#
+cluster id: 99concept: 
+人心叵测#
+cluster id: 100concept: 
+震级烈度#
+cluster id: 101concept: 
+维生系统灾害状况#
+cluster id: 102concept: 
+损失伤亡#
+cluster id: 103concept: 
+各国及国际组织反应#
+cluster id: 104concept: 
+中华人民共和国政府阻挠救援的争议#
+cluster id: 105concept: 
+地震分布#
+cluster id: 106concept: 
+政府因应措施与民间救援#
+cluster id: 107concept: 
+经济#
+cluster id: 108concept: 
+地理分布——地震带#
+cluster id: 109concept: 
+救灾情况#
+cluster id: 110concept: 
+陷落地震#
+cluster id: 111concept: 
+地震应急#
+cluster id: 112concept: 
+县市政府批判#
+cluster id: 113concept: 
+民间传说#
+cluster id: 114concept: 
+海啸环保#
+cluster id: 115concept: 
+对哲学的影响#
+cluster id: 116concept: 
+具体的倒塌学校名单#

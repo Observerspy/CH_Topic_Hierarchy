@@ -1,0 +1,488 @@
+﻿{{Infobox election
+| election_name = 2013年伊朗总统选举
+| country = 伊朗
+| type = presidential
+| ongoing = yes
+| previous_election = 2009年伊朗总统选举
+| previous_year = 2009年
+| next_election = 2017年伊朗总统选举
+| next_year = 2017年
+| election_date = 2013年6月14日
+| colour1 = FAEBD7
+| image1 = [[File:Mohammad Reza Aref2 cropped.jpg|150x140px]]
+| nominee1 = [[穆罕默德?礼萨?阿雷夫]]
+| party1 = 伊斯兰参与阵线党
+| popular_vote1 = 
+| percentage1 = 
+| colour2 = FE5A1D
+| image2 = [[File:Mohammad Bagher Ghalibaf2 cropped.jpg|150x140px]]
+| nominee2 = [[穆罕默德?巴吉尔?卡利巴夫]]
+| party2 = 伊斯兰工程师协会
+| popular_vote2 = 
+| percentage2 = 
+| colour3 = 808080
+| image3 = [[File:Mamadgharaz.png|150x140px]]
+| nominee3 = [[默罕默德?吉哈拉兹]]
+| party3 = 无党派
+| popular_vote3 = 
+| percentage3 = 
+| colour4 = E6E8FA
+| image4 = [[File:Hadad 2005.jpg|150x140px]]
+| nominee4 = [[古拉姆?阿里?哈德尔]]
+| party4 = 伊斯兰革命狂热党
+| popular_vote4 = 
+| percentage4 = 
+| colour5 = 808080
+| image5 = [[File:Saeed Jalili cropped.jpg|150x140px]]
+| nominee5 = [[萨伊德?贾利利]]
+| party5 = 伊斯兰革命稳定阵线
+| popular_vote5 = 
+| percentage5 = 
+| colour6 = 6dc6e7
+| image6 = [[File:Mohsen Rezaee.jpg|150x140px]]
+| nominee6 = [[穆赫辛?礼萨伊]]
+| party6 = 节制和发展党
+| popular_vote6 = 
+| percentage6 = 
+| colour7 = ac27a9
+| image7 = [[File:Hassan Rouhani.jpg|150x140px]]
+| nominee7 = [[哈桑?鲁哈尼]][[File:Vote1.svg|24px]]
+| party7 = 战斗教士协会
+| popular_vote7 = 
+| percentage7 = 
+| colour8 = 808080
+| image8 = [[File:Velayati 1980.jpg|150x140px]]
+| nominee8 = [[阿里?阿卡巴?乌伊拉亚提]]
+| party8 = 伊斯兰联盟党
+| popular_vote8 = 
+| percentage8 = 
+| map_image = 
+| map_size = 
+| map_caption = 
+| title = 总统
+| before_election = [[马哈茂德?艾哈迈迪内贾德]]
+| before_party = 伊斯兰伊朗建设者联盟
+| after_election = 哈桑?鲁哈尼
+| after_party = 战斗教士协会
+}}
+'''2013年伊朗总统选举'''是[[伊朗伊斯兰共和国]]第11届总统选举，于2013年6月14日星期五举行。<ref name=" man" >{{cite web |url=http://nandu.oeeee.com/nis/201305/08/47717.html |title= 伊朗总统选举拉开大幕|accessdate=013-05-08 |publisher=南都网 |work= |language=zh-cn}}</ref>本次选举报名人数686人，<ref name="tr " >{{cite web |url=http://world.people.com.cn/BIG5/n/2013/0512/c57507-21453007.html |title=伊朗总统竞选报名人数达到686人 |accessdate=2013年5月12日 |publisher= 人民网|work= |language=zh-hk}}</ref>这次总统选举5人来自强硬保守派。<ref name="fhs " >{{cite web |url=http://news.ifeng.com/gundong/detail_2013_05/23/25610465_0.shtml |title=伊朗总统选举候选人名单公布 |accessdate=2013年5月29日 |publisher=凤凰网 |work= |language=zh-cn}}</ref>获资格审查通过共8人，最终六人参选。
+
+本次大选的选民投票踊跃，投票所大排长龙，伊朗内政部还延长投票时间至夜间。6月15日晚内政部宣布，[[哈桑?鲁哈尼]]（改革派）获18,613,329票（得票率50.71%）因得票过半而胜出，第二名[[德黑兰]]市长[[穆罕默德?巴吉尔?卡利巴夫]]（强硬派）获得6,077,292张票。 
+
+地方议会选举也在同一天举行，由[[宪法监护委员会]]负责监督，该委员会由12人组成，包括6名[[法学家]]和6名[[神学家]]，他们负责审查候选人合格和确认选举结果。
+
+== 背景 ==
+[[伊朗总统]]是由伊朗[[公民]]直接投票选举产生，每4年选举一次，伊朗总统是世俗事务的最高执行者，行使行政权，位置排名于伊朗革命和宗教领袖之后。<ref name="fish " >{{cite web |url=http://opinion.huanqiu.com/opinion_world/2013-05/3981128.html |title=德安：掀起伊朗总统选举的“面纱” |accessdate=2013年5月29日 |publisher=环球时报 |work= |language=zh-cn}}</ref>所有出生在伊朗的伊朗公民、信仰[[真主阿拉]]和官方宗教伊朗[[什叶派]][[伊斯兰教]]、忠于[[伊朗宪法|宪法]]、年满16周岁、75岁以下的可以作为候选人。<ref name="fish " />宪法监护委员会将根据伊朗宪法条款，审查申请参选者的[[政治]]和[[宗教]]背景，确定其参选资格。伊朗宪法要求，如果参选者超过200名候选人，宪法监护委员会将评估这些候选人并选择最优秀的担任伊朗总统。伊朗总统候选人有一个标准表单（[[教育]]、[[公共服务]]记录、[[军事]]服务记录等）都被列入表单。
+
+=== 上届选举 ===
+{{main|伊朗绿色革命}}
+于2009年6月12日举行的[[2009年伊朗总统选举]]，<ref>{{cite news|title=Iran To Hold Presidential Election In June 2009|url=http://www.rferl.org/content/Iran_To_Hold_Presidential_Election_In_June_2009/1196953.html |format=[[Reuters]]|work=[[Radio Free Europe/Radio Liberty]]|date=7 September 2008|accessdate=2 December 2008}}</ref>由现任总统[[马哈茂德?艾哈迈迪内贾德]]和其他3名竞选人参选。<ref name="AJE1">{{cite news|title=Ahmadinejad 'set for Iran victory'|newspaper=[[Al Jazeera English]]|date=13 June 2009|accessdate=13 June 2009|quote="Doctor Ahmadinejad, by getting a majority of the votes, has become the definite winner of the 10th presidential election," the news agency said.|url=http://english.aljazeera.net/news/middleeast/2009/06/2009612195749149733.html}}</ref>6月13日早晨，伊朗伊斯兰共和国通讯社报道，伊朗官方新闻机构宣布，马哈茂德?艾哈迈迪内贾德赢得三分之二的选票，赢得了选举的62%的选票，[[米尔-海珊?穆萨维|穆萨维]]赢得了34%的选票。<ref name=NYT>{{cite news|title=Both Sides Claim Victory in Presidential Election in Iran|newspaper=The New York Times|date=13 June 2009|accessdate=13 June 2009|quote= "The election commission said early Saturday morning that, with 78 percent of the votes counted, Mr. Ahmadinejad had won 65 percent and Mr. Mousavi had 32 percent, Reuters reported." |url=http://www.nytimes.com/2009/06/13/world/middleeast/13iran.html|first1=Robert F.|last1=Worth|first2=Nazila|last2=Fathi}}</ref><ref>{{cite news|url=http://news.bbc.co.uk/2/hi/middle_east/8098305.stm|title=Ahmadinejad wins Iran presidential election |date=13 June 2009|newspaper=BBC News|accessdate=13 June 2009}}</ref>欧盟、<ref name=defeated>{{cite news|title=Defeated Iranian reformist Mir-Hossein Mousavi calls for more protest against Mahmoud Ahmadinejad |author1=Colin Freeman|author2=David Blair|url=http://www.telegraph.co.uk/news/worldnews/middleeast/iran/5533782/Defeated-Iranian-reformist-Mir-Hossein-Mousavi-calls-for-more-protest-against-Mahmoud-Ahmadinejad.html|date=14 June 2009|accessdate=14 June 2009|newspaper=[[The Daily Telegraph|The Telegraph]]| location=London}}</ref>英国、<ref name=reactions>[http://ukinusa.fco.gov.uk/en/newsroom/?view=News&id=19464717 Gordon Brown comments on situation in Iran – 16 June], British Embassy, Washington 16 June 2009</ref>美国和一些西方国家对投票期间涉嫌违规表示关切，<ref name="defeated"/>从美国、欧洲和其他西方媒体来的许多分析师和记者表示对结果的真实性存在疑虑。<ref name=free>{{cite news|newspaper=BBC News|title=Ahmadinejad defiant on 'free' Iran poll |url=http://news.bbc.co.uk/2/hi/middle_east/8099115.stm|date=13 June 2009|accessdate=13 June 2009}}</ref><ref name=tele>{{cite news|first=Colin|last=Freeman|url=http://www.telegraph.co.uk/news/worldnews/middleeast/iran/5526721/Iran-elections-revolt-as-crowds-protest-at-Mahmoud-Ahmadinejads-rigged-victory.html|title=Iran elections: revolt as crowds protest at Mahmoud Ahmadinejad's 'rigged' victory|newspaper=Daily Telegraph|date=12 June 2009|accessdate=12 June 2009|location=London}}</ref><ref name=instant>{{cite news|url=http://www.reuters.com/article/newsMaps/idUSTRE55C0W620090613|title=Instant View: Iran's election result staggers analysts |newspaper=Reuters|date=9 February 2009|accessdate=13 June 2009}}</ref>与此同时，许多[[伊斯兰会议组织]]成员国以及俄罗斯、中国、印度和巴西，祝贺内贾德赢得了总统大选的胜利。
+
+穆萨维发表声明说：“我警告，我不会屈服于这种无聊的游戏”，并敦促他的支持者不要用暴力行为表达诉求。<ref name=free/>支持穆萨维和反对涉嫌欺诈的抗议运动在伊朗首都德黑兰爆发。最高精神领袖哈梅内伊呼吁全国团结一致支持内贾德，并称他的胜利是一个“神圣的评估”。<ref name=abc>{{Cite news|title=Election Battles Turn Into Street Fights in Iran|newspaper=[[ABC News]]|url=http://abcnews.go.com/International/wireStory?id=7830630|date=13 June 2009|accessdate=13 June 2009}} {{Dead link|date=October 2010|bot=H3llBot}}</ref>6月14日，穆萨维提出正式上诉结果给宪法监护委员会。<ref name=join>{{cite news|date=14 June 2009|accessdate=14 June 2009|title=Crowds join Ahmadinejad victory rally|newspaper=BBC News|url=http://news.bbc.co.uk/2/hi/middle_east/8099501.stm}}</ref>6月15日，哈梅内伊宣布在7到10天后将公布这次总统选举的一个调查。<ref name=black>{{cite news|url=http://www.guardian.co.uk/world/2009/jun/15/iran-opposition-rally-banned-mousavi|title=Iranians march in protest at Ahmadinejad re-election|author1=Ian Black|author2=Vikram Dodd|author3=Matthew Weaver|newspaper=The Guardian|date=15 June 2009|accessdate=15 June 2009|location=London}}</ref>6月16日，宪法监护委员会宣布将重新点票。然而，穆萨维表示，1400万张未使用选票的失踪，给了对手一个机会来操纵的总统大选的结果。<ref name=recount>{{cite news|url=http://edition.cnn.com/2009/WORLD/meast/06/16/iran.elections.protests/index.html|title=Rival demonstrations fill Tehran streets|newspaper=CNN|date=16 June 2009|accessdate=16 June 2009|author1=Octavia Nasr|author2=Reza Sayah|author3=Samson Desta}}</ref>6月29日，伊朗的选举委员会完成了重新计票（部分票数）结果，得出结论认为，内贾德赢得了选举，各反对党表示抗议。<ref name=recount2>{{cite news|url=http://news.bbc.co.uk/2/hi/middle_east/8125619.stm|title=Ahmadinejad victory confirmed in Iran|newspaper=BBC|date=29 June 2009|accessdate=29 June 2009}}</ref>
+
+== 选举法 ==
+根据伊朗法律规定，年满16周岁到75岁均可参加总统选举，但他们的健康问题必须由宪法监护委员会检查。
+
+=== 变化 ===
+2012年12月17日，议会选举新法案通过，国民议会议长阿里?拉里贾尼宣布正式实施：
+
+{| class="wikitable"
+|-
+! 法案!! 之前 !! 变化
+|-
+| 18 / 31||
+* 内政部必须“宣布”结果
+* 内政部“只有”选举的官方参考
+ ||
+* 选举委员会将“宣布”最后的结果，由内政部确认
+* 内政部在选举委员会的官员中选出
+|-
+|  64||
+* 辩论可以“记录”
+||
+* 辩论必须“存档”
+* 如果敲诈一个候选人，他/她被授权保护自己
+|}
+
+=== 选举委员会 ===
+历史上第一次伊朗总统选举，1个11人组成的委员会（3名法律家，7名来自议会的专家）将监督选举。<ref>[http://isna.ir/fa/news/92020804922/%D9%85%D8%B9%D8%B1%D9%81%DB%8C-30-%D9%85%D8%B9%D8%AA%D9%85%D8%AF-%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA-%D8%B1%DB%8C%D8%A7%D8%B3%D8%AA-%D8%AC%D9%85%D9%87%D9%88%D8%B1%DB%8C-%D8%A8%D9%87-%D9%87%DB%8C%D8%A7%D8%AA Members of the Electoral Commission announced]</ref><ref>[http://www.farsnews.com/newstext.php?nn=13920208000323 Electoral Commission]</ref>
+
+== 候选人 ==
+*穆罕默德?礼萨?阿雷夫，第一副总统，2001年到2005年。<ref>{{cite web|url=http://khabaronline.ir/detail/291928/politics/election |title=????????? - ???? ?????? ???/ ??????? ????? ??? ???? ????? ???? ????? ??????/??? ????? ?????????? ??? ??? ????? |publisher=Khabaronline.ir |date=|accessdate=23 May 2013}}</ref><ref name=" bull" >{{cite web |url=http://gb.cri.cn/42071/2013/05/22/6611s4123120.htm |title=伊朗公布总统选举候选人名单 强硬保守派超过半数 |accessdate=2013 |publisher=国际在线 |work= |language=zh-cn}}</ref><ref name=" xhw" >{{cite web |url= http://news.xinhuanet.com/2013-05/22/c_124744683.htm|title= 伊朗媒体披露下届总统竞选候选人名单 |accessdate= 2013|publisher=新华网 |work= |language=zh-cn}}</ref>
+*[[穆罕默德?巴吉尔?卡利巴夫]]，德黑兰市长，2005年至今。<ref>{{cite web|url=http://khabaronline.ir/detail/292118/politics/election |title=????????? - ??????? ? ????? ????? ?? ?? ???????? ????? ?????? ??? ??? ????? |publisher=Khabaronline.ir |date= |accessdate=23 May 2013}}</ref><ref name=" bull" /><ref name=" xhw" /> 
+*默罕默德?吉哈拉兹，通信和情报部长，1989年到1997年。<ref name=" bull" /><ref name=" xhw" />
+*古拉姆?阿里?哈德尔，国会议长，2004年到2008年。<ref name=" bull" /><ref name=" xhw" />
+*萨伊德?贾利利，最高国家安全委员会秘书，2007年至今。<ref name="farsnews1">{{cite news|url=http://www.farsnews.com/newstext.php?nn=13920123000623|title=?????? ?? ??????? ???? ???? ??? ???????? ???? ? ????? ?? ?? ???? ?? ????? ?????|newspaper=Fars News|accessdate=18 April 2013}}</ref> <ref name=" bull" /><ref name=" xhw" /> 
+*[[穆赫辛?礼萨伊]]，权宜委员会秘书，1997年至今。<ref>[http://english.farsnews.com/newstext.php?nn=9107128163 Mohsen Rezayee to Run for Iran Presidency Again], ''[[Fars News Agency]]'', 18 December 2012</ref><ref name=" bull" /><ref name=" xhw" /> 
+*[[哈桑?鲁哈尼]]，最高国家安全委员会秘书，1989年到2005年。<ref>{{cite web|url=http://khabaronline.ir/detail/291401/politics/election |title=????????? - ??? ?????? ???? ????? ????? ????? ? ????? ?????? ??? |publisher=Khabaronline.ir |date= |accessdate=23 May 2013}}</ref><ref name=" bull" /><ref name=" xhw" />  
+*阿里?阿卡巴?乌伊拉亚提，外交部长，1981年1997年。<ref>{{cite news|url=http://www.al-monitor.com/pulse/politics/2012/08/an-early-entry-in-the-atmosphere.html|title=Iran's Presidential Campaign Get Off to Very Early Start |newspaper=Al Monitor|accessdate=18 April 2013}}</ref><ref name=" bull" /><ref name=" xhw" />
+
+<gallery perrow="4">
+File:Mohammad Reza Aref2 cropped.jpg|'''[[穆罕默德?礼萨?阿雷夫]]''' 
+File:Mohammad Bagher Ghalibaf2 cropped.jpg|'''[[穆罕默德?巴吉尔?卡利巴夫]]''' 
+File:Mamadgharaz.png|'''[[默罕默德?吉哈拉兹]]'''
+File:Hadad 2005.jpg|'''[[古拉姆?阿里?哈德尔]]''' 
+
+File:Saeed Jalili cropped.jpg|'''[[萨伊德?贾利利]]'''
+|'''[[穆赫辛?礼萨伊]]'''
+File:Hassan Rouhani.jpg|'''[[哈桑?鲁哈尼]]''' 
+File:Velayati 1980.jpg|'''[[阿里?阿卡巴?乌伊拉亚提]]''' 
+</gallery>
+
+== 电视辩论 ==
+从5月25日到6月12日，最终候选人有权使用国家电视和无线电（IRIB）为他们的总统竞选活动造势。总的来说，每个候选人都将使用405分钟和285分钟的公共电视上的公共广播，都将做自己的宣传项目，参与具体的讨论节目。此外，在电视上将会有三个主要的生活组辩论。5月31日，还将举行第三次辩论，在8个总统候选人之间，这次辩论不同于之前的辩论。<ref>[http://www.asriran.com/fa/news/272920/%D9%85%D8%AC%D8%B1%D9%8A-%D9%85%D9%86%D8%A7%D8%B8%D8%B1%D9%87-%D9%87%D8%A7-%D9%83%D9%8A%D8%B3%D8%AA Najafzadeh is host of debates in channel 3]</ref><ref>http://www.khabaronline.ir/detail/295188/politics/election</ref>这些辩论和电视节目的主持人是哈桑?阿德蒂尼和卡姆兰?纳加法德。
+
+下表是伊朗公共电视辩论的时间和细节，当地时间（UTC + 30）。<ref>[http://www.yjc.ir/fa/news/4396308/%D8%AC%D8%AF%D9%88%D9%84-%DA%A9%D8%A7%D9%85%D9%84-%D9%BE%D8%AE%D8%B4-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87%E2%80%8C%D9%87%D8%A7%DB%8C-%D8%AA%D8%A8%D9%84%DB%8C%D8%BA%D8%A7%D8%AA%DB%8C-%DA%A9%D8%A7%D9%86%D8%AF%DB%8C%D8%AF%D8%A7%D9%87%D8%A7-%D8%A7%D8%B2-%D8%B5%D8%AF%D8%A7-%D9%88-%D8%B3%DB%8C%D9%85%D8%A7 ???? ???? ??? ????????? ???????? ????????? ?? ??? ? ????]</ref>  
+
+{| class="wikitable" style="text-align:center;font-size:95%;line-height:14px;"
+|- style="background:lightgrey;"
+! style="width:135px;"| 标题
+! style="width:110px;"| 频道&时间
+! style="width:110px;"| 重复时间
+! style="width:55px;"|5月25日<br>星期六
+! style="width:55px;"|5月26日<br>星期日
+! style="width:55px;"|5月27日<br>星期一
+! style="width:55px;"|5月28日<br>星期二
+! style="width:55px;"|5月29日<br>星期三
+! style="width:55px;"|5月30日<br>星期四
+! style="width:55px;"|5月31日<br>星期五
+! style="width:55px;"|6月1日<br>星期六
+! style="width:55px;"|6月2日<br>星期日
+!
+|-
+|'''首度见面会'''
+|'''[[伊朗国家电视台1频道|IRIB1]]''', ''20:00-20:30''
+|—
+| style="background:#1E90FF"|<center>[[穆赫辛?礼萨伊|礼萨伊]] || style="background:#C2737F"|<center>[[萨伊德?贾利利|贾利利]] || style="background:#CD7F32"|<center>[[阿里?阿卡巴?乌伊拉亚提|乌伊拉亚提]] || style="background:#FF91AF"|<center>[[哈桑?鲁哈尼|鲁哈尼]] || style="background:Yellow"|<center>[[穆罕默德?巴吉尔?卡利巴夫|卡利巴夫]] || style="background:#B2FFFF"|<center>[[古拉姆?阿里?哈德尔|哈德尔]] ||  || style="background:#0f0;"|<center>[[穆罕默德?礼萨?阿雷夫|阿雷夫]] || style="background:#BEBEBE"|<center>[[默罕默德?吉哈拉兹|吉哈拉兹]] ||
+|-
+|'''特殊辩论'''
+|'''[[伊朗国家电视台2频道|IRIB2]]''', ''22:45-23:30''
+|—
+| style="background:#C2737F"|<center>[[萨伊德?贾利利|贾利利]] || style="background:#CD7F32"|<center>[[阿里?阿卡巴?乌伊拉亚提|乌伊拉亚提]] || style="background:#FF91AF"|<center>[[哈桑?鲁哈尼|鲁哈尼]] || style="background:Yellow"|<center>[[穆罕默德?巴吉尔?卡利巴夫|卡利巴夫]] || style="background:#0f0;"|<center>[[穆罕默德?礼萨?阿雷夫|阿雷夫]] || style="background:#1E90FF"|<center>[[穆赫辛?礼萨伊|礼萨伊]]  ||  || style="background:#BEBEBE"|<center>[[默罕默德?吉哈拉兹|吉哈拉兹]] || style="background:#B2FFFF"|<center>[[古拉姆?阿里?哈德尔|哈德尔]] ||
+|-
+|'''伊朗国外问答'''
+|'''[[詹姆?詹1频道|JJ1]]''', ''23:30-00:30''
+|—
+| style="background:#BEBEBE"|<center>[[默罕默德?吉哈拉兹|吉哈拉兹]] || style="background:#0f0;"|<center>[[穆罕默德?礼萨?阿雷夫|阿雷夫]]<sup>1</sup> || style="background:#B2FFFF"|<center>[[古拉姆?阿里?哈德尔|哈德尔]] || style="background:#C2737F"|<center>[[萨伊德?贾利利|贾利利]] || style="background:#CD7F32"|<center>[[阿里?阿卡巴?乌伊拉亚提|乌伊拉亚提]] || style="background:#FF91AF"|<center>[[哈桑?鲁哈尼|鲁哈尼]] || style="background:#0f0;"|<center>[[穆罕默德?礼萨?阿雷夫|阿雷夫]]  || style="background:Yellow"|<center>[[穆罕默德?巴吉尔?卡利巴夫|卡利巴夫]] || style="background:#1E90FF"|<center>[[穆赫辛?礼萨伊|礼萨伊]] ||
+|-
+|'''辩论1'''
+|'''[[伊朗国家电视台1频道|IRIB1]]''', ''16:00-19:30''
+|'''[[IRIB TV4|IRIB4]]''', ''21:00-00:30'' 
+|  ||  ||  ||  ||  ||  || style="background:khaki;"|<center>全部 ||  ||  ||  
+|-
+! style="width:135px;"| 标题
+! style="width:110px;"| 频道&时间
+! style="width:110px;"| 重复时间
+! style="width:55px;"|6月3日<br>星期一
+! style="width:55px;"|6月4日<br>星期二
+! style="width:55px;"|6月5日<br>星期三
+! style="width:55px;"|6月6日<br>星期四
+! style="width:55px;"|6月7日<br>星期五
+! style="width:55px;"|6月8日<br>星期六
+! style="width:55px;"|6月9日<br>星期日
+! style="width:55px;"|6月10日<br>星期一
+! style="width:55px;"|6月11日<br>星期二
+! style="width:55px;"|6月12日<br>星期三
+|-
+|'''专家答问'''
+|'''[[IRIB TV4|IRIB4]]''', ''18:10-19:10''
+|—
+| style="background:#BEBEBE"|<center>[[默罕默德?吉哈拉兹|吉哈拉兹]] || style="background:#B2FFFF"|<center>[[古拉姆?阿里?哈德尔|哈德尔]] ||  || style="background:#FF91AF"|<center>[[哈桑?鲁哈尼|鲁哈尼]] ||  || style="background:#C2737F"|<center>[[萨伊德?贾利利|贾利利]] || style="background:Yellow"|<center>[[穆罕默德?巴吉尔?卡利巴夫|卡利巴夫]] || style="background:#0f0;"|<center>[[穆罕默德?礼萨?阿雷夫|阿雷夫]] || style="background:#1E90FF"|<center>[[穆赫辛?礼萨伊|礼萨伊]] || style="background:#CD7F32"|<center>[[阿里?阿卡巴?乌伊拉亚提|乌伊拉亚提]]
+|-
+|'''青年答问'''
+|'''[[IRIB TV3|IRIB3]]''', ''19:10-20:10''
+|—
+| style="background:#0f0;"|<center>[[穆罕默德?礼萨?阿雷夫|阿雷夫]] || style="background:Yellow"|<center>[[穆罕默德?巴吉尔?卡利巴夫|卡利巴夫]] ||  || style="background:#CD7F32"|<center>[[阿里?阿卡巴?乌伊拉亚提|乌伊拉亚提]] ||  || style="background:#1E90FF"|<center>[[穆赫辛?礼萨伊|礼萨伊]] || style="background:#B2FFFF"|<center>[[古拉姆?阿里?哈德尔|哈德尔]]  || style="background:#BEBEBE"|<center>[[默罕默德?吉哈拉兹|吉哈拉兹]] || style="background:#C2737F"|<center>[[萨伊德?贾利利|贾利利]]|| style="background:#FF91AF"|<center>[[哈桑?鲁哈尼|鲁哈尼]] 
+|-
+|'''纪实1-2'''
+|'''[[伊朗国家电视台1频道|IRIB1]]''', ''20:10-20:40''
+|'''[[詹姆?詹1频道|JJ1]]''', ''23:30-24:00'' 
+| style="background:#1E90FF"|<center>[[穆赫辛?礼萨伊|礼萨伊]] || style="background:#CD7F32"|<center>[[阿里?阿卡巴?乌伊拉亚提|乌伊拉亚提]] ||  || style="background:Yellow"|<center>[[穆罕默德?巴吉尔?卡利巴夫|卡利巴夫]] ||  || style="background:#0f0;"|<center>[[穆罕默德?礼萨?阿雷夫|阿雷夫]] || style="background:#C2737F"|<center>[[萨伊德?贾利利|贾利利]]|| style="background:#FF91AF"|<center>[[哈桑?鲁哈尼|鲁哈尼]]  || style="background:#B2FFFF"|<center>[[古拉姆?阿里?哈德尔|哈德尔]] || style="background:#BEBEBE"|<center>[[默罕默德?吉哈拉兹|吉哈拉兹]]
+|-
+|'''一般辩论'''
+|'''[[伊朗伊斯兰共和国新闻网络|IRINN]]''', ''22:30-23:00''
+|—
+| style="background:#FF91AF"|<center>[[哈桑?鲁哈尼|鲁哈尼]] || style="background:#C2737F"|<center>[[萨伊德?贾利利|贾利利]] ||  || style="background:#BEBEBE"|<center>[[默罕默德?吉哈拉兹|吉哈拉兹]] ||  || style="background:#B2FFFF"|<center>[[古拉姆?阿里?哈德尔|哈德尔]] || style="background:#CD7F32"|<center>[[阿里?阿卡巴?乌伊拉亚提|乌伊拉亚提]] || style="background:#1E90FF"|<center>[[穆赫辛?礼萨伊|礼萨伊]] || style="background:#0f0;"|<center>[[穆罕默德?礼萨?阿雷夫|阿雷夫]] || style="background:Yellow"|<center>[[穆罕默德?巴吉尔?卡利巴夫|卡利巴夫]]
+|-
+|'''纪实1-2'''
+|'''[[伊朗国家电视台1频道|IRIB1]]''', ''23:30-24:00''
+|'''[[詹姆?詹1频道|JJ1]]''', ''00:30-01:00'' 
+| style="background:#C2737F"|<center>[[萨伊德?贾利利|贾利利]]  || style="background:#FF91AF"|<center>[[哈桑?鲁哈尼|鲁哈尼]]  ||  || style="background:#B2FFFF"|<center>[[古拉姆?阿里?哈德尔|哈德尔]] ||  || style="background:#BEBEBE"|<center>[[默罕默德?吉哈拉兹|吉哈拉兹]] || style="background:#1E90FF"|<center>[[穆赫辛?礼萨伊|礼萨伊]] || style="background:#CD7F32"|<center>[[阿里?阿卡巴?乌伊拉亚提|乌伊拉亚提]] || style="background:Yellow"|<center>[[穆罕默德?巴吉尔?卡利巴夫|卡利巴夫]] || style="background:#0f0;"|<center>[[穆罕默德?礼萨?阿雷夫|阿雷夫]]
+|-
+|'''辩论2-3'''
+|'''[[伊朗国家电视台1频道|IRIB1]]''', ''16:00-19:30''
+|'''[[IRIB TV4|IRIB4]]''', ''21:00-00:30'' 
+|  ||  || style="background:khaki;"|<center>全部||  || style="background:khaki;"|<center>全部||  ||  ||  ||  ||  
+|}
+<sup>1</sup>第一个小时的电视节目被[[穆罕默德?礼萨?阿雷夫|阿雷夫]]打断，15分钟后，没有继续。<ref>[http://isna.ir/fa/news/92030603002/%D9%82%D8%B7%D8%B9-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D8%B9%D8%A7%D8%B1%D9%81-%D8%AF%D8%B1-%D8%B4%D8%A8%DA%A9%D9%87-%D8%AC%D8%A7%D9%85-%D8%AC%D9%85-%D8%A8%D9%87-%D8%B9%D9%84%D8%AA-%D9%86%D9%82%D8%B5 ??? ?????? ???? ?? ???? ?????? ?? ??? ??? ???]</ref><ref>[http://isna.ir/fa/news/92030603261/%D9%88%D8%A7%DA%A9%D9%86%D8%B4-%D8%B3%D8%AA%D8%A7%D8%AF-%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA%DB%8C-%D8%B9%D8%A7%D8%B1%D9%81-%D8%A8%D9%87-%D9%82%D8%B7%D8%B9-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D8%A7%DB%8C%D9%86 ????? ???? ????????? ???? ?? ??? ?????? ??? ???????]</ref><ref>[http://isna.ir/fa/news/92030603427/%D8%AA%D9%88%D8%B6%DB%8C%D8%AD-%D9%85%D8%AF%DB%8C%D8%B1-%D8%B4%D8%A8%DA%A9%D9%87-%D8%AC%D8%A7%D9%85-%D8%AC%D9%85-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D9%82%D8%B7%D8%B9-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87 ????? ???? ???? ????? ?????? ??? ?????? ???????? ????]</ref>
+
+== 民意调查 ==
+开始公布候选人的最终名单后的在线民意调查。
+
+{| class="wikitable" style="text-align:center;font-size:95%;line-height:14px;"
+|- style="background:lightgrey;"
+! rowspan="2" style="width:120px;"| 调查来源
+! rowspan="2" style="width:90px;"| 更新日期
+! rowspan="2" style="width:90px;"| 总票数
+! style="width:60px;"| [[穆罕默德?巴吉尔?卡利巴夫|卡利巴夫]]</small>
+! style="width:60px;"| [[萨伊德?贾利利|贾利利]]</small>
+! style="width:60px;"| [[穆赫辛?礼萨伊|礼萨伊]]</small>
+! style="width:60px;"| [[哈桑?鲁哈尼|鲁哈尼]]</small>
+! style="width:60px;"| [[阿里?阿卡巴?乌伊拉亚提|乌伊拉亚提]]</small>
+! style="width:60px;"| [[穆罕默德?礼萨?阿雷夫|阿雷夫]]</small>
+! style="width:60px;"| [[古拉姆?阿里?哈德尔|哈德尔]]</small>
+! style="width:60px;"| [[默罕默德?吉哈拉兹|吉哈拉兹]]</small>
+! rowspan="2" style="width:60px;"| ''未定的''
+|-
+| style="background:#fdee00;"|
+| style="background:#b31b1b;"|
+| style="background:#062a78;"|
+| style="background:#ffc1cc;"|
+| style="background:#a57164;"|
+| style="background:#008000;"|
+| style="background:#126180;"|
+| style="background:#000;"|
+|-
+| Arnanews<ref>[http://www.arnanews.ir/component/acepolls/poll/7-election-voting-final.html ?? ?????? ?? ?????????? ??? ??? ?????? ??? ?]</ref>
+| 5月28日
+| 18,708
+| 14.1% || 16.5% || 7.3% || style="background:#ffc1cc"|<center>34.6% || 5.7% || 20.2% || 0.5% || 1.2% || – 
+|-
+| Awalnews<ref>[http://www.awalnews.ir/voth2tj6f23n.dt.html ?? ???? ?? ?? ??? ????????? ??? ?????? ????]</ref>
+| 5月28日
+| 12,868
+| 20.50% || 18.8% || 7.5% || 11.4% || 14.5% || style="background:#6ABD78"|<center>22.2% || 1.7% || 3.3% || – 
+|-
+| Entekhab<ref>[http://www.entekhab.ir/fa/polls/archive ?? ??? ?????????? ????? ??? ? ?????? ?? ???? ?? ??????]</ref>
+| 5月28日
+| 52,844
+| 15.53% || 9.67% || 5.66% || style="background:#ffc1cc"|<center>36.23% || 5.9% || 23.02% || 0.73% || 3.26% || – 
+|-
+| Ghatreh<ref>[http://www.ghatreh.com/vote/?showresult=1 ??????? ???????? ????? ??????]</ref>
+| 5月28日
+| 43,958
+| 15.37% || 15.00% || 7.11% || style="background:#ffc1cc"|<center>29.1% || 7.04% || 23.33% || 0.92% || 2.11% || – 
+|-
+| Ie92<ref>[http://ie92.ir/pollsarchive/ ??????? ???????? ??]</ref>
+| 5月28日
+| 51,037
+| style="background:Yellow"|<center>24% || 16% || 22% || 14% || 9% || 8% || 1% || 1% || 5% 
+|-
+| Ofoghnews<ref>[http://ofoghnews.ir/fa/category/%D9%88%DB%8C%DA%98%D9%87-%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA/ ??????? ????????]</ref>
+| 5月28日
+| 10,047
+| 19.00% || 18.00% || 7.00% || style="background:#ffc1cc"|<center>23.00% || 9.00% || 20.00% || 1.00% || 3.00% || – 
+|-
+|}
+
+== 选举 ==
+=== 时间线 ===
+[[File:????? ???? ??? 11.jpg|缩略图|default|300px|选票]]
+* 5月7日——候选人开始在[[内政部 (伊朗)|内政部]]官方登记。
+
+* 5月11日——18:00在[[IRDT]]结束登记。
+
+* 5月21日——最终候选人名单由内政部长宣布，莫斯塔法?默罕默德报导。8名候选人参加总统选举。
+
+* 5月24日——最终候选人的官方传播活动开始。
+
+* 6月13日——结束活动。
+[[File:Rouhani supporters (1).jpg|缩略图|default|300px|大选期间[[哈桑?鲁哈尼]]的支持者]]
+* 6月14日——投票日。
+
+* 6月15日——内政部公布官方结果。
+
+* 6月25日——[[监护委员会]]将确认选举结果。
+
+* 8月1日——当选总统将会见最高精神领袖[[阿里?哈梅内伊]]。
+
+* 8月3日——新总统的就职典礼。
+
+=== 合格选民 ===
+伊朗内政部宣布，有50,483,192符合资格的公民可以参加第一轮投票。
+
+== 结果 ==
+伊朗官方说，72%约5000万名有资格的伊朗人参加了投票。<ref>{{cite web|url=http://www.aljazeera.com/news/middleeast/2013/06/2013615155229420816.htmld |title=Rouhani wins Iran's presidential election |publisher=aljazeera.com |date=15 June 2013}}</ref>
+
+[[File:2013 Presidential Election map-Iran.svg|缩略图|default|right|300px|选举结果地图]]
+{| border="1" cellpadding=3 cellspacing="0" style="margin:1em 1em 1em 0; background:#f9f9f9; border:1px #aaa solid; border-collapse:collapse; font-size:95%;"
+|- style="background:#e9e9e9"
+! colspan="5" | {{Tnavbar-header|[[2013年伊朗总统选举]]|Iranian presidential election, 2013}}
+|- style="background:#eee;"
+!colspan=2|候选人
+!政党
+!得票数
+!%
+|-
+|bgcolor="#AC27A9"| || '''[[哈桑?鲁哈尼]]'''||战斗教士协会||align=right|'''18,613,329'''||align=right|'''50.71'''
+|-
+|bgcolor="#FDEE00"| ||[[穆罕默德?巴吉尔?卡利巴夫]]||[[伊斯兰工程师协会]]||align=right|6,077,292||align=right|16.55
+|-
+|bgcolor="#B31B1B"| ||[[萨伊德?贾利利]]||[[伊斯兰革命稳定阵线]]||align=right|4,168,946||align=right|11.35
+|-
+|bgcolor="#6DC6E7"| ||[[穆赫辛?礼萨伊]]||[[节制和发展党]]||align=right|3,884,412||align=right|10.58
+|-
+|bgcolor="#A57164"| ||[[阿里?阿卡巴?乌伊拉亚提]]||[[伊斯兰联盟党]]||align=right|2,268,753||align=right|6.18
+|-
+|bgcolor="#DDDDDD"| ||[[默罕默德?吉哈拉兹]]||[[独立人士]]||align=right|446,015||align=right|1.21
+|- style="background:#eee"
+|colspan=3|有效票||align=right|35,458,747||align=right|96.61
+|- style="background:#eee"
+|colspan=3|无效票||align=right|1,245,409||align=right|3.39
+|- style="background:#eee"
+|colspan=3|'''总投票数'''||align=right|'''36,704,156'''||align=right|'''100'''
+|- style="background:#eee"
+|colspan=3 align=left|注册选民/投票率||align=right|50,483,192||align=right|72.70
+|-
+|colspan=6|来源: [http://www.moi.ir/Portal/Home/ShowPage.aspx?Object=News&CategoryID=cc1955c9-7610-428d-b15c-fafc947cc884&WebPartID=47942904-35b9-4ecc-bfc4-4d6d3bee26d8&ID=ab52b9a8-e2a6-41e4-bbcc-15665125a6b2 Ministry of Interior of Iran]
+|}<noinclude>
+
+{{bar box
+|title= 投票结果图
+|titlebar=#ddd
+|width=600px
+|barwidth=410px
+|bars=
+{{bar percent|鲁哈尼|#AC27A9|50.71}}
+{{bar percent|卡利巴夫|#FDEE00|16.55}}
+{{bar percent|贾利利|#B31B1B|11.35}}
+{{bar percent|礼萨伊|#6DC6E7|10.58}}
+{{bar percent|乌伊拉亚提|#A57164|6.18}}
+{{bar percent|吉哈拉兹|#B2BEB5|1.21}}
+}}
+
+===各省投票===
+{| class="wikitable"
+|- style="background:#BBA1CB;"
+|省/区 鲁哈尼 得票
+|}
+{| class="wikitable"
+|- style="background:#6DC6E7;"
+|省/区 礼萨伊 得票
+|}
+{| style="width:70%;" class="wikitable sortable collapsible collapsed"
+|-
+! 省
+!鲁哈尼!!卡利巴夫!!礼萨伊!!贾利利!!乌伊拉亚提!!吉哈拉兹
+! class="unsortable" | 参考来源
+|- class="sortbottom" style="background:#BBA1CB"
+| [[库姆省]] 
+| '''201,677'''
+| 89,987
+| 30,540
+| 121,237
+|68,356
+|9,364
+|<ref>{{cite web|url=http://www.khabaronline.ir/detail/298690/Politics/election |title=Qom governorate |publisher=Khabaronline.ir }}</ref>
+|- class="sortbottom" style="background:#6DC6E7"
+| [[胡齐斯坦省]] 
+| 675,492
+| 117,977
+| '''921,570'''
+| 196,446
+| 78,488
+| 15,251
+|<ref>{{cite web|url=http://www.khouznews.ir/fa/news/42290/?????-?????-?????-???-?????-??????-??-??????? |title=The final results of the presidential vote in Khuzestan|publisher=Khouzestan News Network }}</ref>
+|- class="sortbottom" style="background:#BBA1CB"
+| [[布什尔省|布-{}-什尔省]]
+| '''278,762'''
+| 64,882
+| 74,178
+| 54,960
+| 38,542
+| 6,712
+| <ref>[http://boushehr.irna.ir/html/1392/13920325/80700363.htm IRNA-????? ???????? ????? ?????? ?? ????? ????? ????? ??]</ref>
+|- class="sortbottom" style="background:#BBA1CB"
+| [[塞姆南省]]
+| '''157,133'''
+| 87,598
+| 14,541
+| 55,987
+| 26,499
+| 5,051
+| <ref>[http://www.qazvin.us/news-15195.html ????? ????? ?????? ????? ????? / ?? ????? ???????? ????? ??? ?????? ??????? ??? ?? ????]</ref>
+|- class="sortbottom" style="background:#BBA1CB"
+| [[克尔曼省]]
+| '''856,001'''
+| 222,529
+| 69,082
+| 215,605
+| 64,215
+| 14,104
+|<ref>[http://fa.botianews.com/1392/03/53217 ????? ???? ????? ??? ????? ?????? ?? ????? ?????]</ref>
+|- class="sortbottom" style="background:#BBA1CB"
+| [[锡斯坦－俾路支斯坦省]]
+| '''770,269'''
+| 109,572
+| 61,959
+| 64,548
+| 35,874
+| 9,018
+| <ref>[http://www3.irna.ir/fa/News/80700585/%D8%B3%DB%8C%D8%A7%D8%B3%DB%8C/%D9%86%D8%AA%D8%A7%DB%8C%D8%AC_%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA_%D8%B1%DB%8C%D8%A7%D8%B3%D8%AA_%D8%AC%D9%85%D9%87%D9%88%D8%B1%DB%8C_%D8%AF%D8%B1_%D8%B3%DB%8C%D8%B3%D8%AA%D8%A7%D9%86_%D9%88_%D8%A8%D9%84%D9%88%DA%86%D8%B3%D8%AA%D8%A7%D9%86_%D9%85%D8%B4%D8%AE%D8%B5_%D8%B4%D8%AF ????? ???????? ????? ?????? ?? ?????? ? ???????? ???? ??]</ref>
+|- class="sortbottom" style="background:#BBA1CB"
+| [[马赞德兰省]]
+| '''1,080,727'''
+| 282,862
+| 92,518
+| 178,318
+| 159,060
+| 20,673
+| <ref>[http://www3.irna.ir/fa/News/80699853/%D8%B3%DB%8C%D8%A7%D8%B3%DB%8C/%D9%86%D8%AA%D8%A7%DB%8C%D8%AC_%D8%B4%D9%85%D8%A7%D8%B1%D8%B4_%D8%A2%D8%B1%D8%A7%DB%8C_%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA_%D8%B1%DB%8C%D8%A7%D8%B3%D8%AA_%D8%AC%D9%85%D9%87%D9%88%D8%B1%DB%8C_%D8%AF%D8%B1_%D9%85%D8%A7%D8%B2%D9%86%D8%AF%D8%B1%D8%A7%D9%86_%D8%A7%D8%B9%D9%84%D8%A7%D9%85_%D8%B4%D8%AF ????? ????? ???? ???????? ????? ?????? ?? ???????? ????? ??]</ref>
+|- class="sortbottom" style="background:#BBA1CB"
+| [[南呼罗珊省]]
+| '''192,446'''
+| 101,713
+| 14,582
+| 103,382
+| 15,185
+| 5,053
+| <ref>[http://www.shabestan.ir/NSite/FullStory/News/?Serv=29&Id=264048&Mode= ????? ???? ???????? ????? ?????? ?? ?????? ????? ????? ??]</ref>
+|}
+
+== 反应 ==
+=== 国内 ===
+伊朗外交部的发言人阿巴斯?阿拉戈持指责法国和美国干涉总统提名过程。<ref>{{cite web|url=http://www.aljazeera.com/news/middleeast/2013/05/20135269362518274.html |title=Iran asks the West to keep out of elections - Middle East |publisher=Al Jazeera English |date=2011-10-04 |accessdate=2013-05-27}}</ref>
+
+计票结果出炉之后，乌伊拉亚提和吉哈拉兹都承认他们在总统选举中落选，并且祝贺鲁哈尼当选新总统。<ref>{{cite web|url=http://www.tabnak.ir/fa/news/326058/%D9%88%D9%84%D8%A7%DB%8C%D8%AA%DB%8C-%D8%A8%D8%A7%D8%B1-%D9%85%D8%B3%D8%A6%D9%88%D9%84%DB%8C%D8%AA-%D8%A7%D8%B2-%D8%AF%D9%88%D8%B4%D9%85-%D8%A8%D8%B1%D8%AF%D8%A7%D8%B4%D8%AA%D9%87-%D8%B4%D8%AF |title=??????: ??? ??????? ?? ???? ??????? ?? |publisher=Tabnak.ir }}</ref><ref>{{cite web|url=http://fararu.com/fa/news/153127/%D9%BE%DB%8C%D8%A7%D9%85-%D8%AA%D8%B4%DA%A9%D8%B1-%D9%85%D8%AD%D9%85%D8%AF-%D8%BA%D8%B1%D8%B6%DB%8C-%D8%A7%D8%B2-%D8%AD%D8%B6%D9%88%D8%B1-%D9%85%D8%B1%D8%AF%D9%85 |title=???? ???? ???? ???? ?? ???? ???? |publisher=Fararu.com }}</ref>阿雷夫撤销了他的推特竞选账号，对新总统表示祝贺，同时感谢所有支持者。<ref>{{cite web|url=http://fararu.com/fa/news/153134/%D9%BE%DB%8C%D8%A7%D9%85-%D8%AA%D8%A8%D8%B1%DB%8C%DA%A9-%D8%B9%D8%A7%D8%B1%D9%81-%D8%A8%D9%87-%D9%85%D8%B1%D8%AF%D9%85 |title=???? ????? ???? ?? ???? |publisher=Fararu.com }}</ref>鲁哈尼、卡利巴夫、礼萨伊对选民积极投票表示感谢。<ref>[http://ir.khabarfarsi.com/ext/5597429 ???? ???? ????????? ?? ??? ???? ?????]</ref> 
+
+=== 国际 ===
+{| class="wikitable"
+|-
+! 国家 !! 反应
+|-
+| {{flag|Afghanistan}} || 总统[[哈米德?卡尔扎伊]]祝贺伊朗民主选举选出自己的总统。<ref>{{cite web|author=????: {{NECA_Name}} |url=http://www.shomanews.com/News/?Id=7176 |title=????? ???? ?????? ?? ??????? ???????? ????? ?? ????? ??? |publisher=Shomanews.com }}</ref>
+|-
+| {{flag|Armenia}} || [[谢尔日?萨尔基相]]祝贺鲁哈尼赢得伊朗总统大选，并表示亚美尼亚与伊朗关系将在他的任期内将获得发展。<ref>{{cite web|url=http://www.azatutyun.am/content/article/25019483.html |title=Sarkisian Congratulates New Iranian President |publisher=RFE/RL }}</ref> 
+|-
+| {{flag|PRC}}  || 中华人民共和国外交部发言人[[华春莹]]说：“中方祝贺鲁哈尼当选伊朗总统。近年来，中伊关系发展势头良好。中方重视发展中伊关系，愿以此为契机，推动两国各领域友好合作继续健康、稳定发展。”<ref>{{cite web |url=http://www.china.com.cn/international/txt/2013-06/17/content_29145131.htm |title=外交部：中方祝贺鲁哈尼当选伊朗新一届总统 |accessdate=2013年6月19日 |publisher=中国网 |work= |language=zh-cn}}</ref>
+|-
+| {{flag|EU}} || 前共同外交和安全政策高级代表[[哈维尔?索拉纳]]表示:“由于即将到来的选举中，在核领域的进步它仍然是一个艰难的任务。”<ref>{{cite web|url=http://www.webcitation.org/6G4nElUcF |title=Europe's eyes in Iran's election |publisher=Webcitation.org }}</ref>
+|-
+| {{flag|KOR}}|| [[韩国外交部]]发言人声明，“对哈桑?鲁哈尼当选伊朗新总统表示祝贺。韩方对鲁哈尼获得伊朗大部分民众的支持而当选总统表示祝贺。韩国政府和国民希望伊朗新政府顺应民意，走上变化和繁荣之路。希望伊朗能积累信任，与国际社会构建建设性关系，还希望韩伊两国友好关系能进一步发展。”<ref>{{cite web |url= http://overseas.caijing.com.cn/2013-06-18/112921678.html|title=韩祝贺鲁哈尼当选伊朗总统 望发展两国友好关系 |accessdate=2013年6月18日 |publisher= 财经网|work= |language=zh-cn}}</ref>
+|-
+| {{flag|Lebanon}} || [[真主党]]领袖[[哈桑?纳斯鲁拉]]祝贺伊斯兰革命领袖哈梅内伊和伊朗总统选举以及城乡议会选举中选民高投票率。<ref>{{cite web|url=http://www.presstv.ir/detail/2013/06/15/309060/hezbollah-congratulates-iran-on-election/ |title=Hezbollah congratulates the Leader, Iranian nation on election |publisher=Press TV }}</ref>
+|-
+| {{flag|PRK}} || [[朝鲜最高人民会议常任委员会]]委员长[[金永南]]致电鲁哈尼，祝贺其当选伊朗总统，朝伊两国友好合作关系日益取得良好发展，相信今后这一关系在政治、经济、文化等各领域进一步扩大和发展，祝愿鲁哈尼在保卫伊斯兰革命的胜利果实、实现国家自主发展和繁荣的重要工作中取得重大成就。<ref>{{cite web |url=http://news.china.com.cn/live/2013-06/19/content_20630284.htm |title=朝鲜祝贺鲁哈尼当选伊朗总统 冀两国关系发展 |accessdate=2013-06-19 |publisher=中国网 |work= |language=zh-cn}}</ref>
+|-
+| {{flag|Russia}} || [[俄罗斯总统]][[弗拉基米尔?普京]]祝贺鲁哈尼当选新总统，并且证实伊朗的新总统和俄罗斯准备发展双边合作。<ref>{{cite web|url=http://en.ria.ru/russia/20130616/181695066/Putin-Congratulates-Irans-Rouhani-with-Election-Offers-Cooperation.html |title=<nowiki>Putin Congratulates Iran’s Rouhani with Election, Offers Cooperation</nowiki> |publisher=RIA Novosti }}</ref>
+|-
+| {{flag|UN}} || [[联合国秘书长]][[潘基文]]祝贺鲁哈尼当选下一任总统的伊朗，称赞伊朗总统选举的高投票率。<ref>{{cite web|author= |url=http://www.un.org/apps/news/story.asp?NewsID=45187&Cr=iran&Cr1=45068 |title= UN chief congratulates Hasan Rowhani on election as President of Iran |publisher=UN news centre }}</ref>
+|-
+| {{flag|USA}} || [[美国国防部长]][[查克?哈格尔]]希望伊朗的选举将促成伊朗核项目产生积极的会谈。
+|-
+| {{flag|Canada}} || [[加拿大外交部长]][[约翰?贝尔德]]说：“伊朗反对派领导人和他们的支持者仍然呆在监狱，8名候选人没有一个真正能代表伊朗选民的民意。”并补充说“无论谁当选将只是哈梅内伊的另一个木偶。鉴于该政权操纵了集体意志和民主进程，6月14日的投票结果实际上是毫无意义的。”<ref>http://www.sunnewsnetwork.ca/sunnews/politics/archives/2013/06/20130615-113837.html</ref>
+|}
+
+==参考文献==
+{{reflist|2}}
+
+==外部链接==
+{{commons cat|Iranian presidential election, 2013}}
+*[http://www.iear.sssup.it/ Iran Electoral Archive]
+*[http://english.farsnews.com/newstext.php?nn=9203183026 鲁哈尼当选总统 法斯通讯社2013-6-15]
+
+{{伊朗选举}}
+[[Category:2013年伊朗]]
+[[Category:伊朗总统选举]]
+[[Category:2013年6月]]
+[[Category:2013年选举]]

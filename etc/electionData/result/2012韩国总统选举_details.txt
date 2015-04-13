@@ -1,0 +1,41 @@
+ID	TOPIC	LEVEL	PRE	CHILD	TEXT
+0	2012韩国总统选举	1	-1	[1, 5, 10, 11, 12, 13, 14]
+﻿{{Infobox Election
+'''第18届大韩民国总统选举'''于[[2012年]][[12月19日]]举行，此次选举是第11次[[韩国总统]][[直接选举|直选]]，共有6组候选人参选。[[新世界党]]候选人、前总统[[朴正熙]]长女、前党首[[朴槿惠]]当选韩国总统<ref> [http://world.kbs.co.kr/chinese/news/news_Po_detail.htm?No=38225&id=Po 朴槿惠成功当选第18届总统，成为韩国首任女总统]</ref><ref>http://chinese.yonhapnews.co.kr/domestic/2012/12/20/0401000000ACK20121220000600881.HTML|publisher=[[韩联社]]|date=2012-12-20|language=zh-hans}}</ref>，她是韩国1987年民主化以来，首位在选举中得票过半的总统，而新世界党同时延续其执政地位。
+
+1	选举基本情况	2	0	[2, 3, 4]
+
+2	选举日程安排	3	1	[]
+
+3	投票权	3	1	[]
+必须为年满19岁的韩国国民方有权力参加总统选举的投票。
+
+4	被选举权	3	1	[]
+必须为在2012年12月19日或之前已年满40岁的韩国公民方有权注册成为总统候选人。
+
+5	预备候选人	2	0	[6, 7, 8, 9]
+
+6	新世界党	3	5	[]
+[[新世界党]]共有五人参与党内初选。在8月20日进行的党内初选中，[[朴槿惠]]以超过80%的党内支持率胜出，代表新世界党参与本次总统选举。<ref>{{cite news|url=http://english.kbs.co.kr/News/News/News_view.html?No=92615&id=Po|title=Park Geun-hye Elected Saenuri Party's Presidential Candidate|publisher=KBS Global|date=August 20, 2012}}.</ref>
+
+7	民主统合党	3	5	[]
+民主统合党有四人参加党内初选。（朴晙莹在初选前退出。）在9月16日进行的党内初选中，[[文在寅]]获胜，被推举为该党的总统候选人。<ref>{{cite web|title=Moon Jae-in Elected DUP's Presidential Candidate|url=http://english.kbs.co.kr/News/News/News_view.html?page=1&No=93232&id=Po|publisher=KBS Global|accessdate=17 September 2012}}</ref>
+
+8	其他政党和独立候选人	3	5	[]
+
+9	在野党总统候选人单一化问题	3	5	[]
+由于民主统合党候选人[[文在寅]]和无党籍候选人[[安哲秀]]目前的民调支持率都只有20%左右，难以战胜执政的[[新国家党]]候选人[[朴槿惠]]，所以，为了团结在野政治势力，赢得本次大选，文在寅和安哲秀从11月起开始讨论“候选人单一化问题”<ref>{{cite news |title= 文在寅安哲秀决定在总统候选人登记前实现单一化 |author= |newspaper= kbs中文网|date= 2012-11-06|url= http://world.kbs.co.kr/chinese/news/news_Po_detail.htm?lang=c&id=Po&No=37698&current_page=4}}</ref>，并准备发表《新政治共同宣言》，但因为种种原因，双方的协商一度在14日停止<ref>{{cite news |title= 安哲秀方面宣布，停止总统单一化协商 |author= |newspaper= kbs中文网|date= 2012-11-14|url= http://world.kbs.co.kr/chinese/news/news_Po_detail.htm?lang=c&id=Po&No=37797&current_page=4}}</ref>。而为了恢复和加快双方的协商，18日，民主统合党中央[[李海瓒]]等人宣布辞职<ref>{{cite news |title= 民主统合党代表和最高委员全部辞退 |author= |newspaper= KBS中文网|date= 2012-11-18|url= http://world.kbs.co.kr/chinese/news/news_Po_detail.htm?lang=c&id=Po&No=37839&current_page=}}</ref>，文在寅也表示将交由安哲秀决定一体化方案<ref>{{cite news |title= 文在寅：将交由安哲秀决定一体化方案 |author= |newspaper= 韩联网|date= 2012-11-18|url= http://chinese.yonhapnews.co.kr/domestic/2012/11/18/0401000000ACK20121118000900881.HTML}}</ref>，并希望能够尽快重启协商。19日，文在寅和安哲秀进行了会晤，会后双方发表了《新政治共同宣言》<ref>{{cite news |title= 文在寅和安哲秀发表新政治共同宣言 |author= |newspaper= 韩联网|date= 2012-11-19|url= http://chinese.yonhapnews.co.kr/domestic/2012/11/19/0401000000ACK20121119000600881.HTML}}</ref>。23日，安哲秀召开记者会宣布退选，称文在寅是在野党唯一的候选人，并希望国民全力支持文在寅。<ref>{{cite news |title= 安哲秀宣布退出第18届韩国总统选举 |author= |newspaper= 韩联网|date= 2012-11-23|url= http://chinese.yonhapnews.co.kr/domestic/2012/11/23/0401000000ACK20121123002500881.HTML}}</ref>
+
+10	注册候选人	2	0	[]
+
+11	选举结果	2	0	[]
+[[File:PESK2012 RESULT MAP ZH.png|thumb|right|400px|选举结果简易图
+
+12	参考文献	2	0	[]
+
+13	参见	2	0	[]
+
+14	相关链接	2	0	[]
+[[Category:韩国总统选举]]
+[[Category:2012年选举]]
+

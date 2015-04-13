@@ -1,0 +1,195 @@
+﻿{{Infobox Election
+| election_name = 2004年美国总统选举
+| country = United States
+| type = presidential
+| ongoing = no
+| previous_election = 2000年美国总统选举
+| previous_year = 2000年
+| next_election = 2008年美国总统选举
+| next_year = 2008年
+| election_date = [[2004年]][[11月2日]] 
+
+<!--            George W. Bush         -->
+| image1 = [[File:George-W-Bush.jpeg|155px]]
+| nominee1 = [[乔治?沃克?布什]]
+| party1 = 共和党 (美国)
+| home_state1 = [[得克萨斯州]]
+| running_mate1 = [[迪克?切尼]]
+| electoral_vote1 = '''286'''
+| states_carried1 = '''31'''
+| popular_vote1 = '''62,040,610'''
+| percentage1 = '''50.73%'''
+
+<!--        John Kerry            -->
+| image2 = [[File:John F. Kerry.jpg|141px]]
+| nominee2 = [[约翰?福布斯?克里]]
+| party2 = 民主党 (美国)
+| home_state2 = [[麻萨诸塞州]]
+| running_mate2 = [[约翰?爱德华兹]]
+| electoral_vote2 = 251
+| states_carried2 = 19+[[华盛顿哥伦比亚特区|DC]]
+| popular_vote2 = 59,028,444
+| percentage2 = 48.27%
+| map_image = ElectoralCollege2004.svg
+| map_size = 310px
+| map_caption = 总统选举结果地图。<font color = "#CC2200">红色</font>代表布什/切尼获胜的州，<font color = "darkblue">蓝色</font>代表克里/爱德华兹获胜的州。
+| title = 总统
+| before_election = [[乔治?沃克?布什]]
+| before_party = 共和党 (美国)
+| after_election = [[乔治?沃克?布什]]
+| after_party = 共和党 (美国)
+}}
+'''2004年美国总统选举'''于[[2004年]][[11月2日]]举行，时任总统[[乔治?沃克?布什]]成功连任，这次他成功同时赢得普选票及[[选举人票]]。[[2005年]][[1月6日]]选举人投票结束，确定总统人选，他于[[2005年]][[1月20日]]宣誓就职。
+
+== 结果 ==
+{| class="wikitable"
+|-----
+! width="25%" | <font color="gray">总统候选人</font>
+! width=5% | <font color="gray">选举人票</font>
+! width="15%" | <font color="gray">普选票数</font>
+! width=5% | <font color="gray">百分比</font>
+! width="20%" | <font color="gray">政党</font>
+! width="30%" | <font color="gray">竞选伙伴（选举人票数）</font>
+|-----
+| [[乔治?W?布什]]（胜）|| align="right" | 286
+| align="right" | 62,040,610 || align="right" | 50.7 || [[共和党 (美国)|共和党]]
+| [[理察?切尼]]
+|-----
+| [[约翰?克里]] || align="right" | 251 || align="right" | 59,028,444
+| align="right" | 48.3 || [[民主党 (美国)|民主党]] || [[约翰?爱德华兹]]
+|-----
+| [[拉尔夫?纳德]] || align="right" | 0 || align="right" | 394,794
+| align="right" | 0.34 || 独立 || Peter Miguel Camejo
+|-----
+| Michael Badnarik || align="right" | 0
+| align="right" | 377,792 || align="right" | 0.33 || [[自由党 (美国)|自由党]]
+| Richard Campagna
+|-----
+| Michael Peroutka || align="right" | 0
+| align="right" | 129,337 || align="right" | 0.11 || [[宪法党 (美国)|宪法党]]
+| Chuck Baldwin
+|-----
+| [[戴维?柯布]] || align="right" | 0 || align="right" | 104,917
+| align="right" | 0.09 || [[绿党 (美国)|绿党]] || Patricia LaMarche
+|-----
+| '''总计''' || align="right" | '''538'''
+| align="right" | -
+| align="right" | '''100''' || colspan="2" |
+|-----
+| align="center" colspan="6"|'''其他年度的总统选举'''：[[1988年美国总统选举|1988年]]，[[1992年美国总统选举|1992年]]，[[1996年美国总统选举|1996年]]，[[2000年美国总统选举|2000年]]，'''2004年'''，[[2008年美国总统选举|2008年]]，[[2012年美国总统选举|2012年]]，[[2016年美国总统选举|2016年]]
+|-----
+! colspan="6" | ''[http://www.archives.gov/federal_register/electoral_college/scores.html#2004 来源：U.S. Office of the Federal Register]''
+|}
+
+== 候选人 ==
+=== [[共和党 (美国)|共和党]] ===
+候选人[[乔治?W?布什]]（时任美国总统）。
+* 登记：
+** [[乔治?W?布什]]（时任美国总统）
+** [[Edie Bukewihge]]
+
+=== [[民主党 (美国)|民主党]] ===
+候选人[[约翰?克里]]（John Kerry）是在2004年美国民主党预选中选出。副总统候选人参议员[[约翰?爱德华兹]]（John Edwards）则由大会决定。
+* 登记：
+** [[约翰?克里]]（John Kerry），1985年起担任联邦参议员。 
+** [[丹尼斯?库钦奇]]（Dennis Kucinich），联邦众议员。
+** [[阿尔?夏普顿]]牧师（Reverend Al Sharpton），
+* 退出选举：
+** 参议员[[Bob Graham]]（2003年10月7日）
+** 前参议员[[卡罗尔?莫斯利?布劳恩]]（Carol Moseley Braun，[[2004年]][[1月16日]]），转向支持[[霍华德?迪安]]（Howard Dean）
+** 众议员[[里乍得?格普哈特]]（Richard Gephardt，2004年[[1月19日]]）
+** 参议员[[约瑟夫?利伯曼]]（Joseph Lieberman，2004年[[2月3日]]）
+** [[韦斯利?克拉克]]上将（Wesley Clark，2004年2月11日），转向支持克里。
+** 前任[[佛蒙特州]]州长[[霍德华?迪安]]（Howard Dean，2004年2月18日）。
+** [[约翰?爱德华兹]]（John Edwards, 2004年3月3日），1999年起担任联邦参议员。
+* 表示不参加竞选：[[阿尔?戈尔]]（Al Gore）、[[希拉里?克林顿]]（Hillary Clinton），[[乔?拜登]]（Joe Biden），[[Tom Daschle]]，[[克里斯托弗?杜德]]，[[Gary Hart]]
+
+=== [[自由党 (美国)|自由党]] ===
+[[2004年]][[5月30日]]，于[[乔治亚州]][[阿特兰大]]举行的党大会选出[[迈克尔?班纳瑞克]]（Michael Badnarik）为总统候选人。副总统候选人是Richard Campagna。在选举中得到0.32%的选票，略少于独立候选人Ralph Nader的0.36%，但比其他第三党总统候选人的得票总和还多。
+
+=== [[绿党 (美国)|绿党]] ===
+[[2004年]][[6月25日]]美国绿党在党大会的第二轮选举中选出David Cobb为总统候选人。副总统候选人是Pat LaMarche。
+
+=== [[宪法党 (美国)|宪法党]] ===
+2004年6月25日美国宪党提名Michael Peroutka参选总统和Chuck Baldwin参选副总统。
+
+== 时间表 ==
+=== [[2002年]] ===
+* [[12月15日]]，前副总统戈尔宣布不会参加2004年总统竞选。<ref>[http://news.xinhuanet.com/zonghe/2002-12/18/content_662659.htm 戈尔知难而退 新华网]</ref>
+
+=== [[2003年]] ===
+* [[1月2日]]：美国[[北卡罗来纳州]]民主党参议员[[约翰?爱德华兹]]表示他将参加[[2004年]]美国总统选举。
+* [[1月13日]]：前副总统戈尔的竞选伙伴[[约瑟夫?利伯曼]]表示他将参加[[2004年]]美国总统选举。
+* [[2月18日]]：前[[伊利诺伊州]]女参议员、民主党人[[卡罗尔?莫斯利?布劳恩]]表示她将参加[[2004年]]美国总统选举。
+* [[2月19日]]：民主党众议员[[里乍得?格普哈特]]表示他将参加[[2004年]]美国总统选举。
+* [[5月6日]]：美国[[佛罗里达州]]民主党参议员[[格雷厄姆]]表示他将参加[[2004年]]美国总统选举。
+
+=== [[2004年]] ===
+* [[1月15日]]：美国总统大选唯一一名女性竞选人[[卡罗尔?莫斯利?布劳恩]]表示退出总统选举。
+* [[1月19日]]：民主党[[2004年]]总统选举的首次政党基层会议将在[[爱荷华州]]99个县市的1993个选区同时举行，从而标志着美国大选初选的序幕正式拉开，它将和27日在[[新罕布什尔州]]举行的首次初选一道，成为影响今年总统选举重要的风向标。
+* [[1月20日]]：民主党党内总统候选人提名在[[爱荷华州]]的选举结束，此前未被看好的[[约翰?克里]]赢得该州选举的胜利，支持率为38%，而热门人选[[霍德华?迪安]]仅获18%，名列第三。而获得第四名的候选人[[里乍得?格普哈特]]正式表示退出提名选举。
+* [[1月21日]]，美国总统[[乔治?W?布什|小布什]]来到[[亚利桑纳州]][[菲尼克斯市]]为总统竞选拉票。
+* [[1月27日]]，克里在[[新罕布什尔州]]中以38%的得票率赢得该州的初选胜利。<ref>[http://news.xinhuanet.com/world/2004-01/28/content_1289486.htm 美国参议员克里在新罕布什尔州初选中获胜 来源：新华网]</ref>
+* [[1月29日]]：美国前总统[[比尔?克林顿]]在[[国会山]]会见民主党参议员后为克里辩护。
+* [[2月2日]]：由美国有线新闻网、“今日美国报”和[[盖洛普民意测验|盖洛普民意调查机构]]联合进行的一项最新民意调查显示，美国总统[[乔治?W?布什|布什]]的支持率第一次跌破了50%。
+* [[2月3日]]：民主党参议员[[约翰?克里]]在[[密苏里州]]和[[特拉华州]]的民主党总统候选人初选中胜出；[[约翰?爱德华兹]]在其故乡[[南卡罗来纳州]]获得首场胜利。
+* [[2月3日]]：民主党总统候选人[[约瑟夫?利伯曼]]表示退出选举。
+* [[2月7日]]：民主党候选人[[约翰?克里]]在[[华盛顿州]]和[[密歇根州]]的党内初选中胜出。
+* [[2月9日]]：民主党候选人[[约翰?克里]]在[[缅因州]]的党内初选中胜出。
+* [[2月10日]]：民主党候选人[[约翰?克里]]在[[弗吉尼亚州]]和[[田纳西州]]的党内初选中胜出。
+* [[2月11日]]：民主党候选人克拉克表示将退出总统竞选。
+* [[2月14日]]：民主党候选人[[约翰?克里]]在[[内华达州]]和首都[[华盛顿哥伦比亚特区|华盛顿]]的党内初选中胜出。
+* [[2月18日]]：民主党候选人前[[佛蒙特州]]州长[[迪安]]表示将退出总统竞选。
+* [[2月19日]]：工会组织[[劳联－产联]]表示将支持克里。
+* [[3月3日]]：民主党参议员[[约翰?爱德华兹]]于3月3日退出选举
+
+== 2000年选举团改变情况 ==
+[[2000年]]的[[人口普查]]后，州份的众议员人数会根据该州份的人口增减而调整，以确保符合人口比例。而州份派出的选举人人数相等于该个州的众议院议员及参议院议员人数总和，州份的选举人人数因此而变动。由于[[2000年美国总统选举]]结果异常接近，选举人人数的变动有可能影响2004年的选情。
+
+下面的表格显示了从[[2000年美国总统选举|2000年]]以来选举团成员的改变情况。<font color="#CC2200">'''红色'''</font>（'''+7'''）表示2000年[[乔治?W?布什|布什]]获得胜利的州份，<font color="darkblue">'''蓝色'''</font>（'''-7'''）表示[[阿尔?戈尔|戈尔]]获胜的州份。
+{| border="0"
+|-----
+| valign="top" |
+* <font color="#CC2200">'''亚利桑那州'''</font> (<font color="#FF0000">'''+2'''</font>)
+* <font color="darkblue">'''加利福尼亚州'''</font> (<font color="#A00000">'''+1'''</font>)
+* <font color="#CC2200">'''科罗拉多州'''</font> (<font color="#A00000">'''+1'''</font>)
+* <font color="darkblue">'''康涅狄格州'''</font> (<font color="#008000">'''-1'''</font>)
+* <font color="#CC2200">'''佛罗里达州'''</font> (<font color="#FF0000">'''+2'''</font>)
+* <font color="#CC2200">'''乔治亚州'''</font> (<font color="#FF0000">'''+2'''</font>)
+* <font color="darkblue">'''伊利诺斯州'''</font> (<font color="#008000">'''-1'''</font>)
+* <font color="#CC2200">'''印第安纳州'''</font> (<font color="#008000">'''-1'''</font>)
+* <font color="darkblue">'''密歇根州'''</font> (<font color="#008000">'''-1'''</font>)
+
+| valign="top" |
+* <font color="#CC2200">'''密西西比州'''</font> (<font color="#008000">'''-1'''</font>)
+* <font color="#CC2200">'''内华达州'''</font> (<font color="#A00000">'''+1'''</font>)
+* <font color="darkblue">'''纽约州'''</font> (<font color="00FF00">'''-2'''</font>)
+* <font color="#CC2200">'''北卡罗来纳州'''</font> (<font color="#A00000">'''+1'''</font>)
+* <font color="#CC2200">'''俄亥俄州'''</font> (<font color="#008000">'''-1'''</font>)
+* <font color="#CC2200">'''俄克拉荷马州'''</font> (<font color="#008000">'''-1'''</font>)
+* <font color="darkblue">'''宾西法尼亚州'''</font> (<font color="#FF0000">'''-2'''</font>)
+* <font color="#CC2200">'''德克萨斯州'''</font> (<font color="#FF0000">'''+2'''</font>)
+* <font color="darkblue">'''威斯康星州'''</font>(<font color="#008000">'''-1'''</font>)
+|}
+
+== 外部连结 ==
+<references />
+=== 2004总统选举网站链接 ===
+* [http://www.e-democracy.us E-Democracy.US Election 2004 Links]
+
+=== 2004总统选举环球辩论与投票 ===
+* [http://www.theworldvotes.org The world votes]
+
+=== 选举新闻 ===
+* [http://news.yahoo.com/news?tmpl=index2&cid=694 Associated Press news wire]
+* [http://www.washingtonpost.com/wp-dyn/politics/elections/2004/ ''Washington Post'' Election 2004 coverage]
+
+=== 新闻文章 ===
+* [http://www.msnbc.com/news/941276.asp?vts=072120031525&cp1=1#BODY Green Party considers 2004 strategy] - MSNBC, July 2003
+* [http://www.xinhuanet.com/world/uselection/index.htm 新华社]
+
+{{Uspresidentialelections}}
+
+[[Category:2004年选举]]
+[[Category:2004年美国]]
+[[Category:美国总统选举]]

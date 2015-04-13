@@ -1,0 +1,44 @@
+ID	TOPIC	LEVEL	PRE	CHILD	TEXT
+0	2014阿富汗总统选举	1	-1	[1, 2, 3, 4, 5, 6, 7]
+﻿{{Infobox election
+'''2014年阿富汗总统选举'''在[[2014年]][[4月5日]]举行<ref>{{cite web|author=|url=http://www.bbc.co.uk/news/world-asia-20145147|title=Afghanistan presidential vote date is announced |publisher=BBC News|date=30 October 2012|accessdate=3 February 2014}}</ref>。现任[[阿富汗总统|总统]][[哈米德?卡尔扎伊]]已连任两届，根据阿法律，卡尔扎伊不能参加此次竞选。2013年9月16日至10月6日开始登记总统选举候选人资格，<ref name=khaama>{{cite web|url=http://www.khaama.com/dr-zalmai-rasoul-nominated-for-2014-presidential-elections-1940|title=Dr. Zalmai Rasoul nominated for 2014 presidential elections|publisher=|date=6 October 2013|accessdate=3 February 2014}}</ref>此次共有27名候选人参加选举。<ref name=fp>{{cite web|author=Bailey Cahall|url=http://afpak.foreignpolicy.com/posts/2013/10/07/27_individuals_submit_nomination_papers_for_afghanistans_2014_presidential_election|title=27 candidates enter race for Afghanistan's 2014 presidential election|publisher=[[Foreign Policy (magazine)|Foreign Policy]]|date=7 October 2013|accessdate=3 February 2014}}</ref>然而，在10月22日阿富汗独立选举委员会剔除其中16名候选人资格，而剩下11人竞选。<ref name=aljazeera>{{cite web|author=Ali M Latifi|url=http://www.aljazeera.com/news/asia/2013/10/sixteen-afghan-election-hopefuls-disqualified-2013102213563537306.html|title=Sixteen Afghan election hopefuls disqualified |publisher=Al Jazeera|date=22 October 2013|accessdate=3 February 2014}}</ref>观察家认为，主要的竞争在两位前外长——[[阿卜杜拉?阿卜杜拉]]和[[扎尔迈?拉苏尔]]以及前财政部长[[阿什拉夫?加尼]]之间展开。<ref>{{cite web|url=http://www.nytimes.com/2013/12/29/world/asia/polling-comes-to-afghanistan-suggesting-limit-to-sway-of-president-karzai.html|title=Polling Comes to Afghanistan, Suggesting Limit to Sway of President Karzai|publisher=NewYorkTimes|date=28 December 2013|accessdate=7 February 2014}}</ref>
+本次选举是阿富汗历史上首次民主权力交接。<ref>{{cite news|title=Huge security as Afghan presidential election looms|url=http://www.bbc.com/news/world-asia-26880022|newspaper=BBC|date=April 4, 2014}}</ref><ref>{{cite news|title=Afghanistan votes in historic presidential election|url=http://www.bbc.com/news/world-asia-26893972|newspaper=BBC|date=5 April 2014}}</ref><ref>{{cite news|last=Shalizi and Harooni|first=Hamid and Mirwais|title=Landmark Afghanistan Presidential Election Held Under Shadow of Violence|url=http://www.huffingtonpost.com/2014/04/04/landmark-afghan-election-_n_5095143.html|newspaper=Huffington Post|date=April 4, 2014}}</ref><ref>{{cite news|title=Afghanistan's Future: Who's Who in Pivotal Presidential Election|url=http://www.nbcnews.com/news/world/afghanistans-future-whos-who-pivotal-presidential-election-n24756|newspaper=NBC News}}</ref>
+
+1	背景	2	0	[]
+2013年7月17日，[[阿富汗议会]]正式通过新选举法。此选举法共16章80款。7月20日，总统卡尔扎伊签署新选举法案。法案的签署为2014年4月5日大选如期举行提供了法律保障。<ref>{{cite news|last=Rosenburg|first=Matthew|title=With New Law, Afghanistan Moves Closer to an Election|url=http://www.nytimes.com/2013/07/18/world/asia/with-new-law-afghanistan-moves-closer-to-an-election.html?ref=global-home|accessdate=3 February 2014|newspaper=[[New York Times]]|date=17 July 2013}}</ref>
+
+2	候选人	2	0	[]
+一共有27名总统候选人在2013年10月6日期限前向独立选举委员会登记参加此次总统选举。<ref name=fp/><ref>{{cite web|url=http://tolonews.com/en/afghanistan/12193-complete-list-of-registered-presidential-tickets|title=Complete List of Registered Presidential Tickets|publisher=Tolo News|date=7 October 2013|accessdate=3 February 2014}}</ref>10月22日，其中的16名因受教育水平、缺少档案等问题被取消候选人资格。<ref name=aljazeera/>
+2013年11月25日，独立选举委员会宣布了候选人名单:<ref>{{cite web|last=Majidy|first=Sayed Tariq|title=Presidential Names Ordered for Ballot|url=http://www.tolonews.com/en/election-2014/12855-presidential-names-ordered-for-ballot|publisher=Tolo News|accessdate=26 November 2013|year=03 February 2014}}</ref>
+#[[阿卜杜拉?阿卜杜拉]]
+#[[默罕默德?达乌德?苏尔坦佐伊]]
+#[[阿卜杜勒?拉希姆?瓦达克]] - 退出
+#[[卡尤姆?卡尔扎伊]] - 退出并支持拉苏尔
+#[[阿什拉夫?加尼]]
+#[[塞达尔?默罕默德?纳迪尔?纳伊姆]] - 退出并支持拉苏尔
+#[[扎尔迈?拉苏尔]]
+#[[库特卜丁?希拉勒]]
+#[[古尔?阿加?谢尔扎伊]]
+#[[阿卜杜勒?拉苏尔?萨亚夫]]
+#[[希达亚特?阿明?阿尔萨拉]]
+
+3	过程	2	0	[]
+2014年4月5日，阿富汗独立选举委员会负责人艾哈迈德?优素福?努里斯塔尼在新闻发布会上称，参与周六当天大选投票的选民逾700万，占合格选民人数的一半以上。约有350万选民在正午之前就已经投票，其中男性选民占64%，女性选民占36%。
+此次大选的合格选民约为1350万人，估计投票率超过50%，比2009年大选的投票率有大幅攀升——当时投票率仅有三分之一。<ref>http://www.bloomberg.com/news/2014-04-04/afghanistan-begins-voting-in-first-democratic-transfer-of-power.html</ref><ref>http://www.aljazeera.com/indepth/features/2014/04/afghanistan-elections-youth-voters-vital-20144483111685242.html</ref>
+大选初步结果将于4月24日宣布。观察家认为，没有一人能在首轮就获得50%的胜选选票，将在5月28日进入第二轮选举。<ref name="bbc">{{cite web|url=http://www.bbc.co.uk/news/world-asia-26903931|title=Afghanistan election: Millions vote in presidential poll|date=5 April 2014|accessdate=5 April 2014}}</ref>
+
+4	国际反应	2	0	[]
+为确保大选顺利进行，阿富汗出动自2001年[[塔利班]]倒台以来最强的一次军事安保力量。[[路透社]]消息称，超过35万名阿富汗军人参与到当日的安保队伍中，通往阿富汗首都[[喀布尔]]的道路5日中午已被封锁，在喀布尔与各城市的交界处还设有关卡和检查站。因塔利班曾在3月宣称，会尽一切力量破坏4月5日的阿富汗大选，在其活跃区域的[[坎大哈省]]也成为重点监护地区，政府方面已建议当地居民在大选当日不要出门。<ref>{{cite web|url=http://www.chinanews.com/gj/2014/04-05/6033894.shtml|title=8人角逐阿富汗总统选举 35万军人参与安保|publisher=中国新闻网|date=2014年4月5日}}</ref>就在大选前日，[[美联社]]两位记者在投放选票的车队中遭到枪袭，导致一人身亡，一人伤势严重。<ref>{{cite web|url=http://news.xinhuanet.com/world/2014-04/05/c_126359082.htm|title=阿富汗总统大选之际 美联社女记者遭枪击身亡|publisher=参考消息|date=2014年4月6日}}</ref>
+
+5	选举结果	2	0	[]
+大选初步结果将于4月24日宣布。观察家认为，没有一人能在首轮就获得50%的胜选选票，将在6月14日进入第二轮选举。<ref name="bbc" />
+6月第二轮投票后，[[阿卜杜拉?阿卜杜拉]]在6月18日说，阿总统选举第二轮投票存在违规行为，独立选举委员会应该立即停止计票。其竞选团队随后切断了与独立选举委员会的联系。23日，独立选举委员会秘书长奥马赫因“一直遭到部分候选人的质疑”，为保证选举顺利而宣布辞职。28日，独立选举委员会以书面形式驳回阿卜杜拉关于处理选举舞弊的要求。期间美国国务卿[[约翰?克里]]曾为打破选举僵局两次到访阿富汗斡旋。
+阿富汗独立选举委员会7月2日宣布，原定于当天公布的阿富汗总统选举第二轮投票初步结果推迟至7日公布。阿独立选举委员会主席努里斯塔尼在新闻发布会上说，该委员会将对全国约1930个投票点的选票进行核查。他同时呼吁总统候选人阿卜杜拉?阿卜杜拉尽快恢复与选举委员会的合作。<ref>{{cite news |url=http://news.xinmin.cn/world/2014/07/02/24688234.html |title=阿富汗总统选举第二轮投票结果推迟公布 |work=中国青年网 |date=2014-07-02 |accessdate=2014-07-06}}</ref>
+9月21日，加尼和阿卜杜拉在阿富汗总统府在现总统哈米德?卡尔扎伊见证下，签署一份分权协议。这份协议的主要内容包括由阿富汗国民议会在两年内修改宪法，讨论设置政府总理职位，总理将服务于总统；在宪法修改前，政府设立“政府长官”一职，作为政府部长间会议主席，将发挥总理作用，而内阁依旧由总统领导；在本次选举中得票率居第二位的候选人有权任命“政府长官”人选；总统和“政府长官”在安全、经济、独立机构领域以及国家安全委员会内有同等话语权。随后阿富汗独立选举委员会公布了总统选举结果，前财政部长阿什拉夫?加尼获胜，当选阿富汗总统。<ref name=RNordland>{{cite news|last1=Nordland|first1=Rod|title=Ashraf Ghani Is Named President of Afghanistan by Elections Panel|url=http://www.nytimes.com/2014/09/22/world/asia/afghan-presidential-election.html?_r=0|accessdate=21 September 2014|publisher=New York Times|date=21 September 2014}}</ref>
+
+6	参考	2	0	[]
+
+7	外部链接	2	0	[]
+[[Category:阿富汗选举]]
+[[Category:2014年阿富汗]]
+

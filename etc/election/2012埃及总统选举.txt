@@ -1,0 +1,359 @@
+﻿{{Infobox Election
+|election_name   = 2012年埃及总统选举
+|country         = 埃及
+|type            = 总统
+|ongoing         = no<!-- Please don't change this -->
+|previous_election = 2005年埃及总统选举
+|previous_year   = 2005年
+|previous_mps    = 
+|next_election   = 2014年埃及总统选举
+|next_year       =  2014年
+|next_mps        = 
+|seats_for_election = 
+|election_date   = [[2012年]]5月23、24日（第二轮：6月16日、17日）
+|image1          = [[File:Mohamed Morsi cropped.png|175px]]
+|nominee1         = [[穆罕默德?穆尔西]]
+|leader_since1   = 
+|party1          = 自由与正义党 
+|last_election1  = 
+|seats1          = 
+|swing1          = 
+|seat_change1    = 
+|popular_vote1   = '''13,230,321'''
+|percentage1     = '''51.73%'''
+|image2          =  
+|nominee2         = [[艾哈迈德?沙菲克]]
+|leader_since2   = 
+|party2          = 无党籍
+|last_election2  = 
+|seats2          = 
+|swing2          = 
+|seat_change2    =
+|popular_vote2   = 12,347,380
+|percentage2     = 48.27%
+|image3          = 
+|leader3         = 
+|leader_since3   = 
+|party3          = 
+|last_election3  = 
+|seats3          = 
+|swing3          = 
+|seat_change3    = 
+|popular_vote3   = 
+|percentage3     = 
+|image4          = 
+|leader4         =
+|leader_since4   = 
+|party4          = 
+|last_election4  = 
+|seats4          = 
+|seat_change4    = 
+|popular_vote4   = 
+|percentage4     = 
+|swing4          =
+|image5          = 
+|title           = 总统
+|posttitle       = 
+|before_election =[[穆罕默德?侯赛因?坦塔维]] <br /> <small>埃及最高军事委员会主席</small>
+|before_party    = 无党籍
+|after_election  = 穆罕默德?穆尔西
+|after_party     = 自由与正义党
+| map_image         = ?????? ??? ??? ???????? ?????? ????? ??????????? ??? ??????? ????? ?????.png
+| map_size          = 300px
+| map_caption       = {{Legend|#add543|[[穆罕默德?穆尔西]]}} {{Legend|#ec5fde|[[艾哈迈德?沙菲克]]}}
+}}
+'''2012年埃及总统选举'''于2012年[[5月23日]]、[[5月24日]]举行，若第一轮投票中没有任何一人获得50%的得票率，则将于同年[[6月16日]]与[[6月17日]]举行第二轮投票<ref>{{cite news| url=http://www.boston.com/news/world/middleeast/articles/2012/02/29/egypt_sets_may_23_24_for_presidential_election/ | work=The Boston Globe | first=Maggie | last=Michael | title=Egypt sets May presidential election | date=29 February 2012}}</ref>。这次选举是埃及历史上继2005年总统选举后的又一次有多人参与的总统选举，也是[[2011年埃及革命]]后的首次总统选举。
+
+首轮计票结果显示，[[穆斯林兄弟会]]的候选人[[Mohamed Morsy|穆尔西]]获得24.78%的得票率，曾任空军总长的前总理[[Ahmed Shafik|沙菲克]]获得23.66%得票率<ref name="首轮结果"/>，得票最高的这两人将进入第二轮选举<ref>{{cite web|url=http://www.zaobao.com/gj/gj120527_009.shtml | language= | title=军人和兄弟会领先总统初选 埃及人担心民主开倒车 |publisher=联合早报 |date=2012-05-27 |accessdate= }}</ref>。而之前民意很高的前[[阿盟]]秘书长[[阿穆尔?穆萨]]得票率仅为11.13%，穆斯林兄弟会前成员[[阿卜杜勒?穆奈姆?阿布福图]]得票率为17.47%。
+
+当地时间[[6月24日]]16点，埃及最高总统选举委员会主席苏尔坦公布穆尔西以51.73%的支持率击败48.24%得票率的沙菲克，当选埃及总统。
+
+== 选举规则 ==
+2012年[[1月30日]]，本次选举规则正式发布，其规定候选人必须是埃及出生的埃及公民，其父母也都是埃及公民；不能具有[[双重国籍]]，其配偶不能是外国人；要获得提名资格须至少得到30名国会议员或3万个有投票资格的选民支持<ref>{{cite news| url=http://www.bbc.co.uk/news/world-middle-east-16785829 |work=BBC News | title=Egypt sets presidential election rules | date=30 January 2012}}</ref>。
+
+候选人从[[3月10日]]起开始登记报名<ref>{{cite web|url=http://english.ahram.org.eg/NewsContent/1/64/33870/Egypt/Politics-/Official-Presidential-candidacy-registration-proce.aspx |title=Official: Presidential candidacy registration process to begin 10 March |publisher=Ahram Online |date=6 February 2012 |accessdate=11 May 2012}}</ref>，报名截止日期为[[4月8日]]下午2点<ref>https://www.elections.eg/images/docs/Schedule.pdf</ref>。
+
+== 正式候选人 ==
+本次选举共有23人参与报名以竞选角逐总统一职<ref name=official_candidates>{{cite web|title=????????? ?????? ?????? ??????? ??? ??????? 2012|url=https://www.elections.eg/index.php/candidacy/applicants|publisher=Election comity}}</ref>。最终符合资格、参加选举的候选人是12人<ref>{{cite news|title=5 ???? ???????, ??? ???? ?? ?????? ?????|url=http://www.haaretz.co.il/news/world/1.1710900}}</ref><ref name="drop">http://allafrica.com/stories/201205170115.html</ref>。
+
+{| class="wikitable" style="text-align:center"
+|+ 主要候选人一览<ref name=official_candidates />
+|-
+! 个人照片
+! 候选人
+! 简介
+! 党派
+|-
+| <div style="text-align: center;"></div>
+| <div style="text-align: center;">[[艾哈迈德?沙菲克]] </div>
+| <div style="text-align: center;">三星级[[空军]]军官；[[穆巴拉克]]当政时期的最后一任[[埃及总理|总理]]</div>
+| <div style="text-align: center;">独立人士</div>
+|-
+| <div style="text-align: center;">[[File:Khaled Ali announces his candidacy (cropped).jpg|120px]]</div>
+| <div style="text-align: center;">[[哈立德?阿里]]</div>
+| <div style="text-align: center;">律师与劳工活动家；埃及经济与社会权利中心(ECESR)的前主管；Hisham Mubarak Law Center(HMLC)的创始人</div>
+| <div style="text-align: center;">独立人士</div>
+|-
+| <div style="text-align: center;"></div>
+| <div style="text-align: center;">[[穆罕穆德?萨利姆?阿瓦]]</div>
+| <div style="text-align: center;">[[国际穆斯林学者联合会]]前秘书长；[[埃及文化与交流协会]]主管</div>
+| <div style="text-align: center;">独立人士</div>
+|-
+| <div style="text-align: center;">[[File:Hisham Bastawisy.JPG|120px]]</div>
+| <div style="text-align: center;">[[希沙姆?阿尔巴什塔维基]]</div>
+| <div style="text-align: center;">法官</div>
+| <div style="text-align: center;">[[国民统一进步党]]</div>
+|-
+| <div style="text-align: center;"></div>
+| <div style="text-align: center;">Abu Al-Izz Al-Hariri</div>
+| <div style="text-align: center;">来自[[革命继续联盟]]的国会议员</div>
+| <div style="text-align: center;">[[社会主义人民联盟党]]</div>
+|-
+| <div style="text-align: center;"></div>[[File:Mohamed Morsi cropped.png|120px]]</div>
+| <div style="text-align: center;">[[穆罕默德?穆尔西]]</div>
+| <div style="text-align: center;">[[自由与正义党]]领导人</div>
+| <div style="text-align: center;">[[自由与正义党]]</div>
+|-
+| <div style="text-align: center;">[[File:Amr Moussa at the 37th G8 Summit in Deauville 054.jpg|120px]]</div>
+| <div style="text-align: center;">[[阿穆尔?穆萨]]</div>
+| <div style="text-align: center;">前[[阿拉伯国家联盟]]秘书长；前埃及外长</div>
+| <div style="text-align: center;">独立人士</div>
+|-
+| <div style="text-align: center;"></div>
+| <div style="text-align: center;">Hamdeen Sabahi</div>
+| <div style="text-align: center;">[[纳赛尔主义者]]、[[尊严党 (埃及)|尊严党]]领导人</div>
+| <div style="text-align: center;">独立人士</div>
+|- 
+| <div style="text-align: center;">[[File:Abdel Moneim Aboul Fotouh.jpg|120px]]</div>
+| <div style="text-align: center;">[[阿卜杜勒?穆奈姆?阿布福图]]</div>
+| <div style="text-align: center;">阿拉伯医学联合会秘书长；[[穆斯林兄弟会]]前成员</div>
+| <div style="text-align: center;">独立人士<br />
+(他受到Al-Nour Party<ref>{{cite news|title=Nour Party endorses Abouel Fotouh for president|url=http://www.egyptindependent.com/news/nour-party-endorses-abouel-fotouh-president|newspaper=Al-Masry Al-Youm|date=28/04/2012}}</ref>、Al-Wasat Party<ref>{{cite news|title=Egypt's Wasat Party endorses Abul-Fotouh presidential bid|url=http://english.ahram.org.eg/NewsContent/36/122/40475/Presidential-elections-/Presidential-elections-news/Egypts-Wasat-Party-endorses-AbulFotouh-presidentia.aspx|newspaper=Ahram Online|date=30 April 2012}}</ref>和[[埃及潮流党]]的支持)
+|}
+
+== 民意调查 ==
+{| class="wikitable" style="text-align:center"
+|-
+! 调查日期
+! 调查方
+! 调查人数
+! [[阿穆尔?穆萨]]
+! [[哈齐姆?萨拉赫?阿布?伊斯梅尔]]
+! [[阿卜杜勒?穆奈姆?阿布福图]]
+! [[奥马尔?苏莱曼]]
+! [[艾哈迈德?沙菲克]]
+! [[Hamdeen Sabahi]] ([[尊严党 (埃及)|DP]])
+! [[穆罕默德?穆尔西]] ([[自由与正义党|FJP]])
+! [[穆罕穆德?萨利姆?阿瓦]]
+! [[海拉特?沙特尔]] ([[自由与正义党|FJP]])
+! [[艾曼?努尔]] ([[明日党 (埃及)|Ghad]])
+! [[卡迈勒?詹祖里]]
+! [[穆罕默德?巴拉迪]] ([[宪法党 (埃及)|CP]])
+! 其他人
+! 未确定
+|-
+|2011年2月 </sup> ||[[YouGov]]|| 1871 || '''49%''' || – || – || 9% || – || 1% || – || – || – || 1% || – || 2% || 24% || 13% 
+|-
+|2011年3月9日 - 20日 </sup> ||[[国际和平机构|IPI]]<ref>[http://www.ipinst.org/images/pdfs/egypt-poll-results-april2011.pdf International Peace Institute Poll], conducted by Charney Research, April 2011</ref>|| 615 || '''37%''' || – || – || 5% || – || – ||  – || – || – || 1% || – || 2% ||37% || 14%
+|-
+|2011年6月 </sup> ||IPI<ref>http://www.charneyresearch.com/pdf/2011June_IPI_Egypt_Poll_final_press_release.pdf</ref> || 800 || '''32%''' || – || – || – || – || 3% || – || – || – || 3% || – || 2% || 42% || –
+|-
+|2011年6/7月 </sup> || Newsweek/<br />Daily Beast<ref>{{cite web|url=http://www.thedailybeast.com/articles/2011/07/26/egypt-political-poll-muslim-brotherhood-influence-troubles-for-west.html |title=Egypt's Simmering Rage |publisher=The Daily Beast |date=26 July 2011 |accessdate=11 May 2012}}</ref> || 1008 || '''16%''' || – || 5% || 4% || 12% || 2% || – || 6% || – || 4% || – || 12% || 13% || 27%
+|-	
+| " || <small>(3-way race)</small> || " || '''47%''' || – || 16% || – || – || – || – || – || – || – || – || 19% || – || 18%
+|-
+|2011年8月</sup> || ACPSS<ref>[http://dipd.dk/wp-content/uploads/2011/08/Egypt-Survey-1-August-2011.pdf National Voter Survey in Egypt], Danish Institute for Parties and Democracy, dipd.dk. Retrieved on 30 August 2011.</ref> || 2,400 || '''44%''' || 5.2% || 2% || 9% || 12% || 5% || – || 5% || – || 6% || – || 4% || 7.8% || 45%
+|-
+|2011年10月</sup> || Press TV/<br />Synovate<ref>{{Citation |title=Egypt eyes pro-Palestinian candidates |publisher=PressTV |date=4 October 2011 |url=http://www.presstv.ir/detail/202688.html |accessdate=5 October 2011}}</ref> || 1,030 || '''42%''' || – || – || – || 15% || – || – || – || – || – || – || 13% || 30% || –
+|-
+|2011年10月</sup> || ACPSS<ref>[http://dedi.org.eg/wp-content/uploads/Voter-poll-survey.pdf 2nd National Voter Survey in Egypt], Danish-Egyptian Dialogue Institute (DEDI), dedi.org.eg. Retrieved on 13 October 2011.</ref> || 2,400 || '''44.8%''' || 5.2% || 1.6% || 10.8% || 13.2% || 5.7% || – || 4.7% || – || 5.0% || – || 3.5% || 5.5% || ?
+|-
+|2011年11月</sup> || ACPSS<ref>[http://dedi.org.eg/wp-content/uploads/3rd-Poll-Press-Release.pdf 3rd National Voter Survey in Egypt], Danish-Egyptian Dialogue Institute (DEDI), dedi.org.eg. Retrieved on 12 November 2011</ref> || 2,400 || '''38.9%''' || 5.7% || 1.5% || 6.6% || 8.5% || 4.0% || – || 5.7% || – || 3.2% || – || 2.9% || 24.5% || ?
+|-
+|2012年3月</sup> || Al Ahram<ref>{{cite news|title=Moussa leads presidential race at 31.5 pct, but 57.6 pct of Egyptians prefer an Islamist: Poll|url=http://english.ahram.org.eg/NewsContent/36/122/38270/Presidential-elections-/Presidential-elections-news/Moussa-leading-the-presidential-race,--opt-for-Isl.aspx|newspaper=ahram online|date=2 April 2012}}</ref>  || 1,200 || '''31.5%''' || 22.7% || 8.3% || 9.3% || 10.2% || 5.0% || – || 4.0% || – || 1.0% || 3.0% || 1.0% || 4.0% || ?
+|-
+|2012年4月</sup> || Al Ahram<ref>{{cite news|title=April 09, 2012 Opinion poll on presidential candidates shows Moussa on top|url=http://eg4.me/en/?p=5087|newspaper=Egypt Independent|date=9 April 2012}}</ref>  || 1,200 || '''30.7%''' || 28.8% || 8.5% || 8.2% || 7.5% || 3.9% || – || 3.2% || 1.7% || 1.4% || 1.3% || – || 6.5% || ?
+|-
+|2012年4月</sup> || Al-Masri Al-Yom<ref>{{cite web|title=?? ?? ?????? ???????.. ??? ??????? ????? ????? ??? ????? ????? ????????|url=http://www.almasryalyoum.com/node/770421|publisher=?????? ?????}}</ref>  || 2,034 || 6.4% || 11.7% || 12.4% || '''20.1%''' || 2.2% || 2.7% || – || 1% || 3.2% || –  || –  || – || 2.2% || 38.1%
+|-
+|2012年4月</sup> || Al Ahram<ref>{{cite news|title=Suleiman exit could benefit Shafiq, Moussa: Poll|url=http://english.ahram.org.eg/NewsContent/36/122/39368/Presidential-elections-/Presidential-elections-news/Suleiman-exit-could-benefit-Shafiq,-Moussa-Poll--.aspx|newspaper=Ahram Online|date=16 April 2012}}</ref><ref>{{cite news|title=?? ????????? ???????? ????? ???????? ?? ??????? ???? ?????? ??? ???? ???? ??????|url=http://www.ahram.org.eg/Al-Ahram-Files/News/143747.aspx|newspaper=???????}}</ref> || 1,200 || 22.3% || 21.4% || 6.2% || '''31.7%''' || 3.4% || 4.3% || – || 1.2% || 4.3% || 0.9%  || –  || – || 4.3% || –
+|-
+|2012年4月</sup> || Al Ahram<ref>{{cite news|title=Poll: Moussa tops list of presidential candidates after Abu Ismail barred|url=http://www.egyptindependent.com/news/poll-barred-abu-ismail-led-poll-now-moussa-rocketing-list-presidential-runners-news1|newspaper=Egypt Independent|date=23/04/2012}}</ref>  || 1,200 || '''40.9%''' || – || 25.2% || – || 10.5% || 9.3% || 0.9% || 4.4% || – || –  || –  || – || ? || ?
+|-
+|2012年4月</sup> ||  Al-Masri Al-Yom<ref>{{cite news|title=???? ????????? ?????: "??????" ?"??????????" ?????? ????????? ??????? ?? ???????|url=http://www.almasryalyoum.com/node/792696|newspaper=Al Masry Al Youm|date=23 April 2012}}</ref><ref>{{cite news|last=Namatalla|first=Ahmed|title=Most Egyptians Undecided Before Presidential Vote, Poll Shows|url=http://www.businessweek.com/news/2012-04-24/most-egyptians-undecided-before-presidential-vote-poll-shows|newspaper=Bloomberg News|date=24 April 2012}}</ref>  || 2,129 || 12.5% || – || '''15.5%''' || – || 6% || 5% || 1.5% || –  || – || –  || –  || – || 5.1% || 54.4%
+|-
+|2012年4月</sup> ||  Al Ahram<ref>{{cite news|title=Poll puts Amr Moussa as leading candidate for Egyptian presidency|url=http://www.timesofisrael.com/poll-puts-amr-moussa-as-leading-candidate-for-egyptian-presidancy/|date=30 April 2012}}</ref><ref>{{cite news|title=?? ??????? ???? ??????? ???????? ???????? ???? ????? ???????? ??????? ???? ?????????|url=http://www.ahram.org.eg/Al-Ahram-Files/News/146430.aspx|newspaper=Al Ahram|date=30 April 2012}}</ref>  || 1,200 || '''41.1%''' || – || 27.3% || – || 11.9% || 7.4% || 3.6% || 5.7%  || – || –  || –  || – || 3.0% || 12.3%
+|-
+|2012年4月</sup> ||  Al Masry Al Youm<ref>{{cite news|title=???? ????????? ?????: "??? ??????" ????? ????????.. ??????? ???? ?????? "????" (3)
+|url=http://www.almasryalyoum.com/node/807336|newspaper=Al Masry Al Youm|date=30 April 2012}}</ref> || 2,100 || 14.1% || – || '''18.5%''' || – || 5.3% || 5% || 3.6% || 1.4% || – || –  || –  || – || 2% || 50.1%
+|-
+|2012年4月 - 5月</sup> || IDSC<ref>{{cite news|title=Egyptian Poll: Close between Moussa and Al Futuh|url=http://www.israelnationalnews.com/News/Flash.aspx/238986}}</ref><ref>{{cite news|title=???? ??????? ???? ????????? ?? ????? ???? ??????? ?????? ?????? ?????? |url=http://www3.youm7.com/News.asp?NewsID=670486&SecID=97&IssueID=0}}</ref>|| 1,209 || '''11%''' || – || '''11%''' || – || 6% || – || 2% || –  || – || –  || –  || – || 2% || 42% <sup>1</sup>
+|-
+|2012年4月 - 5月</sup> || Al Ahram<ref>{{cite news|title=Poll: Moussa leads presidential race with 39%, Abouel Fotouh in second|url=http://www.egyptindependent.com/news/poll-moussa-leads-presidential-runners-39-abouel-fotouh-24-shafiq-172-news1}}</ref><ref>{{cite news|title=?? ????????? ???????? ????? ??????? ???????? ???? ?? ??????? ????? ??? ??????? ?????|url=http://www.ahram.org.eg/Al-Ahram-Files/News/147845.aspx|newspaper=al ahram|date=7 May 2012}}</ref> || 1,200  || '''39%''' || – || 24% || – || 17.2% || 6.7% || 7% || 2.9%  || – || –  || –  || – || 3.2% || –
+|-
+|2012年5月</sup> || Shorouk<ref>{{cite news|title=????? ??????? (??????) ??? ?????????? ???????? ????: ??? ???????? ?? ???? ????? ???????|url=http://www.shorouknews.com/news/view.aspx?cdate=10052012&id=c4d05544-1898-4daa-aa5d-d62ce966af7e}}</ref>|| 1,014 || 16% || – || '''20.8%''' || – || 15.2% || 5.7% || 5.2% || ?  || – || –  || –  || – || 3.4% || 33.6% 
+|-
+|2012年5月</sup> || Al Masry Al Youm<ref>{{cite news|title=?????? ????? ???? ???? ????????? ??? ?????? ??????? (4)|url=http://www.almasryalyoum.com/node/827141}}</ref>|| 2,152|| '''17%''' || – || 15.7% || – || 14.8% || 6% || 5.2% || ?  || – || –  || –  || – || 3.7% || 37.6% 
+|-
+|2012年5月</sup> || IDSC<ref>{{cite news|title=Abul-Fotouh leads presidential race, new Cabinet survey reveals|url=http://english.ahram.org.eg/NewsContent/36/122/41405/Presidential-elections-/Presidential-elections-news/AbulFotouh-leads-presidential-race,-new-Cabinet-su.aspx}}</ref>|| 2,264 || 7% || – || '''9%''' || – || 8% || 2% || 4% || –  || – || –  || –  || – || 2% <sup>2</sup>
+ || 39% <sup>3</sup>
+|-
+|2012年5月</sup> || Al Ahram<ref name=AhramPossibleRunoffs>{{cite news|title=Abul-Fotouh dips, Moussa holds steady in Ahram presidential poll|url=http://english.ahram.org.eg/NewsContent/1/64/41592/Egypt/Politics-/AbulFotouh-dips,-Moussa-holds-steady-in-Ahram-pres.aspx}}</ref><ref>{{cite news|title=?? ??????? ???? ??????? ???????? ???????? : ???? ?? ??????? ????? ???? ????? ??? ???? ????????? ??????|url=http://www.ahram.org.eg/Al-Ahram-Files/News/149163.aspx|newspaper=Al Ahram|date=14 May 2012|language=Arabic}}</ref>  || 1,200 || '''40.8%''' || – || 17.8% || – || 19.9% || 7% || 9.4% || 2.7% || – || – || – || – || 2.5% || 15.3%
+|-
+|2012年5月</sup> || Al Masry Al Youm<ref>{{cite news|title=???? ?????????? ?????: "????" ????? ?? ??????? ??"????" ?"?????????" ?????? (5)|url=http://www.almasryalyoum.com/node/842936}}</ref> || ?|| 16% || – || 12.5% || – || '''16.3%''' || 7% || 8.8% || –  || – || – || – || – || 2% || 37.4%
+|-
+|2012年5月</sup> || IDSC<ref>{{cite news|title=Govt poll shows Shafiq leading Egyptian presidential race|url=http://english.ahram.org.eg/NewsContent/36/122/41652/Presidential-elections-/Presidential-elections-news/Govt-poll-shows-Shafiq-leading-Egyptian-presidenti.aspx}}</ref><ref>{{cite news|title=???? ????? ??????? ???? ????????? ???? ???? .. ?????? ??? ??????|url=http://www.egynews.net/wps/portal/news?params=172113|newspaper=Egypt News|date=14 May 2012}}</ref>  || 1,390 || 11% || – || 9% || – || '''12%''' || 5% || 6% || 1% || – || – || – || – || 2% || 37% <sup>4</sup>
+|-
+|2012年5月</sup> || IDSC<ref>{{cite news|title=???? ????? ??????? ???? ????????? ??????? ?????? ???? ???? |url=http://www.masrawy.com/news/Egypt/Politics/2012/May/19/5028624.aspx}}</ref> || 1,366 || 11% || – || 7% || – || '''12%''' || 7% || 7% || ? || – || – || – || – || ? || 35%
+|-
+|2012年5月</sup> || Al Aharam<ref name=AlahramTwoPolls>{{cite news|title=Moussa, Shafiq lead Egypt presidential race: Opinion polls|url=http://english.ahram.org.eg/NewsContent/36/122/42121/Presidential-elections-/Presidential-elections-news/Moussa,-Shafiq-lead-Egypt-presidential-race-Opinio.aspx}}</ref> || 1,200 || '''31.7%''' || – || 14.6% || – || 22.6% || 11.7% || 14.8% || 2.3% || – || – || – || – || 1.7%<sup>5</sup> || ?
+|-
+|2012年5月</sup> || Al Masry Al Youm<ref name=AlahramTwoPolls/> || 2,287 || 14.6% || – || 12.4% || – || '''19.3%''' || 9.5% || 9% || 1% || – || – || – || – || 1.2% || 33%
+|-
+|2012年5月</sup> || Shorouk<ref>{{cite news|title=??? ??????? ??"??????": ???? ???? ?????? ????? ????|url=http://www.shorouknews.com/news/view.aspx?cdate=19052012&id=3447bb39-395b-44b4-ac77-7cda4483e61d|newspaper=shorouk|date=19 May 2012}}</ref>  || 1,185 || 15.1% || – || 13.2% || – || '''15.8%''' || 12.3% || 9.5% || 1.3% || – || – || – || – || 2.9% || 29.8%
+|-
+|2012年5月</sup> || U of Maryland<ref>{{cite news|title=Muslim Brotherhood Candidate Trails in Race for Egypt's Presidency: UMD Poll|url=http://www.cisionwire.com/university-of-maryland--college-park/r/muslim-brotherhood-candidate-trails-in-race-for-egypt-s-presidency--umd-poll,c9262466}}</ref><ref>{{cite news|title=What Do Egyptians Want? Key Findings from the Egyptian Public Opinion Poll|url=http://www.brookings.edu/research/reports/2012/05/21-egyptian-election-poll-telhami}}</ref>  || 772 || 28% || – || '''32%''' || – || 14% || 8% || 8% || ? || – || – || – || – || ? || ?
+| colspan="12" style="text-align:center;"|
+|}
+
+== 结果 ==
+{{electiontable|2012年埃及总统选举结果}}
+|- bgcolor="#E9E9E9" align="center"
+! colspan="2" rowspan="2" align="left" | 候选人
+! colspan="1" rowspan="2" align="left" | 党派
+! colspan="2" | 第一轮
+! colspan="2" | 第二轮
+|- bgcolor="#E9E9E9" align="center"
+! width="75" | 得票数
+! width="30" | %
+! width="75" | 得票数
+! width="30" | %
+|-
+| align="left" | '''[[穆罕默德?穆尔西]]'''
+| align="left" | [[自由与正义党]] 
+| {{formatnum:}} '''5,764,952'''
+| {{formatnum:}} '''24.78%'''
+| {{formatnum:}}'''13,230,131'''
+| {{formatnum:}}'''51.73%'''
+|-
+| align="left" | [[艾哈迈德?沙菲克]]
+| align="left" | [[独立人士]]
+| {{formatnum:}} 5,505,327 
+| {{formatnum:}} 23.66%
+| {{formatnum:}} 12,347,380
+| {{formatnum:}} 48.27%
+|-
+| align="left" | [[Hamdeen Sabahi]]
+| align="left" | 独立人士 ([[尊严党]]推荐)
+| {{formatnum:}} 4,820,273 
+| {{formatnum:}} 20.72%
+| colspan="2" rowspan="11" bgcolor="#E9E9E9" | 
+|-
+| align="left" | [[阿卜杜勒?穆奈姆?阿布福图]]
+| align="left" | 独立人士
+| {{formatnum:}} 4,065,239
+| {{formatnum:}} 17.47%
+|-
+| align="left" | [[阿穆尔?穆萨]]
+| align="left" | 独立人士
+| {{formatnum:}} 2,588,850 
+| {{formatnum:}} 11.13%
+|-
+| align="left" | [[Mohammad Salim Al-Awa]]
+| align="left" | 独立人士
+| {{formatnum:}} 235,374
+| {{formatnum:}} 1.01%
+|-
+| align="left" | [[Khaled Ali]]
+| align="left" | 独立人士
+| {{formatnum:}} 134,056
+| {{formatnum:}} 0.58%
+|-
+| align="left" | [[Abu Al-Izz Al-Hariri]]
+| align="left" | [[Socialist Popular Alliance Party]]
+| {{formatnum:}} 40,090
+| {{formatnum:}} 0.17%
+|-
+| align="left" | [[Hisham Bastawisy]]
+| align="left" | [[国家进步团结党]]
+| {{formatnum:}} 29,189
+| {{formatnum:}} 0.13%
+|-
+| align="left" | [[Mahmoud Houssam]]
+| align="left" | 独立人士
+| {{formatnum:}} 23,992
+| {{formatnum:}} 0.10%
+|-
+| align="left" | [[Mohammad Fawzi Issa]]
+| align="left" | [[民主一代党]]
+| {{formatnum:}} 23,889
+| {{formatnum:}} 0.10%
+|-
+| align="left" | [[Houssam Khairallah]]
+| align="left" | [[民主和平党]]
+| {{formatnum:}} 22,036
+| {{formatnum:}} 0.09%
+|-
+| align="left" | [[Abdulla Alashaal]]
+| align="left" | [[Authenticity Party]]
+| {{formatnum:}} 12,249
+| {{formatnum:}} 0.05%
+|-
+| colspan="7" bgcolor="#E9E9E9" |
+|-
+! colspan="3" align="left" | 有效票
+! {{formatnum:}} 23,265,516
+! 98.28%
+! {{formatnum:}} 25,577,511
+! 96.81%
+|-
+| colspan="7" bgcolor="#E9E9E9" | 
+|-
+| colspan="3" align="left" | 无效票
+| {{formatnum:}} 406,720 ||  {{formatnum:}} 1.72%
+| {{formatnum:}} 843,252 || {{formatnum:}} 3.19%
+|-
+| colspan="3" align="left" | 投票率
+| {{formatnum:}} 23,672,236 || {{formatnum:}} 46.42% 
+| {{formatnum:}} 26,420,763 || {{formatnum:}} 51.85%
+|-
+| colspan="3" align="left" | 弃权
+| {{formatnum:}} 27,324,510 || {{formatnum:}} 53.58%
+| {{formatnum:}} 24,538,031 || {{formatnum:}} 48.15%
+|-
+| colspan="3" align="left" | 注册选民
+| {{formatnum:}} 50,996,746
+| bgcolor="#E9E9E9" |
+| {{formatnum:}} 50,958,794
+| bgcolor="#E9E9E9" |
+|-
+| colspan="7" bgcolor="#E9E9E9" | 
+|-
+| colspan="7" align="left" | 来源:<ref name="首轮结果">{{cite news|title=BREAKING: Mursi, Shafiq officially in Egypt's presidential elections runoffs|url=http://english.ahram.org.eg/NewsContent/36/122/43126/Presidential-elections-/Presidential-elections-news/BREAKING-Mursi,-Shafiq-officially-in-Egypts-presid.aspx}}</ref><ref>{{cite web|title=??????? ???????? ????????? ???( ?????? ?????? )|url=http://www.youtube.com/watch?v=Fea0vfhkwqE|language=Arabic}}</ref>
+|}<noinclude>
+
+== 参见 ==
+*[[2011-2012年埃及议会选举]]
+*[[2013年埃及政变]]
+
+== 参考资料 ==
+{{Reflist|3}}
+
+== 扩展阅读 ==
+*{{cite journal |last=El-Khawas |first=Mohamed |year=2012 |title=Egypt’s Unfinished Revolution |journal=Mediterranean Quarterly |volume=23 |issue=1 |pages=52–66 |doi=10.1215/10474552-1540693 }}
+*{{cite news |last=Martini |first=Jeff |date=April 19, 2012 |title=Cairo's Candidate Shuffle: Fewer Contenders, Same Policies |work=[[Foreign Affairs]] |url=http://www.foreignaffairs.com/articles/137513/jeff-martini/cairos-candidate-shuffle }}
+*{{cite news |last=Samaan |first=Magdy |date=May 9, 2012 |title=Vox Pop: Egyptians Prepare to Choose a President |work=[[Foreign Policy]] |url=http://www.foreignpolicy.com/articles/2012/05/09/vox_pop_egyptians_prepare_to_choose_a_president }}
+
+== 外部连接 ==
+* [http://www.elections.eg/ The official website of Supreme Committee for Presidential Elections]
+* [http://www.americanprogress.org/issues/2011/05/egypt_leaders.html/ Future Leaders of Egypt Bios on the Center for American Progress]
+* [http://egypt.jadaliyya.com/ jadaliyya.com Egypt Elections Watch]
+* [http://www.egyptelectsblog.com/ Egypt Elects]
+* [http://english.ahram.org.eg/NewsContent/36/122/41802/Presidential-elections-/Presidential-elections-news/Egypts-presidential-favourites-Where-they-stand,-i.aspx Egypt's presidential favourites: Where they stand, issue by issue]
+* [http://english.ahram.org.eg/NewsContent/36/122/36418/Presidential-elections-/Presidential-elections-news/Ahram-Online-presents-The-Idiots-Guide-to-Egypt%E2%80%99s-.aspx Guide to Egypt’s presidential elections 2012]
+* [http://www.guardian.co.uk/world/middle-east-live/2012/may/24/egypt-election-day-2-live Egyptian presidential election, 2012 coverage at the ''Guardian'']
+
+[[Category:2012年选举|Egypt]]
+[[Category:2012年埃及|Presidential Election]]
+[[Category:埃及选举]]
+[[Category:2011年埃及革命]]

@@ -1,0 +1,914 @@
+﻿{{Infobox Election
+|election_name   = <small>2005年英国大选</small>
+|country         = United Kingdom
+| type = 国会
+| ongoing = no<!-- Please don't change this -->
+| previous_election = 2001年英国大选
+| previous_year = 2001年
+| previous_mps = 2001年英国大选当选下议员名单
+| next_election = 2010年英国大选
+| next_year = 2010
+| next_mps = 2010年英国大选当选下议员名单
+| seats_for_election = [[英国下议院|下议院]]全部646席议席 | 多数议席=324 
+| elected_mps        = 2005年英国大选当选下议员名单
+| election_date = [[2005年]][[5月5日]]
+| Turnout            = 61.4%
+
+<!--      labour      -->
+| image1 = [[File:TonyBlairBasra.JPG|100px]]
+| leader1 = [[托尼?布莱尔]]
+| leader_since1 = [[1994年]][[7月21日]]
+| party1 = 工党 (英国)|工党
+| leaders_seat1 = [[塞奇菲尔德 (英国国会选区)]]
+| last_election1 = 413 席, 40.7%
+| seats_before1   = 403
+| seats1 = '''356'''^<!-- note: this figure does not include the speaker -->
+| seat_change1    = {{decrease}}47*<!-- note: the boundaries changed from the previous election - 47 is a nominal change figure from the seats the party would have won based on those boundaries. -->
+| popular_vote1 = '''9,552,436'''
+| percentage1 = 35.2%
+| swing1          = {{decrease}}5.5%
+
+<!--      Conservative     -->
+| image2 = [[File:Michael Howard 1099 cropped.jpg|100px]]
+| leader2 = [[迈克尔?霍华德]]
+| leader_since2 = [[2003年]][[11月6日]]
+| party2 = 保守党 (英国)|保守党
+| leaders_seat2 = [[福克斯通和海斯 (英国国会选区)]]
+| last_election2 = 166席, 31.7%
+| seats_before2   = 165
+| seats2 = 198
+| seat_change2    = {{increase}}33*<!-- note: the boundaries changed from the previous election + 33 is a nominal change figure from the seats the party would have won based on those boundaries. -->
+| popular_vote2 = 8,784,915
+| percentage2 = 32.4%
+| swing2          = {{increase}}0.7%
+
+<!--      Liberal Democrats      -->
+| image3 = [[File:Charles Kennedy.jpg|97px]]
+| leader3 = [[查尔斯?肯尼迪]]
+| leader_since3 = [[1999年]][[8月9日]]
+| party3 =自由民主党 (英国)|自民党
+| leaders_seat3 = 罗斯、斯凯和洛哈伯 (英国国会选区)
+| last_election3 = 52 席, 18.3%
+| seats_before3   = 51
+| seats3 = 62
+| seat_change3    = {{increase}}11*<!-- note: the boundaries changed from the previous election + 11 is a nominal change figure from the seats the party would have won based on those boundaries. -->
+| popular_vote3 = 5,985,454
+| percentage3 = 22.0%
+| swing3          = {{increase}}3.7%
+| map_image          = 2005UKElectionMap.svg
+| map_size           = 250px
+| map_caption        = 各颜色代表获胜的党派（其中蓝色代表[[保守党 (英国)|保守党]]，红色代表[[工党 (英国)|工党]]，暗黄色代表[[自由民主党 (英国)|自由民主党]]）。<br />
+''^ 图表并不包括议长''
+| title = 首相
+| posttitle = 继任首相
+| before_election = [[托尼?布莱尔]]
+| before_party = 工党 (英国)|工党
+| after_election = [[托尼?布莱尔]]
+| after_party = 工党 (英国)|工党
+}}
+{{PoliticsUK}}
+
+'''2005年英国大选'''（'''United Kingdom general election of 2005'''）于[[2005年]][[5月5日]]举行。在[[英国首相|首相]][[托尼?布莱尔|-{zh-hans:托尼?布莱尔;zh-hk:贝理雅;zh-tw:托尼?布莱尔;}-]]请求之下，[[英国|英国]]女王[[伊丽莎白二世|伊利沙伯二世]]于[[4月11日]]宣布解散国会。本届[[英国大选|英国大选]]在全国646个[[选区]]（[[英格兰]]有529个选区，[[苏格兰|苏格兰]]59个选区，[[威尔士]]40个选区，[[北爱尔兰|北爱尔兰]]18个选区）进行，仍使用[[简单多数制]]（First-past-the-post）的选举方法，即每个选区以得票最多的候选人胜出，成为该区的代表，将在[[英国下议院|下议院]]获得一个席位。获得最多席位的[[党派]]将组成英国下一届[[英国政府|政府]]，该党党魁则成为下一任[[英国首相|首相]]。
+
+选举结果，布莱尔领导工党取得三连胜，成为工党在位最久的英国首相，但工党在议席和选票大辐减少，仅凭简单多数制的选举制度维持多数党地位。布莱尔受党内的下台压力增加，最终他于[[2007年]][[6月27日]]提前下台，由财政大臣[[戈登]]接任。
+
+== 时间表 ==
+*[[4月5日]]（[[星期二]]），布莱尔向公众宣布，他已请求女王解散国会，余下的时间将为5月5日大选做准备。 
+
+*[[4月6日]]至4月8日（[[星期三]]至星期五），此时期是上届[[国会议员]]在国会活动的最后时间，因此议员们必须对尚未通过的[[法案]]尽快作出决定。 
+
+*[[4月11日]]（星期一），国会被解散，这将意味着议员已不复存在，但[[英国政府|政府]]各部间在大选期间仍继续工作并行使权力。[[选举法令]]公布。 
+
+*[[4月12日]]，选举法令送达各地。 
+
+*[[4月14日]]，下午4时之前发表选举公告。 
+
+*[[4月19日]]，提交提名书、撤销选举人以及委任选举代理人在下午4时截止。若无异议，下午5时宣布竞选人名单。 
+
+*[[4月26日]]，委托他人投票，或者使用邮寄选票的选民必须在下午5时之前提出申请。 
+
+*[[5月3日]]（星期二），为指定投票点和统计选举代理人的最后一天。 
+
+*[[5月5日]]（星期四），大选日。各[[投票站]]于上午7时向选民开放，于晚上10时关闭。部分选区开始点票并公布结果。 
+
+*[[5月6日]]（星期五），各地大选结果完全公布。
+
+== 概观 ==
+由[[托尼?布莱尔|-{zh-hans:托尼?布莱尔;zh-hk:贝理雅;zh-tw:托尼?布莱尔;}-]]领导的[[英国工党|工党]]政府将努力确保第3届连任并维持其绝对多数席位。[[英国保守党|保守党]]将争取[[1997年英国大选]]中被工党和[[自由民主党 (英国)|自民党]]夺去的席位，并替代工党成为多数党。自民党则希望争取到以上两党的部分席位，从而替代保守党，成为正式反对党（Official Opposition）。
+
+== 选举结果 ==
+{| class="prettytable"
+|- style="background-color:#E9E9E9"
+!rowspan="2" colspan="2"|党派
+!rowspan="2"|党魁
+!rowspan="2"|竞选人数
+!colspan="4"|席位
+!colspan="3"|票数
+|- style="background-color:#E9E9E9"
+!2001
+!之前 {{ref|before}}
+!之后
+!变动
+!2001（百万）
+!2005（百万）
+!变动
+|-
+|bgcolor="red"| 
+|[[英国工党|工党]]
+|[[托尼?布莱尔|-{zh-hans:托尼?布莱尔;zh-hk:贝理雅;zh-tw:托尼?布莱尔;}-]]
+|align="right"|627
+|align="right"|412
+|align="right"|409 
+|align="right"|356
+|align="right"|-47
+|align="right"|10.72 (40.7%)
+|align="right"| 
+|align="right"| 
+
+|-
+|bgcolor="blue"| 
+|[[英国保守党|保守党]]
+|[[迈克尔?霍华德|-{zh-hans:迈克尔?霍华德;zh-hk:夏伟明;zh-tw:麦可?霍华德;}-]]
+|align="right"|630
+|align="right"|166
+|align="right"|162
+|align="right"|197
+|align="right"|+33
+|align="right"|8.36 (31.7%)
+|align="right"| 
+|align="right"| 
+
+|-
+|bgcolor="gold"| 
+|[[英国自由民主党|自由党]]
+|[[查尔斯?肯尼迪]]
+|align="right"|626 {{ref|libdem_seatcount}}
+|align="right"|52
+|align="right"|54
+|align="right"|62
+|align="right"|+11
+|align="right"|4.81 (18.3%)
+|align="right"| 
+|align="right"| 
+
+|-
+|bgcolor=#CC6666| 
+|[[北爱尔兰民主统一党]]
+|[[Ian Paisley]]
+|align="right"|18
+|align="right"|5
+|align="right"|7
+|align="right"|9
+|align="right"|+4
+|align="right"|0.18 (0.7%)
+|align="right"| 
+|align="right"| 
+
+|-
+|bgcolor=#FFFF00 | 
+|[[苏格兰民族党]]
+|[[Alex Salmond]]
+|align="right"|59
+|align="right"|5
+|align="right"|5
+|align="right"|6
+|align="right"|+2
+|align="right"|0.46 (1.8%)
+|align="right"| 
+|align="right"| 
+
+|-
+|bgcolor=#9999ff | 
+|[[Ulster Unionist Party|Ulster Unionist（北爱尔兰统一党）]]
+|[[David Trimble]]
+|align="right"|18
+|align="right"|6
+|align="right"|5
+|align="right"|1
+|align="right"|-5
+|align="right"|0.22 (0.8%)
+|align="right"| 
+|align="right"| 
+
+|-
+|bgcolor=#00CC00 | 
+|[[威尔士民族党]]
+|[[Dafydd Iwan]]
+|align="right"|40
+|align="right"|4
+|align="right"|4
+|align="right"|3
+|align="right"|-1
+|align="right"|0.20 (0.8%)
+|align="right"| 
+|align="right"| 
+
+|-
+|bgcolor="green" | 
+|[[新芬党]]
+|[[格里?亚当斯]]
+|align="right"|16
+|align="right"|4
+|align="right"|4
+|align="right"|5
+|align="right"|+1
+|align="right"|0.18 (0.7%)
+|align="right"| 
+|align="right"| 
+
+|-
+|bgcolor=#99ff99 | 
+|[[英国社会民主工党|SDLP]]
+|[[Mark Durkan]]
+|align="right"|17
+|align="right"|3
+|align="right"|3
+|align="right"|3
+|align="right"|0
+|align="right"|0.17 (0.6%)
+|align="right"| 
+|align="right"| 
+
+|-
+|bgcolor="red" | 
+|[[RESPECT团结联盟|RESPECT]]
+|[[Nick Wrack]]
+|align="right"|26
+|align="center"|—
+|align="right"|0
+|align="right"|1
+|align="right"|+1
+|align="center"|—
+|align="right"| 
+|align="right"| 
+
+|-
+|bgcolor="purple" | 
+|[[英国独立党]]
+|[[Roger Knapman]]
+|align="right"|488
+|align="right"|0
+|align="right"|0
+|align="right"| 
+|align="right"| 
+|align="right"|0.39 (1.5%)
+|align="right"| 
+|align="right"| 
+
+|-
+|bgcolor="green" | 
+|[[英格兰和威尔士绿党|绿党]]
+|两位主讲
+|align="right"|183
+|align="right"|0
+|align="right"|0
+|align="right"| 
+|align="right"| 
+|align="right"|0.16 (0.6%)
+|align="right"| 
+|align="right"| 
+
+|-
+|bgcolor="green" | 
+|[[苏格兰绿党]]
+|两位会议召集人
+|align="right"|19
+|align="right"|0
+|align="right"|0
+|align="right"| 
+|align="right"| 
+|align="right"|<0.01 (<0.0%)
+|align="right"| 
+|align="right"| 
+
+|-
+|bgcolor="red" | 
+|[[苏格兰社会主义者党]]
+|[[Colin Fox]]
+|align="right"|58
+|align="right"|0
+|align="right"|0
+|align="right"| 
+|align="right"| 
+|align="right"|0.07 (0.3%)
+|align="right"| 
+|align="right"| 
+
+|-
+|bgcolor="white" | 
+|[[真理党]]
+|[[Robert Kilroy-Silk]]
+|align="right"|62
+|align="center"|—
+|align="right"|0
+|align="right"| 
+|align="right"| 
+|align="center"|—
+|align="right"| 
+|align="right"| 
+
+|-
+|bgcolor="navy" | 
+|[[英国民族党]]
+|[[Nick Griffin]]
+|align="right"|118
+|align="right"|0
+|align="right"|0
+|align="right"| 
+|align="right"| 
+|align="right"|0.05 (0.2%)
+|align="right"| 
+|align="right"| 
+
+|-
+|bgcolor="gainsboro" | 
+|colspan="2"|无党派 
+|align="right"|155 {{ref|ind_seatcount}}
+|align="right"|1
+|align="right"|4 {{ref|ind}}
+|align="right"| 
+|align="right"| 
+|align="right"|0.13 (0.5%)
+|align="right"| 
+|align="right"| 
+
+|-
+|bgcolor="black" | 
+|colspan="3"|议长 {{ref|Speaker}}
+|align="right"|1
+|align="right"|1
+|align="right"| 
+|align="right"| 
+|align="right"| 
+|align="right"| 
+|align="right"| 
+
+|-
+| colspan="4"|'''共计'''
+| align="right"|'''659'''
+| align="right"|'''659'''
+| align="right"|'''646'''
+| align="right"|'''?13''' {{ref|fewerMPs}}
+| align="right"|'''25.5''' (100.0%)
+| align="right"| 
+| align="right"|'''100.0'''
+|}
+
+=== 注释 ===
+#{{note|before}} [[2005年]][[4月11日]]国会被解散时的议员数。
+#{{note|libdem_seatcount}} 自由民主党宣布他们将在除议长和无党派国会议员所在Wyre Forest和北爱尔兰之外的所有选区推举候选人。
+#{{note|ind_seatcount}} 无党派参选总数。
+#{{note|ind}} 有Richard Taylor，Jonathan Sayeed和Howard Flight（前保守党人，但被取消投票权）以及Paul Marsden（以工党身份当选，2001年12月加入自民党，但在2005年4月退出）。
+#{{note|Speaker}} [[英国下议院议长|议长]]和他的3位副手同样是被选出的议员，但他们并不投票。按照传统，议长在2001年大选以“议长寻求重选”为立场，而副手们则各自为他们的党派而战。尽管议长的竞选从习惯上来说是非竞争性的，但在过去的数十年中，工党总是反对前保守党议长，自由党和其前身反对前保守党议长但不反对前工党议长，威尔士民族党和苏格兰民族党则反对任何党派的议长。 
+#{{note|fewerMPs}} 苏格兰的大选选区界限将在选举时有所变化，因此下议院的席位将减少13个。
+
+== 下议院组成 ==
+2005年大选结束后的下议院将由646名议员组成（由于上述边界变化问题从659名缩减）。因此，上届选举结果必须有所调整，以便用做本次选举各党派表现指南。忽略13名苏格兰席位，并考虑变节和副选（by-elections）席位之后的计算结果显示上届下议院的组成如下：
+
+{| class="prettytable"
+|- style="background-color:#E9E9E9" |
+! colspan="2" | 党派
+!议员数
+!变动
+|-
+|bgcolor="red"| 
+|[[工党 (英国)|工党]]
+|align="center"|403
+|align="center"|?10
+|-
+|bgcolor="navy"| 
+|[[保守党 (英国)|保守党]]
+|align="center"|165
+|align="center"|?1
+|-
+|bgcolor="gold"| 
+|[[自由民主党 (英国)|自由党]]
+|align="center"|51
+|align="center"|?1
+|-
+|bgcolor=#9999ff | 
+|[[:en:Ulster Unionist Party|北爱尔兰统一党]]
+|align="center"|6
+|align="center"|
+|-
+|bgcolor=#CC6666| 
+|[[北爱尔兰民主统一党]]
+|align="center"|5
+|align="center"|
+|-
+|bgcolor=#00CC00 | 
+|[[威尔士民族党]] 
+|align="center"|4
+|align="center"|
+|-
+|bgcolor=#FFFF00 | 
+|[[苏格兰民族党]]
+|align="center"|4
+|align="center"|?1
+|-
+|bgcolor="green" | 
+|[[新芬党]]
+|align="center"|4
+|align="center"|
+|-
+|bgcolor=#99ff99 | 
+|[[英国社会民主工党|社会民主工党]]
+|align="center"|3
+|align="center"|
+|-
+|style="background-color: #999; width: 1px;"| 
+|[[Independent Kidderminster Hospital and Health Concern|Health Concern]]
+|align="center"|1
+|align="center"|
+|}
+
+按上表计算，工党拥有160个绝对多数席位。在大多数国会投票中，社会民主工党倾向于支持工党（因而增加6个绝对多数席位），如果考虑到不出席国会的新芬党席位，工党的绝对多数席位在理论上便成为170。但实际上，160仍为工党的绝对多数席位。
+
+下表为选民转投（Swing）保守党比率所产生的情形：
+*< 6.5 %：工党多数
+*6.5% - 8%：[[悬峙国会]]（Hung parliament），工党少数政府
+*8% - 9.5%：悬峙国会，保守党少数政府
+*> 9.5%：保守党多数
+
+保守党或自由民主党为了组建政府（即在下议院争取到超过半数的席位），他们必须抢夺工党的选票—即使所有保守党的选民转投自由民主党，结果工党仍占有323席的多数党。
+
+以下举例充分显示他们为组建下届政府的艰巨，自由民主党在保守党选票不变的情况下，需要抢夺工党17.8%的选票。更有趣的是据资料显示，自由民主党每抢夺工党1个席位，工党将丢失给保守党4个席位（同样在保守党选票不变情况下）。
+
+据[[BBC]]2005年大选网站：<br />
+10.5%的工党至保守党转投率将使保守党成为绝对多数（14个多数席位）<br />
+24.0%的工党至自由民主党转投率将使自由民主党成为绝对多数（36个多数席位）
+
+== 民意调查 ==
+
+大选活动中几乎每一天都会有由新闻媒体报道的[[民意调查]]，下为最新民意调查一览表。
+{| class="prettytable"
+|- style="background-color:#E9E9E9" |
+!rowspan=2 width="50px"|日期
+!rowspan=2|工党
+!rowspan=2|保守党
+!rowspan=2|自民党
+!rowspan=2|其他
+!colspan=2|工党多数席位
+!rowspan=2|民意调查者
+!rowspan=2|代表
+|- style="background-color:#E9E9E9" |
+!据报道 <sup id="fn_report_back">[[#fn_report|[1]]]</sup>
+!据计算 <sup id="fn_calc_back">[[#fn_calc|[2]]]</sup>
+|- 
+|[[4月3日]]
+|40%
+|34%
+|16%
+|10%
+|colspan=2|~150
+|[[Communicate Research]]
+|''[[周日独立报]]''
+|-
+|[[4月4日]]
+|35%
+|34%
+|22%
+|9%
+|colspan=2|~60
+|[[YouGov]]
+|''[[每日电讯报]]''
+|-
+|rowspan="5"|[[4月5日]]
+|37%
+|34%
+|21%
+|8%
+|colspan=2|~70
+|[[ICM Research|ICM]]
+|''[[卫报]]''
+|-
+|36%
+|33%
+|21%
+|10%
+|colspan=2|~80
+|[[National Opinion Polls|NOP]]
+|''[[独立报]]''
+|-
+|37%
+|35%
+|19%
+|9%
+|colspan=2|~100
+|[[Populus Limited|Populus]]
+|''[[泰晤士报]]''
+|-
+|34%
+|39%
+|21%
+|6%
+|colspan=2|无多数国会
+|[[MORI]]
+|''[[金融时报]]'' <sup id="fn_certain_back">[[#fn_certain|[3]]]</sup>
+|-
+|35%
+|34%
+|22%
+|9%
+|colspan=2|~28
+|YouGov
+|[[天空新闻台]]
+|-
+|[[4月6日]]
+|36%
+|36%
+|21%
+|7%
+|colspan=2|~4
+|YouGov
+|天空新闻台
+|-
+|4月8日
+|36%
+|35%
+|21%
+|8%
+|colspan=2|~60
+|YouGov
+|''每日电讯报''
+|-
+|rowspan="3"|[[4月10日]]
+|40%
+|33%
+|19%
+|8%
+|~138
+|~144
+|MORI
+|''[[观察者]]''
+|-
+|38%
+|34%
+|20%
+|8%
+|~114
+|~110
+|ICM
+|''每日电讯报''
+|-
+|37%
+|35%
+|21%
+|7%
+|~70
+|~86
+|YouGov
+|''[[周日泰晤士报]]''
+|-
+|[[4月11日]]
+|36%
+|36%
+|20%
+|8%
+|~52
+|~44
+|YouGov
+|''每日电讯报''
+|-
+|[[4月12日]]
+|38%
+|32%
+|21%
+|9%
+|~134
+|~136
+|NOP
+|''独立报''
+|-
+|[[4月13日]]
+|39%
+|35%
+|21%
+|5%
+|100+
+|~112
+|MORI
+|''[[:en:Evening Standard|旗帜晚报]]'' <sup id="fn_certain_back">[[#fn_certain|[3]]]</sup>
+|-
+|[[4月14日]]
+|39%
+|33%
+|21%
+|7%
+|120+
+|~136
+|ICM
+|''卫报''
+|-
+|[[4月15日]]
+|38%
+|33%
+|22%
+|7%
+|~116
+|~116
+|YouGov
+|''每日电讯报''
+|-
+|rowspan="4"|[[4月17日]]
+|36%
+|35%
+|23%
+|6%
+|近乎50
+|~58
+|YouGov
+|''周日泰晤士报''
+|-
+|40%
+|34%
+|20%
+|6%
+|
+|~138
+|Communicate Research
+|''周日独立报''
+|-
+|40%
+|30%
+|22%
+|8%
+|~158
+|~158
+|ICM
+|''周日电讯报''
+|-
+|36%
+|33%
+|22%
+|9%
+|
+|~96
+|[[British Polling Index]]
+|''[[周日邮报]]''
+|-
+|[[4月18日]]
+|41%
+|33%
+|20%
+|6%
+|
+|~148
+|ICM
+|''[[每日镜报]]'' / ''[[GMTV]]''
+|-
+|rowspan="4"|[[4月19日]]
+|37%
+|32%
+|21%
+|10%
+|~122
+|~116
+|NOP
+|''独立报''
+|-
+|40%
+|31%
+|21%
+|8%
+|100+
+|~156 
+|Populus
+|''泰晤士报''
+|-
+|36%
+|32%
+|23%
+|9%
+|~92
+|~100
+|YouGov
+|''每日电讯报''
+|-
+|40%
+|32%
+|21%
+|7%
+|~138
+|~146
+|MORI
+|''金融时报''
+|-
+|rowspan="4"|[[4月24日]]
+|37%
+|33%
+|23%
+|7%
+|~80
+|~100
+|YouGov
+|''周日泰晤士报''
+|-
+|39%
+|33%
+|21%
+|7%
+|
+|~136
+|ICM
+|''周日电讯报''
+|-
+|40%
+|35%
+|18%
+|7%
+|
+|~130
+|Communicate Research
+|''周日独立报''
+|-
+|36%
+|33%
+|22%
+|9%
+|
+|~96
+|British Polling Index
+|''周日邮报''
+|-
+|[[4月25日]]
+|37%
+|33%
+|24%
+|6%
+|~100
+|~100
+|YouGov
+|''每日电讯报''
+|-
+|[[4月26日]]
+|40%
+|30%
+|21%
+|9%
+|150+
+|~158
+|NOP
+|''独立报''
+|-
+|[[4月27日]]
+|36%
+|34%
+|23%
+|7%
+|~84
+|~82
+|MORI
+|''金融时报'' <sup id="fn_certain_back">[[#fn_certain|[3]]]</sup>
+|-
+|[[4月28日]]
+|40%
+|33%
+|20%
+|7%
+|120+
+|~144
+|ICM
+|''卫报''
+|-
+|[[4月29日]]
+|36%
+|32%
+|24%
+|8%
+|~100
+|~100
+|YouGov
+|''每日电讯报''
+|-
+|rowspan="5"|5月1日
+|40%
+|30%
+|21%
+|9%
+|~144
+|~144
+|NOP
+|''周日独立报''
+|-
+|39%
+|31%
+|22%
+|8%
+|~140
+|~146
+|ICM
+|''周日电讯报''
+|-
+|36%
+|33%
+|22%
+|9%
+| 
+|~96
+|MORI
+|''观察者'' / ''[[周日镜报]]''
+|-
+|36%
+|33%
+|23%
+|8%
+|~92
+|~96
+|YouGov
+|''周日泰晤士报''
+|-
+|37%
+|34%
+|21%
+|8%
+|~96
+|~100
+|[[Colin Rallings|Colin Rallings]] and [[Michael Thrasher|Michael Thrasher]] <sup id="fn_local_be">[[#fn_local_be|[4]]]</sup>
+|''周日泰晤士报''
+|-
+|[[5月2日]]
+|36%
+|33%
+|24%
+|7%
+| 
+|~96
+|YouGov
+|''每日电讯报''
+|-
+|[[5月3日]]
+|39%
+|29%
+|22%
+|10%
+|~146
+|~162
+|MORI
+|''金融时报'' <sup id="fn_certain_back">[[#fn_certain|[3]]]</sup>
+|-
+|[[5月4日]]
+|37%
+|32%
+|24%
+|7%
+|~124
+|~118
+|''YouGov'' <sup id="fn_certain_back">[[#fn_certain|[3]]]</sup>
+|''每日电讯报''
+|}
+
+=== 注释 ===
+
+<cite id="fn_report">[[#fn_report_back|1：]] </cite> 据报纸文章报道。
+
+<cite id="fn_calc">[[#fn_calc_back|2：]] </cite> 据[http://www.electoralcalculus.co.uk 选举计算网站]的转投率计算。
+
+<cite id="fn_certain">[[#fn_certain_back|3：]] </cite> 仅有那些说自己“一定投”的人。
+
+<cite id="fn_local_be">[[#fn_local_be|4：]] </cite> 并非民意调查，而是根据地方当局副选结果计算得来。
+
+== 外部链接 ==
+
+=== 媒体报道 ===
+
+{{wikinews|UK general election, 2005}}
+
+*[http://news.bbc.co.uk/chinese/simp/hi/in_depth/uk/2005/general_election/default.stm ''BBC'' 2005年英国大选]（中文）
+*[http://www.bbc.co.uk/election2005/ ''BBC'' Election 2005]
+*[http://www.channel4.com/news/microsites/E/election2005/ ''Channel 4'' - Election 2005] 
+*[http://blogs.guardian.co.uk/election2005/index.html ''The Guardian'' Election 2005 weblog]
+*[http://politics.guardian.co.uk/election2005 ''The Guardian'' Politics - Special Report: Election 2005]
+*[http://www.timesonline.co.uk/section/0,,20809,00.html ''The Times'' Election 2005 Log]
+*[http://uk.news.yahoo.com/promo/election05_index.html ''Yahoo!'' News - Election 2005]
+
+=== 大选信息 ===
+
+*[http://www.electoralcalculus.co.uk/ Electoral Calculus: If there were a General Election tomorrow, what would happen?]
+*[http://pollingreport.co.uk/blog/index.php UK Polling Report] - analysis of polls on a day-by-day basis.
+*[http://www.sourcewatch.org/index.php?title=British_General_Election_2005 SourceWatch's article on the 2005 UK general election] - with a focus on the strategists and public relations experts involved in the campaigns of the various parties.
+
+=== 竞选宣言 ===
+<!-- alphabetical order -->
+* 保守党：''[http://www.conservatives.com/tile.do?def=manifesto.index.page The British Dream]''
+* [[英格兰威尔士绿党]]（Green Party of England and Wales）：''[http://manifesto.greenparty.org.uk/ People, Planet, Peace]''
+* 工党：''[http://www.labour.org.uk/manifesto.html Britain: forward not back]''
+* 自由民主党：''[http://www.libdems.org.uk/party/policy/manifesto.html The REAL Alternative]''
+* 苏格兰民族党：''[http://www.snp.org/snpnews/2005/snp_press_release.2005-04-15.0793735679/2005-04-15.2518366405/download Make Scotland Matter]''
+* Plaid Cymru – 威尔士民族党：[http://www.plaidcymru.org/manifesto2003.html To be announced]
+* Respect – The Unity Coalition: [http://www.respectcoalition.org/index.php?sec=39 Policy]
+* 英国独立党（United Kingdom Independence Party）：[http://www.ukip.org/index.php?menu=manifesto&page=manifestotop Manifesto]
+
+=== 网络目录 ===
+*[http://dowire.org/wiki/UK_elections Democracies Online - UK Election 2005 Links Wiki]
+*[http://dmoz.org/Regional/Europe/United_Kingdom/Society_and_Culture/Politics/Elections/2005/ Open Directory Project - UK Election 2005] directory category 
+*[http://www.psr.keele.ac.uk/area/uk/ge05.htm Political Science Resources: UK General Election] Links to manifestos, polls and other sites
+*[http://search.looksmart.com/p/browse/us1/us317836/us552286/us526499/us526505/us10234373/us703545/us675000/us10240196/ LookSmart - UK 2005 General Election] directory category
+
+=== 杂项 ===
+*[http://www.whoshouldyouvotefor.com/ Who should you vote for?] - A tool to show which party's policies most closely match your priorities
+
+[[Category:英国选举]]
+[[Category:2005年英国]]
+[[Category:2005年选举]]
+[[Category:2005年5月]]

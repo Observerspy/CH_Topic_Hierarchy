@@ -1,0 +1,3 @@
+ID	TOPIC	LEVEL	PRE	CHILD	TEXT
+0	2000美国总共选举	1	-1	[]
+

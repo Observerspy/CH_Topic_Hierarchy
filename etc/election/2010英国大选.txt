@@ -1,0 +1,440 @@
+﻿{{noteTA
+|G1=PoliticiansUK
+}}
+{{Infobox Election
+|election_name   = <small>2010年英国大选</small>
+|country         = United Kingdom
+|type            = 国会
+|ongoing         = no<!-- Please don't change this -->
+|previous_election = 2005年英国大选
+|previous_year   = 2005年
+|previous_mps    = 2005年英国大选当选下议员名单
+|next_election   = 2015年英国大选
+|next_year       = 2015
+|next_mps        = <!-- MPs elected in the United Kingdom general election, 56th -->
+|seats_for_election = [[英国下议院|下议院]]全部650席议席
+|majority_seats  = 326
+|election_date   = [[2010年]][[5月6日]]
+
+<!-- Conservative --> 
+|image1          = [[File:David_Cameron_-_World_Economic_Forum_Annual_Meeting_Davos_2010.jpg|96px|戴维?卡梅伦]]   
+|leader1         = [[大卫?卡梅伦]]  
+|leader_since1   = [[2005年]][[12月6日]]  
+|party1          = 保守党 (英国)  
+|leaders_seat1   = 惠特尼
+|last_election1  = 198席、32.3%
+|last_election(boundary changes)1 = 210席  
+|seats_before1   = 210席
+|seats_needed1   = 
+|states_carried1 = 
+|seats1          = 306^
+|seat_change1    = +97
+|popular_vote1   = '''10,703,654'''
+|percentage1     = '''36.1%'''
+|swing1          = {{increase}}3.8%
+
+<!-- Labour -->
+|image2          = [[File:GordonBrown1234_cropped.jpg|100px|白高敦]]
+|leader2         = [[戈登?布朗]]
+|leader_since2   = [[2007年]][[6月24日]]
+|party2          = 工党 (英国)
+|leaders_seat2   = 寇克卡迪及考登比亚夫  
+|last_election2  = 356席、35.3%  
+|last_election(boundary changes)2 =  349席
+|seats_before2   = 349席
+|seats_needed2   = 
+|states_carried2 = 
+|seats2          = 258
+|seat_change2    = -91
+|popular_vote2   = 8,606,517
+|percentage2     = 29.0%
+|swing2          = {{decrease}}6.2%
+
+<!-- Liberal Democrats -->
+|image3          = [[File:NickCleggJune09.jpg|92px|尼克?克莱格]]
+|leader3         = [[尼克?克莱格]]
+|leader_since3   = [[2007年]][[12月18日]]
+|party3          = 自由民主党 (英国)
+|leaders_seat3   = 雪菲尔哈伦
+|last_election(boundary changes)3 = 62 seats
+|last_election3  = 62席、22.1%
+|seats_before3   = 62席
+|seats_needed3   = 
+|states_carried3 = 
+|seats3          = 57
+|seat_change3    = -5
+|popular_vote3   = 6,836,248
+|percentage3     = 23.0%
+|swing3          = {{increase}}1.0%
+| title = 首相
+| posttitle = 继任首相
+| before_election = [[戈登?布朗]]
+| before_party = 工党 (英国)|工党
+| after_election = [[大卫?卡梅伦]]
+| after_party = 保守党 (英国)|保守党
+
+|title           = 
+|posttitle       = 
+|before_election = 白高敦
+|after_election  = 卡梅伦
+|after_party     = 保守党 (英国)
+|map_image       = 2010UKElectionMap.svg
+|map_size        = 400px
+|map_caption     = 各颜色代表获胜的党派（其中蓝色代表[[保守党 (英国)|保守党]]，红色代表[[工党 (英国)|工党]]，暗黄色代表[[自由民主党 (英国)|自由民主党]]）。^不包括议长。
+}}
+
+{| class=infobox style="float:right; margin-left:1em"
+|-
+|[[1997年英国大选|1997年大选]] '''?''' [[1997年英国大选当选下议员名单|议员名单]]
+|-
+|[[2001年英国大选|2001年大选]] '''?''' [[2001年英国大选当选下议员名单|议员名单]]
+|-
+|[[2005年英国大选|2005年大选]] '''?''' [[2005年英国大选当选下议员名单|议员名单]]
+|-
+|2010年大选
+|}
+
+'''2010年英国大选'''（'''United Kingdom general election, 2010'''）于[[2010年]][[5月6日]]举行，全[[英国]]各[[选区]]为新一届[[英国下议院|下议院]]选出全院议员。首相[[白高敦]]于4月12日向[[伊丽莎白二世|英女皇]]提出[[解散国会]]。
+
+根据选区边界委员会对[[英格兰]]、[[韦尔斯]]及[[北爱尔兰]]选区的检讨，新一届下议院议席总数由646席增加至650席，但这个检讨不包括[[苏格兰]]选区，至于苏格兰对上一次的选区边界检讨，则已在[[2005年英国大选|2005年大选]]前夕进行。<ref>{{cite web|url=http://www.boundarycommission.org.uk/pubs/finalrecommendations.pdf|title=Boundary Commission for Northern Ireland|format=PDF}}</ref><ref>{{cite web |url=http://www.ark.ac.uk/elections/gboun07.htm |title=Final Northern Ireland boundary change recommendations}}</ref>
+
+在今次大选，执政[[工党 (英国)|工党]]寻求第四度胜出大选，延续工党自[[1997年]]以来的执政，并趁机会重拾近年不断下滑的民望。<ref>{{cite news |url=http://news.bbc.co.uk/2/hi/uk_news/politics/6236315.stm |title=Brown would 'renew' Labour Party |work=BBC News Online |date=5 January 2007}}</ref>在野[[保守党 (英国)|保守党]]方面则希望籍今次大选，重夺自[[1990年代]]失去的政坛领导地位，寻求击倒工党上台掌政。至于下议院第三大党[[自由民主党 (英国)|自由民主党]]虽然亦以上台掌政为最终目标，但受实力所限，只能设法从两大党的竞争中得益，一旦大选只能组成一个[[悬峙国会|没有多数党的国会]]，该党将可进一步强化其制衡角色。
+
+除三大政党以外，受到[[2007年]][[苏格兰议会]]选举胜出所鼓舞，主张[[苏格兰]]脱离英国独立的[[苏格兰民族党]]亦希望在大选取得20席，以反映他们的政治要求。<ref>{{cite web |url=http://news.scotsman.com/latestnews/Salmond-wants-Westminster-to-39dance.4001458.jp |title=Salmond wants Westminster to 'dance to a Scottish jig' as he targets 20 seats |work=The Scotsman |date=21 April 2008}}</ref>同样地，主张[[韦尔斯]]脱离英国独立的[[韦尔斯党]]也有意在[[韦尔斯]]各选区有更好的表现，苏格兰和韦尔斯的议席由工党占优。另外，不少在地方选举和[[2009年]][[欧洲议会]]选举取得零星议席的[[政党]]，包括[[英国独立党]]、[[英格兰和韦尔斯绿党|绿党]]等，都表态希望在大选分一杯羹。
+
+这次也是[[白高敦]]在[[2007年]]接替宣布辞职的[[贝理雅]]出任[[英国首相]]以来，首次举行的大选，亦是保守党党魁[[戴维?卡梅伦]]与自民党党魁[[尼克?克莱格]]上任以来首个大选。
+
+选举结果，出现自[[1974年]]2月以来首个[[悬峙国会]]，最后保守党与自民党达成协议，组建65年首个和平时期的[[联合政府]]。保守党党魁[[戴维?卡梅伦]]出任首相，自民党党魁[[尼克?克莱格]]出任副首相。卡梅伦成为自利物浦伯爵以来最年轻的英国首相。
+
+==选举结果==
+{| class="sortable prettytable"
+|- style="background-color:#E9E9E9"
+!class="unsortable"|
+!党派
+!党魁
+!竞选人数
+!2005席位
+!之前席位 {{ref|before}}
+!之后席位
+!席位变动
+!2005票数（百万）
+!2005票数百分比
+!2010票数（百万）
+!2010票数百分比
+!票数变动
+|-
+|bgcolor="red"| 
+|[[工党 (英国)|工党]]
+|[[戈登?布朗|-{zh-hans:戈登?布朗;zh-hk:白高敦;zh-tw:戈登?布朗;}-]]
+|align="right"|631
+|align="right"|354
+|align="right"|345
+|align="right"|258
+|align="right"|-87
+|align="right"|9.56
+|align="right"|35.3%
+|align="right"|8.60
+|align="right"|29.1%
+|align="right"|-6.2% 
+
+|-
+|bgcolor="blue"| 
+|[[保守党 (英国)|保守党]]
+|[[戴维?卡梅伦|-{zh-hans:戴维?卡梅伦;zh-hk:卡梅伦;zh-tw:戴维?卡梅伦;}-]]
+|align="right"|631
+|align="right"|196
+|align="right"|193
+|align="right"|306
+|align="right"|+113
+|align="right"|8.77
+|align="right"|32.3%
+|align="right"|10.7
+|align="right"|36.1%
+|align="right"|+3.8% 
+
+|-
+|bgcolor="gold"| 
+|[[自由民主党 (英国)|自由民主党]]
+|[[尼克?克莱格]]
+|align="right"|631
+|align="right"|62
+|align="right"|63
+|align="right"|57
+|align="right"|-6
+|align="right"|5.98
+|align="right"|22.1%
+|align="right"|6.81
+|align="right"|23.0%
+|align="right"|+0.9% 
+
+|-
+|bgcolor=#CC6666| 
+|[[北爱尔兰民主统一党]]
+|[[Ian Paisley]]
+|align="right"|16
+|align="right"|9
+|align="right"|8
+|align="right"|8
+|align="right"|0
+|align="right"|0.24
+|align="right"|0.9%
+|align="right"|0.17
+|align="right"|0.6%
+|align="right"|-0.3% 
+
+|-
+|bgcolor=#FFFF00 | 
+|[[苏格兰民族党]]
+|[[亚历克斯?萨尔蒙德]](Alex Salmond)
+|align="right"|59
+|align="right"|6
+|align="right"|7
+|align="right"|6
+|align="right"|-1
+|align="right"|0.41
+|align="right"|1.5%
+|align="right"|0.49
+|align="right"|1.7%
+|align="right"|+0.2% 
+
+|-
+|bgcolor=#9999ff | 
+|[[:en:Ulster Unionist Party|阿尔斯特统一党]]
+|[[David Trimble]]
+|align="right"|
+|align="right"|1
+|align="right"|
+|align="right"|0
+|align="right"|-1
+|align="right"|0.13
+|align="right"|0.5%
+|align="right"|0.10
+|align="right"|0.3%
+|align="right"|-0.2% 
+
+|-
+|bgcolor=#00CC00 | 
+|[[威尔士民族党]]
+|[[Dafydd Iwan]]
+|align="right"|40 
+|align="right"|3 
+|align="right"|3 
+|align="right"|3 
+|align="right"|0 
+|align="right"|0.17
+|align="right"|0.6%
+|align="right"|0.17
+|align="right"|0.6%
+|align="right"|0% 
+
+|-
+|bgcolor="green" | 
+|[[新芬党]]
+|[[格里?亚当斯]]
+|align="right"|17 
+|align="right"|5
+|align="right"|5 
+|align="right"|5 
+|align="right"|0 
+|align="right"|0.17
+|align="right"|0.6%
+|align="right"|0.17
+|align="right"|0.6%
+|align="right"|0% 
+
+|-
+|bgcolor=#99ff99 | 
+|[[英国社会民主工党|SDLP]]
+|[[Mark Durkan]]
+|align="right"|18 
+|align="right"|3 
+|align="right"|1 
+|align="right"|3 
+|align="right"|+2 
+|align="right"|0.13
+|align="right"|0.5%
+|align="right"|0.11
+|align="right"|0.4%
+|align="right"|-0.1% 
+
+|-
+|bgcolor="red" | 
+|[[RESPECT团结联盟|RESPECT]]
+|[[Nick Wrack]]
+|align="right"|10
+|align="right"|1 
+|align="right"|1 
+|align="right"|0 
+|align="right"|-1 
+|align="right"|0.07
+|align="right"|0.3%
+|align="right"|0.03
+|align="right"|0.1%
+|align="right"|-0.2% 
+
+|-
+|bgcolor="purple" | 
+|[[英国独立党]]
+|[[The Lord Pearson of Rannoch]]
+|align="right"|572 
+|align="right"|0 
+|align="right"|0 
+|align="right"|0 
+|align="right"|0 
+|align="right"|0.60
+|align="right"|2.2%
+|align="right"|0.91
+|align="right"|3.1%
+|align="right"|+0.9% 
+
+|-
+|bgcolor="green" | 
+|[[英格兰和威尔士绿党|绿党]]
+|两位主讲
+|align="right"|310 
+|align="right"|0 
+|align="right"|0 
+|align="right"|1 
+|align="right"|+1 
+|align="right"|0.26
+|align="right"|1.0%
+|align="right"|0.28
+|align="right"|1.0%
+|align="right"|0% 
+
+|-
+|bgcolor="green" | 
+|[[苏格兰绿党]]
+|两位会议召集人
+|align="right"|20 
+|align="right"|0 
+|align="right"|0 
+|align="right"| 
+|align="right"| 
+|align="right"|0.03
+|align="right"|0.1%
+|align="right"| 
+|align="right"| 
+|align="right"|-0.1%
+|-
+|bgcolor="red" | 
+|[[苏格兰社会主义者党]]
+|[[Colin Fox]]
+|align="right"|10
+|align="right"|0
+|align="right"|0
+|align="right"|0 
+|align="right"|0 
+|align="right"|0.04
+|align="right"|0.2%
+|align="right"|0.003
+|align="right"|0.0%
+|align="right"|-0.2% 
+
+|-
+|bgcolor="purple" | 
+|[[真理党]]
+|[[Robert Kilroy-Silk]]
+|align="right"| 
+|align="right"|0 
+|align="right"|0 
+|align="right"|0 
+|align="right"|0 
+|align="right"|0.04
+|align="right"|0.1%
+|align="right"|
+|align="right"| 
+|align="right"|-0.1%
+
+|-
+|bgcolor="navy" | 
+|[[英国国家党]]
+|[[Nick Griffin]]
+|align="right"| 
+|align="right"|0 
+|align="right"|0 
+|align="right"|0 
+|align="right"|0 
+|align="right"|0.19
+|align="right"|0.7%
+|align="right"|0.56
+|align="right"|1.9%
+|align="right"|+1.2% 
+
+|-
+|bgcolor="gainsboro" | 
+|无党派 
+|align="right"| 
+|align="right"| 
+|align="right"|1 
+|align="right"|5 
+|align="right"| 
+|align="right"| 
+|align="right"|0.12
+|align="right"|0.5%
+|align="right"| 
+|align="right"|
+|align="right"|-0.5% 
+
+|-
+|bgcolor="black" | 
+|议长 {{ref|Speaker}}
+|align="right"| 
+|align="right"| 
+|align="right"|4
+|align="right"| 
+|align="right"| 
+|align="right"| 
+|align="right"| 
+|align="right"| 
+|align="right"| 
+|align="right"|
+|align="right"|
+|-
+|bgcolor="gainsboro" | 
+|悬空 
+|align="right"| 
+|align="right"| 
+|align="right"|0
+|align="right"|3 
+|align="right"| 
+|align="right"| 
+|align="right"| 
+|align="right"| 
+|align="right"|
+|align="right"|
+|align="right"| 
+|-class="sortbottom"
+| colspan="4"|'''共计'''
+|align="right"|646 
+|align="right"|646 
+|align="right"|650 {{ref|Thirsk_and_Malton}}
+|align="right"|+4 {{ref|moreMPs}}
+|align="right"|27.1
+|align="right"|100.0%
+|align="right"|29.7
+|align="right"|100.0%
+|align="right"|+2.6 
+|}
+
+英国出现[[1974年]]以来首次[[悬峙国会]]。保守党与自由民主党于5月11日达成协议，组织自1945年来首个联合政府。八名华裔参选人（分别代表保守党、自民党、[[联盟党]]，以及一名独立人士）全军覆没。<ref name="chinese">{{cite news|publisher=[[中央广播电台]]
+|date=2010年5月7日
+|title=英国大选 8名华裔候选人全部落败  
+|url=http://news.rti.org.tw/index_newsContent.aspx?nid=241848&id=5&id2=2
+}}</ref>[[英格兰和韦尔斯绿党]]的[[卡罗琳?卢卡斯]]首度进入下议院，而[[英国国家党]]的唯一议员[[尼克?格里菲斯]]则宣告落败。
+
+== 注释 ==
+
+#{{note|before}} [[2010年]][[4月12日]]国会被解散时的议员数。
+#{{note|Speaker}} [[英国下议院议长|议长]]和他的3位副手同样是被选出的议员，但他们并不投票。
+#{{note|Thirsk_and_Malton}}由于[[英国独立党]]的候选人John Boakes死亡，Thirsk and Malton选区的选举将延至5月27日举行。[[英国独立党]]指基于尊重John Boakes的原因，在5月6日大选完结前不会提名新候选人在该选区参选。<ref>{{cite web |url=http://www.maltonmercury.co.uk/news/Election-delayed-after-the-death.6260395.jp |title=Election delayed after the death of candidate 
+ |work=Malton and Pickering Mercury |date=28 April 2010}}</ref>
+#{{note|moreMPs}} 英格兰的大选选区界限将在选举时有所变化，因此下议院的席位将增加4个。
+
+== 参考数据 ==
+{{reflist|2}}
+
+[[Category:英国选举]]
+[[Category:2010年5月]]
+[[Category:2010年选举]]
+[[Category:2010年英国]]
